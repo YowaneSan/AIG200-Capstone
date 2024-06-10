@@ -1,0 +1,536 @@
+Bone marrow
+A section of bone marrow tissue
+(Prussian blue-stained)
+Details
+System Hematopoietic system,
+immune system,[1] lymphatic
+system
+Identifiers
+Latin
+medulla ossium
+MeSH
+D001853 (https://meshb.nlm.
+nih.gov/record/ui?ui=D00185
+3)
+TA98
+A13.1.01.001 (https://ifaa.unif
+r.ch/Public/EntryPage/TA98%
+20Tree/Entity%20TA98%20E
+N/13.1.01.001%20Entity%20T
+A98%20EN.htm)
+TA2
+388 (https://ta2viewer.openan
+atomy.org/?id=388)
+FMA
+9608 (https://bioportal.bioonto
+logy.org/ontologies/FMA/?p=cl
+asses&conceptid=http%3A%2
+F%2Fpurl.org%2Fsig%2Fon
+t%2Ffma%2Ffma9608)
+Anatomical terminology
+Bone marrow
+Bone marrow is a semi-solid tissue found within the spongy
+(also known as cancellous) portions of bones.[2] In birds and
+mammals, bone marrow is the primary site of new blood cell
+production 
+(or 
+haematopoiesis).[3] 
+It 
+is 
+composed 
+of
+hematopoietic cells, marrow adipose tissue, and supportive
+stromal cells. In adult humans, bone marrow is primarily
+located in the ribs, vertebrae, sternum, and bones of the
+pelvis.[4] Bone marrow comprises approximately 5% of total
+body mass in healthy adult humans, such that a man weighing
+73  kg (161  lbs) will have around 3.7  kg (8  lbs) of bone
+marrow.[5]
+Human marrow produces approximately 500 billion blood cells
+per day, which join the systemic circulation via permeable
+vasculature sinusoids within the medullary cavity.[6] All types
+of hematopoietic cells, including both myeloid and lymphoid
+lineages, are created in bone marrow; however, lymphoid cells
+must migrate to other lymphoid organs (e.g. thymus) in order to
+complete maturation.
+Bone marrow transplants can be conducted to treat severe
+diseases of the bone marrow, including certain forms of cancer
+such as leukemia. Several types of stem cells are related to bone
+marrow. Hematopoietic stem cells in the bone marrow can give
+rise to hematopoietic lineage cells, and mesenchymal stem cells,
+which can be isolated from the primary culture of bone marrow
+stroma, can give rise to bone, adipose, and cartilage tissue.[7]
+The composition of marrow is dynamic, as the mixture of
+cellular and non-cellular components (connective tissue) shifts
+with age and in response to systemic factors. In humans,
+marrow is colloquially characterized as "red" or "yellow"
+marrow (Latin: medulla ossium rubra, Latin: medulla ossium
+flava, 
+respectively) 
+depending 
+on 
+the 
+prevalence 
+of
+hematopoietic cells vs fat cells. While the precise mechanisms
+underlying marrow regulation are not understood,[6] compositional changes occur according to stereotypical
+patterns.[8] For example, a newborn baby's bones exclusively contain hematopoietically active "red"
+marrow, and there is a progressive conversion towards "yellow" marrow with age. In adults, red marrow is
+found mainly in the central skeleton, such as the pelvis, sternum, cranium, ribs, vertebrae and scapulae, and
+Structure
+Bone marrow aspirate showing
+normal "trilineage hematopoiesis":
+myelomonocytic cells (an eosinophil
+myelocyte marked), erythroid cells
+(an orthochromatic erythroblast
+marked), and megakaryocytic cells
+Hematopoietic precursor cells:
+promyelocyte in the center, two
+metamyelocytes next to it and band
+cells from a bone marrow aspirate
+variably found in the proximal epiphyseal ends of long bones such as the femur and humerus. In
+circumstances of chronic hypoxia, the body can convert yellow marrow back to red marrow to increase
+blood cell production.[9]
+At the cellular level, the main functional component of bone
+marrow includes the progenitor cells which are destined to mature
+into blood and lymphoid cells. Human marrow produces
+approximately 500 billion blood cells per day.[10] Marrow contains
+hematopoietic stem cells which give rise to the three classes of
+blood cells that are found in circulation: white blood cells
+(leukocytes), red blood cells (erythrocytes), and platelets
+(thrombocytes).[11]
+Hematopoietic components
+Cellular constitution of the red bone marrow parenchyma[12]
+Group
+Cell type
+Average
+fraction
+Reference
+range
+Myelopoietic
+cells
+Myeloblasts
+0.9
+0.2–1.5
+Promyelocytes
+3.3%
+2.1–4.1
+Neutrophilic myelocytes
+12.7%
+8.2–15.7
+Eosinophilic myelocytes
+0.8%
+0.2–1.3
+Neutrophilic metamyelocytes
+15.9%
+9.6–24.6
+Eosinophilic metamyelocytes
+1.2%
+0.4–2.2
+Neutrophilic band cells
+12.4%
+9.5–15.3
+Eosinophilic band cells
+0.9%
+0.2–2.4
+Segmented neutrophils
+7.4%
+6.0–12.0
+Segmented eosinophils
+0.5%
+0.0–1.3
+Segmented basophils and mast cells
+0.1%
+0.0–0.2
+Erythropoietic
+cells
+Pronormoblasts
+0.6%
+0.2–1.3
+Basophilic normoblasts
+1.4%
+0.5–2.4
+Polychromatic normoblasts
+21.6%
+17.9–29.2
+Orthochromatic normoblast
+2.0%
+0.4–4.6
+Other cell
+types
+Megakaryocytes
+< 0.1%
+0.0-0.4
+Plasma cells
+1.3%
+0.4-3.9
+Reticular cells
+0.3%
+0.0-0.9
+Lymphocytes
+16.2%
+11.1-23.2
+Monocytes
+0.3%
+0.0-0.8
+The stroma of the bone marrow includes all tissue not directly involved in the marrow's primary function of
+hematopoiesis.[6] Stromal cells may be indirectly involved in hematopoiesis, providing a microenvironment
+that influences the function and differentiation of hematopoietic cells. For instance, they generate colony
+stimulating factors, which have a significant effect on hematopoiesis. Cell types that constitute the bone
+marrow stroma include:
+fibroblasts (reticular connective tissue)
+macrophages, which contribute especially to red blood cell production, as they deliver iron
+for hemoglobin production.
+adipocytes (fat cells)
+osteoblasts (synthesize bone)
+osteoclasts (resorb bone)
+Stroma
+endothelial cells, which form the sinusoids. These derive from endothelial stem cells, which
+are also present in the bone marrow.[11]
+That bone marrow is a priming site for T-cell responses to blood-borne antigens was first described in
+2003.[13] Mature circulating naïve T cells home to bone marrow sinuses after they have passed through
+arteries and arterioles.[14] They transmigrate sinus endothelium and enter the parenchyma which contains
+dendritic cells (DCs). These have a capacity of antigen uptake, processing, and presentation.[13] Cognate
+interactions between antigen-specific T cells and antigen-presenting DCs (APCs) in parenchyma lead to
+rapid T-APC cluster formation followed by T cell activation, T cell proliferation and T cell re-circulation to
+blood.[13] These findings were corroborated and extended in 2013 by in situ two-photon dynamic imaging
+of mice skulls.[15]
+Bone marrow is a nest for migratory memory T cells[16] and a sanctuary for plasma cells.[17] This has
+implications for adaptive immunity and vaccinology.[17] Memory B and T cells persist in the parenchyma in
+dedicated survival niches organized by stromal cells.[18] This memory can be maintained over long time
+periods in the form of quiescent cells[18] or by repeated antigenic restimulation.[19] Bone marrow protects
+and optimizes immunological memory during dietary restriction.[20] In cancer patients, cancer-reactive
+memory T cells can arise in bone marrow spontaneously or after specific vaccination.[21] Bone marrow is a
+center of a variety of immune activities: i) hematopoiesis, ii) osteogenesis, iii) immune responses, iv)
+distinction between self and non-self antigens, v) central immune regulatory function, vi) storage of memory
+cells, vii) immune surveillance of the central nervous system, viii) adaptation to energy crisis, ix) provision
+of mesenchymal stem cells for tissue repair. [22]
+The bone marrow stroma contains mesenchymal stem cells (MSCs),[11] which are also known as marrow
+stromal cells. These are multipotent stem cells that can differentiate into a variety of cell types. MSCs have
+been shown to differentiate, in vitro or in vivo, into osteoblasts, chondrocytes, myocytes, marrow
+adipocytes and beta-pancreatic islets cells.
+The blood vessels of the bone marrow constitute a barrier, inhibiting immature blood cells from leaving the
+marrow. Only mature blood cells contain the membrane proteins, such as aquaporin and glycophorin, that
+are required to attach to and pass the blood vessel endothelium.[23] Hematopoietic stem cells may also cross
+the bone marrow barrier, and may thus be harvested from blood.
+Function
+Central hematopoietic and antigen-responsive organ
+Importance for storage and long-term survival of memory B and memory T
+cells
+Mesenchymal stem cells
+Bone marrow barrier
+Lymphatic role
+The red bone marrow is a key element of the lymphatic system, being one of the primary lymphoid organs
+that generate lymphocytes from immature hematopoietic progenitor cells.[24] The bone marrow and thymus
+constitute the primary lymphoid tissues involved in the production and early selection of lymphocytes.
+Furthermore, bone marrow performs a valve-like function to prevent the backflow of lymphatic fluid in the
+lymphatic system.
+Biological compartmentalization is evident within the bone marrow, in that certain cell types tend to
+aggregate in specific areas. For instance, erythrocytes, macrophages, and their precursors tend to gather
+around blood vessels, while granulocytes gather at the borders of the bone marrow.[11]
+People have used animal bone-marrow in cuisine worldwide for millennia, as in the famed Milanese
+Ossobuco.[25]
+The normal bone marrow architecture can be damaged or displaced by aplastic anemia, malignancies such
+as multiple myeloma, or infections such as tuberculosis, leading to a decrease in the production of blood
+cells and blood platelets. The bone marrow can also be affected by various forms of leukemia, which
+attacks its hematologic progenitor cells.[26] Furthermore, exposure to radiation or chemotherapy will kill
+many of the rapidly dividing cells of the bone marrow, and will therefore result in a depressed immune
+system. Many of the symptoms of radiation poisoning are due to damage sustained by the bone marrow
+cells.
+To diagnose diseases involving the bone marrow, a bone marrow aspiration is sometimes performed. This
+typically involves using a hollow needle to acquire a sample of red bone marrow from the crest of the ilium
+under general or local anesthesia.[27]
+Bone marrow derived stem cells have a wide array of application in regenerative medicine.[28]
+Medical imaging may provide a limited amount of information regarding bone marrow. Plain film x-rays
+pass through soft tissues such as marrow and do not provide visualization, although any changes in the
+structure of the associated bone may be detected.[29] CT imaging has somewhat better capacity for
+assessing the marrow cavity of bones, although with low sensitivity and specificity. For example, normal
+fatty "yellow" marrow in adult long bones is of low density (-30 to -100 Hounsfield units), between
+subcutaneous fat and soft tissue. Tissue with increased cellular composition, such as normal "red" marrow
+or cancer cells within the medullary cavity will measure variably higher in density.[30]
+Compartmentalization
+As food
+Clinical significance
+Disease
+Application of stem cells in therapeutics
+Imaging
+A Wright's-stained bone
+marrow aspirate smear
+from a patient with
+leukemia
+MRI is more sensitive and specific for assessing bone composition. MRI enables assessment of the average
+molecular composition of soft tissues and thus provides information regarding the relative fat content of
+marrow. In adult humans, "yellow" fatty marrow is the dominant tissue in bones, particularly in the
+(peripheral) appendicular skeleton. Because fat molecules have a high T1-relaxivity, T1-weighted imaging
+sequences show "yellow" fatty marrow as bright (hyperintense). Furthermore, normal fatty marrow loses
+signal on fat-saturation sequences, in a similar pattern to subcutaneous fat.
+When "yellow" fatty marrow becomes replaced by tissue with more cellular composition, this change is
+apparent as decreased brightness on T1-weighted sequences. Both normal "red" marrow and pathologic
+marrow lesions (such as cancer) are darker than "yellow" marrow on T1-weight sequences, although can
+often be distinguished by comparison with the MR signal intensity of adjacent soft tissues. Normal "red"
+marrow is typically equivalent or brighter than skeletal muscle or intervertebral disc on T1-weighted
+sequences.[8][31]
+Fatty marrow change, the inverse of red marrow hyperplasia, can occur with normal aging,[32] though it
+can also be seen with certain treatments such as radiation therapy. Diffuse marrow T1 hypointensity without
+contrast enhancement or cortical discontinuity suggests red marrow conversion or myelofibrosis. Falsely
+normal marrow on T1 can be seen with diffuse multiple myeloma or leukemic infiltration when the water to
+fat ratio is not sufficiently altered, as may be seen with lower grade tumors or earlier in the disease
+process.[33]
+Bone marrow examination is the pathologic analysis of samples of bone
+marrow obtained via biopsy and bone marrow aspiration. Bone marrow
+examination is used in the diagnosis of a number of conditions, including
+leukemia, multiple myeloma, anemia, and pancytopenia. The bone marrow
+produces the cellular elements of the blood, including platelets, red blood cells
+and white blood cells. While much information can be gleaned by testing the
+blood itself (drawn from a vein by phlebotomy), it is sometimes necessary to
+examine the source of the blood cells in the bone marrow to obtain more
+information on hematopoiesis; this is the role of bone marrow aspiration and
+biopsy.
+The ratio between myeloid series and erythroid cells is relevant to bone
+marrow function, and also to diseases of the bone marrow and peripheral
+blood, such as leukemia and anemia. The normal myeloid-to-erythroid ratio is
+around 3:1; this ratio may increase in myelogenous leukemias, decrease in polycythemias, and reverse in
+cases of thalassemia.[34]
+In a bone marrow transplant, hematopoietic stem cells are removed from a person and infused into another
+person (allogenic) or into the same person at a later time (autologous). If the donor and recipient are
+compatible, these infused cells will then travel to the bone marrow and initiate blood cell production.
+Transplantation from one person to another is conducted for the treatment of severe bone marrow diseases,
+such as congenital defects, autoimmune diseases or malignancies. The patient's own marrow is first killed
+Histology
+Donation and transplantation
+A bone marrow harvest in progress
+The preferred sites for the procedure
+Bone marrow may have first evolved in
+Eusthenopteron, a species of prehistoric
+fish with close links to early tetrapods.
+off with drugs or radiation, and then the new stem cells are
+introduced. Before radiation therapy or chemotherapy in cases of
+cancer, some of the patient's hematopoietic stem cells are sometimes
+harvested and later infused back when the therapy is finished to
+restore the immune system.[35]
+Bone marrow stem cells can be induced to become neural cells to
+treat neurological illnesses,[36] and can also potentially be used for
+the treatment of other illnesses, such as inflammatory bowel
+disease.[37] In 2013, following a clinical trial, scientists proposed
+that bone marrow transplantation could be used to treat HIV in
+conjunction with antiretroviral drugs;[38][39] however, it was later
+found that HIV remained in the bodies of the test subjects.[40]
+The stem cells are typically harvested directly from the red marrow
+in the iliac crest, often under general anesthesia. The procedure is
+minimally invasive and does not require stitches afterwards.
+Depending on the donor's health and reaction to the procedure, the actual harvesting can be an outpatient
+procedure, or can require 1–2 days of recovery in the hospital.[41]
+Another option is to administer certain drugs that stimulate the release of stem cells from the bone marrow
+into circulating blood.[42] An intravenous catheter is inserted into the donor's arm, and the stem cells are
+then filtered out of the blood. This procedure is similar to that used in blood or platelet donation. In adults,
+bone marrow may also be taken from the sternum, while the tibia is often used when taking samples from
+infants.[27] In newborns, stem cells may be retrieved from the umbilical cord.[43]
+Using quantitative Polymerase Chain Reaction (qPCR) and Next-generation Sequencing (NGS) a
+maximum of five DNA viruses per individual have been identified. Included were several herpesviruses,
+hepatitis B virus, Merkel cell polyomavirus, and human papillomavirus 31. Given the reactivation and/or
+oncogenic potential of these viruses, their repercussion on hematopoietic and malignant disorders calls for
+further studies.[44]
+The earliest fossilised evidence of bone marrow was
+discovered in 2014 in Eusthenopteron, a lobe-finned fish
+which lived during the Devonian period approximately 370
+million years ago.[45] Scientists from Uppsala University and
+the European Synchrotron Radiation Facility used X-ray
+synchrotron microtomography to study the fossilised interior
+of the skeleton's humerus, finding organised tubular
+structures akin to modern vertebrate bone marrow.[45]
+Harvesting
+Persistent viruses
+Fossil record
+Eusthenopteron is closely related to the early tetrapods, which ultimately evolved into the land-dwelling
+mammals and lizards of the present day.[45]
+LOC100272216 protein
+Myelonecrosis
+National Marrow Donor Program
+Gift of Life Marrow Registry
+List of distinct cell types in the adult human body
+1. Schmidt, Richard F.; Lang, Florian; Heckmann, Manfred (30 November 2010). What are the
+organs of the immune system? (https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072579/?r
+eport=reader#!po=64.2857). Institute for Quality and Efficiency in Health Care. pp. 3/7.
+2. C., Farhi, Diane (2009). Pathology of bone marrow and blood cells (2nd ed.). Philadelphia:
+Wolters Kluwer Health/Lippincott William & Wilkins. ISBN 9780781770934.
+OCLC 191807944 (https://www.worldcat.org/oclc/191807944).
+3. Arikan, Hüseyin; Çiçek, Kerim (2014). "Haematology of amphibians and reptiles: a review"
+(http://biozoojournals.ro/nwjz/content/v10n1/nwjz_143501_Cicek.pdf) (PDF). North-Western
+Journal of Zoology. 10: 190–209.
+4. Katherine, Abel (2013). Official CPC Certification Study Guide. American Medical
+Association.
+5. Hindorf, C.; Glatting, G.; Chiesa, C.; Lindén, O.; Flux, G. (2010). "EANM Dosimetry
+Committee guidelines for bone marrow and whole-body dosimetry". Eur J Nucl Med Mol
+Imaging. 37 (6): 1238–1250. doi:10.1007/s00259-010-1422-4 (https://doi.org/10.1007%2Fs0
+0259-010-1422-4). PMID 20411259 (https://pubmed.ncbi.nlm.nih.gov/20411259).
+S2CID 9755621 (https://api.semanticscholar.org/CorpusID:9755621).
+6. Birbrair, Alexander; Frenette, Paul S. (1 March 2016). "Niche heterogeneity in the bone
+marrow" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4938003). Annals of the New York
+Academy of Sciences. 1370 (1): 82–96. Bibcode:2016NYASA1370...82B (https://ui.adsabs.h
+arvard.edu/abs/2016NYASA1370...82B). doi:10.1111/nyas.13016 (https://doi.org/10.1111%2
+Fnyas.13016). ISSN 1749-6632 (https://www.worldcat.org/issn/1749-6632). PMC 4938003
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4938003). PMID 27015419 (https://pubmed.n
+cbi.nlm.nih.gov/27015419).
+7. Lindberg, Matthew R.; Lamps, Laura W. (2018). "Bone Marrow". Diagnostic Pathology:
+Normal Histology. pp. 130–137. doi:10.1016/B978-0-323-54803-8.50035-8 (https://doi.org/1
+0.1016%2FB978-0-323-54803-8.50035-8). ISBN 9780323548038.
+8. Chan, Brian Y.; Gill, Kara G.; Rebsamen, Susan L.; Nguyen, Jie C. (1 October 2016). "MR
+Imaging of Pediatric Bone Marrow". RadioGraphics. 36 (6): 1911–1930.
+doi:10.1148/rg.2016160056 (https://doi.org/10.1148%2Frg.2016160056). ISSN 0271-5333 (h
+ttps://www.worldcat.org/issn/0271-5333). PMID 27726743 (https://pubmed.ncbi.nlm.nih.gov/2
+7726743).
+9. Poulton, T B; Murphy, W D; Duerk, J L; Chapek, C C; Feiglin, D H (1 December 1993). "Bone
+marrow reconversion in adults who are smokers: MR Imaging findings". American Journal of
+Roentgenology. 161 (6): 1217–1221. doi:10.2214/ajr.161.6.8249729 (https://doi.org/10.221
+4%2Fajr.161.6.8249729). ISSN 0361-803X (https://www.worldcat.org/issn/0361-803X).
+PMID 8249729 (https://pubmed.ncbi.nlm.nih.gov/8249729).
+See also
+References
+10. Nombela-Arrieta, Cesar; G. Manz, Markus (2017). "Quantification and three-dimensional
+microanatomical organization of the bone marrow" (https://www.ncbi.nlm.nih.gov/pmc/article
+s/PMC5738992). Blood Advances. 1 (6): 407–416. doi:10.1182/bloodadvances.2016003194
+(https://doi.org/10.1182%2Fbloodadvances.2016003194). PMC 5738992 (https://www.ncbi.n
+lm.nih.gov/pmc/articles/PMC5738992). PMID 29296956 (https://pubmed.ncbi.nlm.nih.gov/29
+296956).
+11. Raphael Rubin & David S. Strayer (2007). Rubin's Pathology: Clinicopathologic
+Foundations of Medicine (https://books.google.com/books?id=kD9VZ267wDEC). Lippincott
+Williams & Wilkins. p. 90. ISBN 978-0-7817-9516-6.
+12. Appendix A:IV (http://www.msd.com.mx/secure/ebooks/WintrobesClinicalHematology/sid426
+6054.html) in Wintrobe's clinical hematology (9th edition). Philadelphia: Lea & Febiger
+(1993).
+13. Feuerer, Markus; Beckhove, Philipp; Garbi, Natalio (10 August 2003). "Bone marrow as a
+priming site for T-cell responses to blood-borne antigen". Nature Medicine (9): 1151–1157.
+14. Mazo, I.B.; von Adrian, U.H. (1999). "Adhesion and homing of blood-borne cells in bone
+marrow microvessels". Journal of Leukocyte Biology. 66 (1): 25–32.
+15. Milo, Idan; Sapoznikov, Anita; Kalchenko, Vyacheslav (2013). "Dynamic imaging reveals
+promiscuous crosspresentation of blood-borne antigens to naïve CD8+ T cells in the bone
+marrow". Blood. 122 (2): 193–208.
+16. Di Rosa, Francesca; Pabst, Reinhard (2005). "The bone marrow: A nest for migratory
+memory T cells". Trends in Immunology. 26 (7): 360–366.
+17. Salaming, Stephan A.; Nolte, Martijn A. "The bone marrow as sanctuary for plasma cells and
+memory T-cells: Implications for adaptive immunity and vaccinology". Cells. 10 (6): 1508.
+18. Chang, Hyun-Dong; Radbruch, Andreas (19 May 2021). "Maintenance of quiescent immune
+memory in the bone marrow". European Journal of Immunology. 51: 1592–1601.
+19. Mahnke, Yolanda; Schwendemann, Jochen; Beckhove, Philipp; Schirrmacher, Volker (9
+June 2005). "Maintenance of long-term tumour-specific T-cell memory by residual dormant
+tumour cells". Immunology. 115 (3): 325–336.
+20. Collins, Nicolas; Han, Seong-Ji; Enamorado, Michel (22 August 2019). "The bone marrow
+protects and optimizes immunological memory during dietary restriction". Cell. 178 (5):
+1088–1101.
+21. Schirrmacher, Volker (12 October 2015). "Cancer-reactive memory T cells from bone
+marrow: Spontaneous induction and therapeutic potential (Review)". International Journal of
+Oncology. 47: 2005–2016.
+22. Schirrmacher, Volker (2023). "Bone marrow: The central immune system". Immuno. 3 (3):
+289–329.
+23. "The Red Cell Membrane: structure and pathologies" (http://www.acbd.monash.org/docs/red-
+cell-membrane.pdf) (PDF). Australian Centre for Blood Diseases/Monash University.
+Retrieved 24 January 2015.
+24. The Lymphatic System (http://allonhealth.com/health-news/par-lymphatic-system.htm).
+Allonhealth.com. Retrieved 5 December 2011.
+25. Fabricant, Florence. "Begging for Bones: A New Craving for Marrow". The New York Times.
+16 September 1998.
+26. Bonnet, D; Dick, JE (1997). "Human acute myeloid leukemia is organized as a hierarchy that
+originates from a primitive hematopoietic cell". Nature Medicine. 3 (7): 730–737.
+doi:10.1038/nm0797-730 (https://doi.org/10.1038%2Fnm0797-730). PMID 9212098 (https://p
+ubmed.ncbi.nlm.nih.gov/9212098). S2CID 205381050 (https://api.semanticscholar.org/Corpu
+sID:205381050).
+27. "Bone Marrow Aspiration and Biopsy" (http://www.labtestsonline.org.uk/understanding/analyt
+es/bone-marrow/tab/sample). Lab Tests Online UK. Retrieved 16 February 2013.
+28. Mahla RS (2016). "Stem cells application in regenerative medicine and disease threpeutics"
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4969512). International Journal of Cell
+Biology. 2016 (7): 1–24. doi:10.1155/2016/6940283 (https://doi.org/10.1155%2F2016%2F69
+40283). PMC 4969512 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4969512).
+PMID 27516776 (https://pubmed.ncbi.nlm.nih.gov/27516776).
+29. Ellmann, Stephan; Beck, Michael; Kuwert, Torsten; Uder, Michael; Bäuerle, Tobias (2015).
+"Multimodal imaging of bone metastases: From preclinical to clinical applications" (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC5986987). Journal of Orthopaedic Translation. 3 (4):
+166–177. doi:10.1016/j.jot.2015.07.004 (https://doi.org/10.1016%2Fj.jot.2015.07.004).
+PMC 5986987 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986987). PMID 30035055 (h
+ttps://pubmed.ncbi.nlm.nih.gov/30035055).
+30. Nishida, Y; Matsue, Y; Suehara, Y; Fukumoto, K; Fujisawa, M; Takeuchi, M; Ouchi, E;
+Matsue, K (August 2015). "Clinical and prognostic significance of bone marrow
+abnormalities in the appendicular skeleton detected by low-doe whole-body multidetector
+computed tomography in patients with multiple myeloma" (https://www.ncbi.nlm.nih.gov/pmc/
+articles/PMC4526783). Blood Cancer Journal. 5 (7): e329. doi:10.1038/bcj.2015.57 (https://d
+oi.org/10.1038%2Fbcj.2015.57). ISSN 2044-5385 (https://www.worldcat.org/issn/2044-538
+5). PMC 4526783 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526783).
+PMID 26230953 (https://pubmed.ncbi.nlm.nih.gov/26230953).
+31. Poulton, TB; Murphy, WD; Duerk, JL; Chapek, CC; Feiglin, DH (December 1993). "Bone
+marrow reconversion in adults who are smokers: MR Imaging findings". AJR. American
+Journal of Roentgenology. 161 (6): 1217–21. doi:10.2214/ajr.161.6.8249729 (https://doi.org/1
+0.2214%2Fajr.161.6.8249729). PMID 8249729 (https://pubmed.ncbi.nlm.nih.gov/8249729).
+32. Shah, LM; Hanrahan, CJ (December 2011). "MRI of spinal bone marrow: part I, techniques
+and normal age-related appearances". AJR. American Journal of Roentgenology. 197 (6):
+1298–308. doi:10.2214/ajr.11.7005 (https://doi.org/10.2214%2Fajr.11.7005).
+PMID 22109283 (https://pubmed.ncbi.nlm.nih.gov/22109283). S2CID 20115888 (https://api.s
+emanticscholar.org/CorpusID:20115888).
+33. Vande Berg, BC; Lecouvet, FE; Galant, C; Maldague, BE; Malghem, J (July 2005). "Normal
+variants and frequent marrow alterations that simulate bone marrow lesions at MR imaging".
+Radiologic Clinics of North America. 43 (4): 761–70, ix. doi:10.1016/j.rcl.2005.01.007 (https://
+doi.org/10.1016%2Fj.rcl.2005.01.007). PMID 15893536 (https://pubmed.ncbi.nlm.nih.gov/15
+893536).
+34. "Definition: 'M:E Ratio' " (https://web.archive.org/web/20130510180720/http://www.medilexic
+on.com/medicaldictionary.php?t=75938). Stedman's Medical Dictionary via
+MediLexicon.com. 2006. Archived from the original (http://www.medilexicon.com/medicaldicti
+onary.php?t=75938) on 10 May 2013. Retrieved 20 December 2012.
+35. "Bone marrow transplantation" (http://www.uptodate.com/contents/bone-marrow-transplantati
+on-stem-cell-transplantation-beyond-the-basics). UpToDate.com. Retrieved 12 April 2014.
+36. "Antibody Transforms Stem Cells Directly into Brain Cells" (https://www.sciencedaily.com/rel
+eases/2013/04/130422154756.htm). Science Daily. 22 April 2013. Retrieved 24 April 2013.
+37. "Research Supports Promise of Cell Therapy for Bowel Disease" (https://web.archive.org/we
+b/20170808163534/http://www.wakehealth.edu/News-Releases/2013/Research_Supports_
+Promise_of_Cell_Therapy_for_Bowel_Disease.htm). Wake Forest Baptist Medical Center.
+28 February 2013. Archived from the original (http://www.wakehealth.edu/News-Releases/20
+13/Research_Supports_Promise_of_Cell_Therapy_for_Bowel_Disease.htm) on 8 August
+2017. Retrieved 5 March 2013.
+38. "Bone marrow 'frees men of HIV drugs' " (https://www.bbc.co.uk/news/health-23132561).
+BBC. 3 July 2013. Retrieved 3 July 2013.
+39. "Stem-Cell Transplants Erase HIV in Two Men" (http://www.popsci.com/science/article/2013-
+07/stem-cell-transplants-erase-hiv-two-men). PopSci. 3 July 2013. Retrieved 3 July 2013.
+40. "HIV Returns in Two Men Thought 'Cured' by Bone Marrow Transplants" (http://rhrealitychec
+k.org/article/2013/12/10/hiv-returns-in-two-men-thought-cured-by-bone-marrow-transplants/).
+RH Reality Check. 10 December 2013. Retrieved 10 December 2013.
+41. National Marrow Donor Program Donor Guide (http://www.marrow.org/DONOR/When_You_r
+e_Asked_to_Donate_fo/index.html) Archived (https://web.archive.org/web/20080908124705/
+http://www.marrow.org/DONOR/When_You_re_Asked_to_Donate_fo/index.html) 8
+September 2008 at the Wayback Machine. Marrow.org. Retrieved 5 November 2012.
+42. Bone marrow donation: What to expect when you donate (http://www.mayoclinic.com/health/
+bone-marrow/CA00047). Mayo Clinic. Retrieved 16 February 2013.
+43. McGuckin, C. P.; Forraz, N.; Baradez, M. -O.; Navran, S.; Zhao, J.; Urban, R.; Tilton, R.;
+Denner, L. (2005). "Production of stem cells with embryonic characteristics from human
+umbilical cord blood" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6496335). Cell
+Proliferation. 38 (4): 245–255. doi:10.1111/j.1365-2184.2005.00346.x (https://doi.org/10.111
+1%2Fj.1365-2184.2005.00346.x). PMC 6496335 (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6496335). PMID 16098183 (https://pubmed.ncbi.nlm.nih.gov/16098183).
+44. Toppinen, Mari; Sajantila, Antti; Pratas, Diogo; Hedman, Klaus; Perdomo, Maria F. (2021).
+"The Human Bone Marrow Is Host to the DNAs of Several Viruses" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC8100435). Front. Cell. Infect. Microbiol. 11: 657245.
+doi:10.3389/fcimb.2021.657245 (https://doi.org/10.3389%2Ffcimb.2021.657245).
+PMC 8100435 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8100435). PMID 33968803 (h
+ttps://pubmed.ncbi.nlm.nih.gov/33968803).
+45. Sanchez, S.; Tafforeau, P.; Ahlberg, P. E. (2014). "The humerus of Eusthenopteron: a
+puzzling organization presaging the establishment of tetrapod limb bone marrow" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC3973280). Proceedings of the Royal Society B:
+Biological Sciences. 281 (1782): 20140299. doi:10.1098/rspb.2014.0299 (https://doi.org/10.1
+098%2Frspb.2014.0299). PMC 3973280 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC397
+3280). PMID 24648231 (https://pubmed.ncbi.nlm.nih.gov/24648231).
+Nature Bone Marrow Transplantation (http://www.nature.com/bmt/index.html) (Nature
+Publishing Group) – specialist scientific journal with articles on bone marrow biology and
+clinical uses.
+Cooper, B (2011). "The origins of bone marrow as the seedbed of our blood: from antiquity to
+the time of Osler" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069519). Baylor
+University Medical Center Proceedings. 24 (2): 115–8.
+doi:10.1080/08998280.2011.11928697 (https://doi.org/10.1080%2F08998280.2011.119286
+97). PMC 3069519 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069519).
+PMID 21566758 (https://pubmed.ncbi.nlm.nih.gov/21566758).
+Wang J, Liu X, Lu H, Jiang C, Cui X, Yu L, Fu X, Li Q, Wang J (2015). "CXCR4(+)CD45(-)
+BMMNC subpopulation is superior to unfractionated BMMNCs for protection after ischemic
+stroke in mice" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4342301). Brain Behav.
+Immun. 45: 98–108. doi:10.1016/j.bbi.2014.12.015 (https://doi.org/10.1016%2Fj.bbi.2014.12.
+Further reading
+015). PMC 4342301 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4342301).
+PMID 25526817 (https://pubmed.ncbi.nlm.nih.gov/25526817).
+Bone marrow histology photomicrographs (http://www.histology-world.com/photoalbum/thum
+bnails.php?album=65)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Bone_marrow&oldid=1223980736"
+External links
