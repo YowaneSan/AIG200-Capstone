@@ -1,0 +1,161 @@
+Stratum corneum
+Histologic image of human epidermis in
+thick skin
+Details
+Identifiers
+Latin
+stratum corneum epidermidis
+Anatomical terminology
+Sampling of human stratum corneum
+using a tape-stripping method[1]
+Stratum corneum
+The stratum corneum (Latin for 'horny layer') is the outermost
+layer of the epidermis. Consisting of dead tissue, it protects
+underlying tissue from infection, dehydration, chemicals and
+mechanical stress. It is composed of 15–20 layers of flattened
+cells with no nuclei and cell organelles.
+Among its properties are mechanical shear, impact resistance,
+water flux and hydration regulation, microbial proliferation and
+invasion regulation, initiation of inflammation through cytokine
+activation and dendritic cell activity, and selective permeability
+to exclude toxins, irritants, and allergens.[2] The cytoplasm of
+its cells shows filamentous keratin. These corneocytes are
+embedded in a lipid matrix composed of ceramides, cholesterol,
+and fatty acids.[3]
+Desquamation is the process of cell shedding from the surface
+of the stratum corneum, balancing proliferating keratinocytes
+that form in the stratum basale. These cells migrate through the
+epidermis towards the surface in a journey that takes
+approximately fourteen days.[4]
+The human stratum corneum comprises several levels of
+flattened corneocytes that are divided into two layers: the
+stratum disjunctum and stratum compactum. The skin's
+protective acid mantle and lipid barrier sit on top of the stratum
+disjunctum.[5] The stratum disjunctum is the uppermost and loosest
+layer of skin. The stratum compactum is the comparatively deeper,
+more compacted and more cohesive part of the stratum corneum.[6]
+The corneocytes of the stratum disjunctum are larger, more rigid
+and more hydrophobic than those of the stratum compactum.[7]
+Research on osmotic permeability suggests the stratum compactum
+consists of two layers. The stratum disjunctum above these layers
+can swell, as can the lowest layer of the stratum disjunctum (two-
+fold). However, the first layer in the stratum compactum between
+them has limited swelling capacity and provides the stratum
+corneum's barrier.[8]
+Structure
+Function
+During cornification, the process whereby living keratinocytes are transformed into non-living corneocytes,
+the cell membrane is replaced by a layer of ceramides which become covalently linked to an envelope of
+structural proteins (the cornified envelope).[4]permeabilitys complex surrounds cells in the stratum corneum
+and contributes to the skin's barrier function. Corneodesmosomes (modified desmosomes) facilitate cellular
+adhesion by linking adjacent cells within this epidermal layer. These complexes are degraded by proteases,
+eventually permitting cells to be shed at the surface. Desquamation and formation of the cornified envelope
+are both required for the maintenance of skin homeostasis. A failure to correctly regulate these processes
+leads to skin disorders developing.[4]
+Cells of the stratum corneum contain a dense network of keratin, a protein that helps keep the skin hydrated
+by preventing water evaporation. These cells can also absorb water, further aiding in hydration. In addition,
+this layer is responsible for the "spring back" or stretchy properties of skin. A weak glutenous protein bond
+pulls the skin back to its natural shape.
+The thickness of the stratum corneum varies throughout the body. In the palms of the hands and the soles of
+the feet (sometimes knees, elbows,[9] knuckles,) this layer is stabilized and built by the stratum lucidum
+(clear phase) which allows the cells to concentrate keratin and toughen them before they rise into a typically
+thicker, more cohesive SC. The mechanical stress of heavy structural strain causes this SL phase in these
+regions which require additional protection in order to grasp objects, resist abrasion or impact, and avoid
+injury. In general, the stratum corneum contains 15 to 20 layers of corneocytes. The stratum corneum has a
+thickness between 10 and 40 μm.
+In reptiles, the stratum corneum is permanent, and is replaced only during times of rapid growth, in a
+process called ecdysis or moulting. This is conferred by the presence of beta-keratin, which provides a
+much more rigid skin layer.
+In the human forearm, about 1300 cells per cm2 per hour are shed.[10] Stratum corneum protects the internal
+structures of the body from external injury and bacterial invasion.
+An inability to correctly maintain the skin barrier function due to the dysregulation of epidermal
+components can lead to skin disorders. For example, a failure to modulate the activity of kallikreins via the
+disruption of the protease inhibitor LEKTI causes the debilitating disorder Netherton syndrome.[11]
+Hyperkeratosis is an increased thickness of the stratum corneum, and is an unspecific finding, seen in many
+skin conditions.
+Epidermis (skin)
+Hexastix
+Kallikrein-5
+Peeling skin syndrome
+Stratum granulosum
+Skin disease
+See also
+Micrograph showing prominent
+hyperkeratosis in skin without atypia.
+H&E stain.
+Stratum spinosum
+1. Sadowski T, Klose C, Gerl MJ, Wójcik-Maciejewicz A,
+Herzog R, Simons K, Reich A, Surma MA (2017). "Large-
+scale human skin lipidomics by quantitative, high-
+throughput shotgun mass spectrometry" (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC5339821). Scientific
+Reports. 7: 43761. Bibcode:2017NatSR...743761S (http
+s://ui.adsabs.harvard.edu/abs/2017NatSR...743761S).
+doi:10.1038/srep43761 (https://doi.org/10.1038%2Fsrep4
+3761). PMC 5339821 (https://www.ncbi.nlm.nih.gov/pmc/
+articles/PMC5339821). PMID 28266621 (https://pubmed.
+ncbi.nlm.nih.gov/28266621).
+2. Del Rosso, James Q.; Levin, Jacqueline (2011). "The
+Clinical Relevance of Maintaining the Functional
+Integrity of the Stratum Corneum in both Healthy and
+Disease-affected Skin" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC3175800). The Journal of Clinical and
+Aesthetic Dermatology. 4 (9): 22–42. ISSN 1941-2789 (ht
+tps://www.worldcat.org/issn/1941-2789). PMC 3175800
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC317580
+0). PMID 21938268 (https://pubmed.ncbi.nlm.nih.gov/219
+38268).
+3. Mitra, Ashim K.; Kwatra, Deep; Vadlapudi, Aswani Dutt
+(2015). Drug Delivery. Burlington, MA: Jones & Bartlett
+Learning. pp. 285–286. ISBN 978-1-284-02568-2.
+4. Ovaere P; Lippens S; Vandenabeele P; Declercq W.
+(2009). "The emerging roles of serine protease cascades
+in the epidermis". Trends in Biochemical Sciences. 34
+(9): 453–463. doi:10.1016/j.tibs.2009.08.001 (https://doi.o
+rg/10.1016%2Fj.tibs.2009.08.001). PMID 19726197 (http
+s://pubmed.ncbi.nlm.nih.gov/19726197).
+5. Kuo, Shu-Hua; Shen, Ching-Ju; Shen, Ching-Fen;
+Cheng, Chao-Min (February 2020). "Role of pH Value in
+Clinically Relevant Diagnosis" (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC7167948). Diagnostics. 10 (2): 107.
+doi:10.3390/diagnostics10020107 (https://doi.org/10.339
+0%2Fdiagnostics10020107). PMC 7167948 (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC7167948).
+PMID 32079129 (https://pubmed.ncbi.nlm.nih.gov/32079
+129).
+6. Murphrey, Morgan B.; Miao, Julia H.; Zito, Patrick M.
+(2021), "Histology, Stratum Corneum" (http://www.ncbi.nl
+m.nih.gov/books/NBK513299/), StatPearls, Treasure
+Island (FL): StatPearls Publishing, PMID 30020671 (http
+s://pubmed.ncbi.nlm.nih.gov/30020671), retrieved
+2021-07-18
+References
+7. Matsui, Takeshi; Amagai, Masayuki (2015-03-26). "Dissecting the formation, structure and
+barrier function of the stratum corneum" (https://doi.org/10.1093%2Fintimm%2Fdxv013).
+International Immunology. 27 (6): 269–280. doi:10.1093/intimm/dxv013 (https://doi.org/10.10
+93%2Fintimm%2Fdxv013). ISSN 0953-8178 (https://www.worldcat.org/issn/0953-8178).
+PMID 25813515 (https://pubmed.ncbi.nlm.nih.gov/25813515).
+8. Richter, T.; Peuckert, C.; Sattler, M.; Koenig, K.; Riemann, I.; Hintze, U.; Wittern, K.-P.;
+Wiesendanger, R.; Wepf, R. (2004). "Dead but Highly Dynamic – The Stratum corneum Is
+Divided into Three Hydration Zones". Skin Pharmacology and Physiology. 17 (5): 246–257.
+doi:10.1159/000080218 (https://doi.org/10.1159%2F000080218). ISSN 1660-5527 (https://w
+ww.worldcat.org/issn/1660-5527). PMID 15452411 (https://pubmed.ncbi.nlm.nih.gov/154524
+11).
+9. Dr. Raelene V. Shippee-Rice (2011-11-14). Gerioperative Nursing Care: Principles and
+Practices of Surgical Care (https://books.google.com/books?id=UQYijNvyKBEC&pg=PA32
+2). Springer. p. 322. ISBN 9780826104717.
+10. Carlson, Bruce M. (2018-11-30). Human Embryology and Developmental Biology (https://bo
+oks.google.com/books?id=iyx6DwAAQBAJ). Elsevier Health Sciences. p. 178. ISBN 978-0-
+323-66144-7.
+11. Descargues P, Deraison C, Bonnart C, Kreft M, Kishibe M, Ishida-Yamamoto A, Elias P,
+Barrandon Y, Zambruno G, Sonnenberg A, Hovnanian A (Jan 2005). "Spink5-deficient mice
+mimic Netherton syndrome through degradation of desmoglein 1 by epidermal protease
+hyperactivity". Nat Genet. 37 (1): 56–65. doi:10.1038/ng1493 (https://doi.org/10.1038%2Fng1
+493). PMID 15619623 (https://pubmed.ncbi.nlm.nih.gov/15619623). S2CID 11404025 (http
+s://api.semanticscholar.org/CorpusID:11404025).
+MedEd at Loyola medicine/dermatology/melton/skinlsn/stcorn.htm (http://www.meddean.luc.
+edu/Lumen/MedEd/medicine/dermatology/melton/skinlsn/stcorn.htm)
+Histology image: 08422loa (https://www.bu.edu/phpbin/medlib/histology/p/08422loa.htm) –
+Histology Learning System at Boston University - "Integument: thick skin"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Stratum_corneum&oldid=1214573983"
+External links
