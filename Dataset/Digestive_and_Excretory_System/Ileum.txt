@@ -1,0 +1,217 @@
+Ileum
+Small intestine
+The cecal fossa. The ileum and cecum
+are drawn backward and upward.
+Details
+Precursor Midgut
+Artery
+Ileal arteries, ileocolic
+artery
+Vein
+Ileal veins
+Nerve
+Celiac ganglia, vagus[1]
+Identifiers
+Latin
+ileum
+MeSH
+D007082 (https://meshb.nl
+m.nih.gov/record/ui?ui=D00
+7082)
+TA98
+A05.6.04.001 (https://ifaa.u
+nifr.ch/Public/EntryPage/TA
+98%20Tree/Entity%20TA9
+8%20EN/05.6.04.001%20E
+ntity%20TA98%20EN.htm)
+Ileum
+The ileum (/ˈɪliəm/) is the final section of the small intestine in
+most higher vertebrates, including mammals, reptiles, and birds.
+In fish, the divisions of the small intestine are not as clear and
+the terms posterior intestine or distal intestine may be used
+instead of ileum.[2] Its main function is to absorb vitamin B12,
+bile salts, and whatever products of digestion that were not
+absorbed by the jejunum.
+The ileum follows the duodenum and jejunum and is separated
+from the cecum by the ileocecal valve (ICV). In humans, the
+ileum is about 2–4 m long, and the pH is usually between 7 and
+8 (neutral or slightly basic).
+Ileum is derived from the Greek word εἰλεός (eileós), referring
+to a medical condition known as ileus.
+The ileum is the third and final part of the small intestine. It
+follows the jejunum and ends at the ileocecal junction, where
+the terminal ileum communicates with the cecum of the large
+intestine through the ileocecal valve. The ileum, along with the
+jejunum, is suspended inside the mesentery, a peritoneal
+formation that carries the blood vessels supplying them (the
+superior mesenteric artery and vein), lymphatic vessels and
+nerve fibers.[3]
+There is no line of demarcation between the jejunum and the
+ileum. There are, however, subtle differences between the
+two:[3]
+The ileum has more fat inside the mesentery than the
+jejunum.
+The diameter of its lumen is smaller and has thinner
+walls than the jejunum.
+Its circular folds are smaller and absent in the
+terminal part of the ileum.
+While the length of the intestinal tract contains
+lymphoid tissue, only the ileum has abundant Peyer's
+patches, unencapsulated lymphoid nodules that
+Structure
+TA2
+2959 (https://ta2viewer.ope
+nanatomy.org/?id=2959)
+FMA
+7208 (https://bioportal.bioo
+ntology.org/ontologies/FM
+A/?p=classes&conceptid=ht
+tp%3A%2F%2Fpurl.org%2
+Fsig%2Font%2Ffma%2Ffm
+a7208)
+Anatomical terminology
+contain large numbers of lymphocytes and other cells
+of the immune system.
+The four layers that make up the wall of the ileum are
+consistent with those of the gastrointestinal tract. From the inner
+to the outer surface, these are:[4]: 
+589 
+A mucous membrane, itself formed by three different
+layers:
+A single layer of tall cells that line the lumen of the organ. The epithelium that forms the
+innermost part of the mucosa has five distinct types of cells that serve different purposes:
+enterocytes with microvilli, which digest and absorb nutrients; goblet cells, which secrete
+mucin, a substance that lubricates the wall of the organ; Paneth cells, most common in
+the terminal part of the ileum, are only found at the bottom of the intestinal glands and
+release antimicrobial substances such as alpha defensins and lysozyme;[5] microfold
+cells, which take up and transport antigens from the lumen to lymphatic cells of the
+lamina propria; and enteroendocrine cells, which secrete hormones.
+An underlying lamina propria composed of loose connective tissue and containing
+germinal centers and large aggregates of lymphoid tissue called Peyer's patches, which
+are a distinctive feature of the ileum.[4]: 
+589 
+A thin layer of smooth muscle called muscularis mucosae
+A submucosa formed by dense irregular connective tissue that carries the larger blood
+vessels and a nervous component called submucosal plexus, which is part of the enteric
+nervous system
+An external muscular layer formed by two layers of smooth muscle arranged in circular
+bundles in the inner layer and in longitudinal bundles in the outer layer. Between the two
+layers is the myenteric plexus, formed by nervous tissue and also a part of the enteric
+nervous system.
+A serosa composed of mesothelium, a single layer of flat cells with varying quantities of
+underlying connective and adipose tissue. This layer represents the visceral peritoneum and
+is continuous with the mesentery.[4]: 
+571 
+Histology
+General structure of the gut
+wall. Brunner's glands are not
+found in the ileum, but are a
+distinctive feature of the
+duodenum.
+ 
+Goblet cells in the wall of
+an ileum vili. At its sides,
+enterocytes are visible
+over a core of lamina
+propria.
+ 
+Cross section of ileum
+with a Peyer's patch
+circled.
+Cross-section histology
+of intestinal villi of the
+human terminal ileum.
+The small intestine develops from the midgut of the primitive gut tube.[6] By the fifth week of
+embryological life, the ileum begins to grow longer at a very fast rate, forming a U-shaped fold called the
+primary intestinal loop. The proximal half of this loop will form the ileum. The loop grows so fast in length
+that it outgrows the abdomen and protrudes through the umbilicus. By week 10, the loop retracts back into
+the abdomen. Between weeks six and ten the small intestine rotates anticlockwise, as viewed from the front
+of the embryo. It rotates a further 180 degrees after it has moved back into the abdomen. This process
+creates the twisted shape of the large intestine.[6]
+In the fetus the ileum is connected to the navel by the vitelline duct. In roughly 2−4% of humans, this duct
+fails to close during the first seven weeks after birth, leaving a remnant called Meckel's diverticulum.[7]
+The main function of the ileum is to absorb vitamin B12, bile salts, and whatever products of digestion were
+not absorbed by the jejunum. The wall itself is made up of folds, each of which has many tiny finger-like
+projections known as villi on its surface. In turn, the epithelial cells that line these villi possess even larger
+numbers of microvilli. Therefore, the ileum has an extremely large surface area both for the adsorption
+(attachment) of enzyme molecules and for the absorption of products of digestion. The DNES (diffuse
+neuroendocrine system) cells of the ileum secrete various hormones (gastrin, secretin, cholecystokinin) into
+the blood. Cells in the lining of the ileum secrete the protease and carbohydrase enzymes responsible for the
+final stages of protein and carbohydrate digestion into the lumen of the intestine. These enzymes are present
+in the cytoplasm of the epithelial cells.
+Development
+Function
+The villi contain large numbers of capillaries that take the amino acids and glucose produced by digestion to
+the hepatic portal vein and the liver. Lacteals are small lymph vessels, and are present in villi. They absorb
+fatty acid and glycerol, the products of fat digestion. Layers of circular and longitudinal smooth muscle
+enable the chyme (partly digested food and water) to be pushed along the ileum by waves of muscle
+contractions called peristalsis. The remaining chyme is passed to the colon.
+It is of importance in medicine as it can be affected in a number of diseases,[8] including:
+Crohn's disease
+Tuberculosis
+Lymphoma
+Neuroendocrine tumors (carcinoid)
+In veterinary anatomy, the ileum is distinguished from the jejunum by being that portion of the jejunoileum
+that is connected to the caecum by the ileocecal fold.
+The ileum is the short termi of the small intestine and the connection to the large intestine. It is suspended by
+the caudal part of the mesentery (mesoileum) and is attached, in addition, to the cecum by the ileocecal fold.
+The ileum terminates at the cecocolic junction of the large intestine forming the ileal orifice. In the dog the
+ileal orifice is located at the level of the first or second lumbar vertebra, in the ox in the level of the fourth
+lumbar vertebrae, in the sheep and goat at the level of the caudal point of the costal arch.[9] By active
+muscular contraction of the ileum, and closure of the ileal opening as a result of engorgement, the ileum
+prevents the backflow of ingesta and the equalization of pressure between jejunum and the base of the
+cecum. Disturbance of this sensitive balance is not uncommon and is one of the causes of colic in horses.
+During any intestinal surgery, for instance, during appendectomy, distal 2 feet of ileum should be checked
+for the presence of Meckel's diverticulum.
+1. Nosek, Thomas M. "Section 6/6ch2/s6ch2_30" (https://web.archive.org/web/2016032412482
+8/http://humanphysiology.tuars.com/program/section6/6ch2/s6ch2_30.htm). Essentials of
+Human Physiology. Archived from the original (http://humanphysiology.tuars.com/program/se
+ction6/6ch2/s6ch2_30.htm) on 2016-03-24.
+2. Guillaume, Jean; Praxis Publishing; Sadasivam Kaushik; Pierre Bergot; Robert Metailler
+(2001). Nutrition and Feeding of Fish and Crustaceans (https://books.google.com/books?id=
+As0flTZo_EAC&q=fish+cytology+jejunum+duodenum&pg=PA31). Springer. p. 31. ISBN 1-
+85233-241-7. Retrieved 2009-01-09.
+3. Moore KL, Dalley AF, Agur AM (2013). Clinically Oriented Anatomy, 7th ed. Lippincott
+Williams & Wilkins. pp. 241–246. ISBN 978-1-4511-8447-1.
+4. Ross M, Pawlina W (2011). Histology: A Text and Atlas. Sixth edition. Lippincott Williams &
+Wilkins. ISBN 978-0-7817-7200-6.
+5. Santaolalla R, Fukata M, Abreu MT (2011). "Innate immunity in the small intestine" (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3502877). Current Opinion in Gastroenterology. 27
+(12): 125–131. doi:10.1097/MOG.0b013e3283438dea (https://doi.org/10.1097%2FMOG.0b0
+Clinical significance
+Other animals
+References
+13e3283438dea). PMC 3502877 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3502877).
+PMID 21248635 (https://pubmed.ncbi.nlm.nih.gov/21248635).
+6. Schoenwolf, Gary C.; Bleyl, Steven B.; Brauer, Philip R.; Francis-West, Philippa H. (2009).
+"Development of the Urogenital system". Larsen's human embryology (4th ed.).
+Philadelphia: Churchill Livingstone/Elsevier. p. 237. ISBN 9780443068119.
+7. Sagar J.; Kumar V.; Shah D. K. (2006). "Meckel's diverticulum: A systematic review" (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC1592061). Journal of the Royal Society of Medicine.
+99 (10): 501–505. doi:10.1177/014107680609901011 (https://doi.org/10.1177%2F01410768
+0609901011). PMC 1592061 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1592061).
+PMID 17021300 (https://pubmed.ncbi.nlm.nih.gov/17021300).
+8. Cuvelier, C.; Demetter, P.; Mielants, H.; Veys, E.M.; De Vos, M (Jan 2001). "Interpretation of
+ileal biopsies: morphological features in normal and diseased mucosa". Histopathology. 38
+(1): 1–12. doi:10.1046/j.1365-2559.2001.01070.x (https://doi.org/10.1046%2Fj.1365-2559.20
+01.01070.x). PMID 11135039 (https://pubmed.ncbi.nlm.nih.gov/11135039).
+S2CID 28873753 (https://api.semanticscholar.org/CorpusID:28873753).
+9. Nickel, R., Shummer, A., Seiferle, E. (1979) The viscera of the domestic mammals, 2nd edn.
+Springer-Verlag, New York, USA.
+Anatomy photo:37:11-0101 (http://ect.downstate.edu/courseware/haonline/labs/l37/110101.h
+tm) at the SUNY Downstate Medical Center – "Abdominal Cavity: The Jejunum and the
+Ileum"
+Anatomy image:7787 (http://ect.downstate.edu/courseware/haonline/imgs/00000/7000/700/7
+787.jpg) at the SUNY Downstate Medical Center
+Anatomy image:8755 (http://ect.downstate.edu/courseware/haonline/imgs/00000/8000/700/8
+755.jpg) at the SUNY Downstate Medical Center
+Histology image: 12001oca (https://www.bu.edu/phpbin/medlib/histology/p/12001oca.htm) –
+Histology Learning System at Boston University
+Ileal Villi at endoatlas.com (https://web.archive.org/web/20120218235831/http://www.endoatl
+as.com/co_ge_15.html)
+Ileum Microscopic Cross Section at nhmccd.edu (https://web.archive.org/web/20051029223
+728/http://science.nhmccd.edu/biol/digestive/ileum.htm)
+Ileum 20x at deltagen.com (https://web.archive.org/web/20060315183719/http://www.deltage
+n.com/target/histologyatlas/atlas_files/digestive/ileum_20x.htm)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Ileum&oldid=1221881943"
+External links
