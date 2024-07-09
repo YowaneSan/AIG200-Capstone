@@ -1,0 +1,111 @@
+Facial bones
+The fourteen bones that form the
+human facial skeleton
+The fourteen facial bones.
+(Neurocranium is shown in semi-
+transparent.)
+   Blue: Vomer (1)
+   Yellow: Maxilla (2)
+   Purple: Mandible (1)
+   Pink: Nasal bones (2)
+   Red: Palatine bones (2)
+   Bright blue: Lacrimal bones (2)
+   Dark green: Zygomatic bones (2)
+   Bright green: Inferior nasal concha
+(2)
+Details
+Part
+of
+Face, skeleton
+Facial skeleton
+The facial skeleton comprises the facial bones that may attach
+to build a portion of the skull.[1] The remainder of the skull is
+the neurocranium.
+In human anatomy and development, the facial skeleton is
+sometimes called the membranous viscerocranium, which
+comprises the mandible and dermatocranial elements that are
+not part of the braincase.
+In the human skull, the facial skeleton consists of fourteen
+bones in the face:[1][2]
+Inferior turbinal (2)
+Lacrimal bones (2)
+Mandible
+Maxilla (2)
+Nasal bones (2)
+Palatine bones (2)
+Vomer
+Zygomatic bones (2)
+Elements 
+of 
+the 
+cartilaginous 
+viscerocranium 
+(i.e.,
+splanchnocranial elements), such as the hyoid bone, are
+sometimes considered part of the facial skeleton. The ethmoid
+bone (or a part of it) and also the sphenoid bone are sometimes
+included, but otherwise considered part of the neurocranium.
+Because the maxillary bones are fused, they are often
+collectively listed as only one bone. The mandible is generally
+considered separately from the cranium.
+The facial skeleton is composed of dermal bone and derived
+from the neural crest cells (also responsible for the development
+of the neurocranium, teeth and adrenal medulla) or from the
+sclerotome, which derives from the somite block of the
+Structure
+Variations
+Development
+Identifiers
+Latin
+ossa faciei, ossa facialia
+MeSH D005147 (https://meshb.nlm.ni
+h.gov/record/ui?ui=D005147)
+TA2
+356 (https://ta2viewer.openana
+tomy.org/?id=356)
+Anatomical terms of bone
+mesoderm. As with the neurocranium, in Chondricthyes and
+other cartilaginous vertebrates, they are not replaced via
+endochondral ossification.
+Variation in craniofacial form between humans is largely due to
+differing patterns of biological inheritance. Cross-analysis of
+osteological variables and genome-wide SNPs has identified
+specific genes that control this craniofacial development. Of
+these genes, DCHS2, RUNX2, GLI3, PAX1 and PAX3 were
+found to determine nasal morphology, whereas EDAR impacts chin protrusion.[3]
+Human facial
+skeleton. Front view.
+ 
+Human skull. Lateral
+view.
+ 
+Facial bones and
+neurocranium (labeled
+as "Brain case").
+ 
+3D model. Click to
+move.
+Axial skeleton
+Additional images
+3D
+See also
+Appendicular skeleton
+1. Jinkins, J. Randy (2000). Atlas of Neuroradiologic Embryology, Anatomy, and Variants (http
+s://books.google.com/books?id=F_qOsMbnjjAC&pg=PA458). Lippincott Williams & Wilkins.
+p. 458. ISBN 0-7817-1652-7. Retrieved 24 August 2017.
+2. "Divisions of the Skeleton" (https://web.archive.org/web/20090114095902/http://training.seer.
+cancer.gov/module_anatomy/unit3_5_skeleton_divisions.html). U.S. National Cancer
+Institute's Surveillance, Epidemiology and End Results (SEER) Program. Archived from the
+original on 14 January 2009. Retrieved 24 August 2017.
+3. Adhikari K, Fuentes-Guajardo M, Quinto-Sánchez M, Mendoza-Revilla J, Chacón-Duque
+JC, Acuña-Alonzo V, Gómez-Valdés J (2016). "A genome-wide association scan implicates
+DCHS2, RUNX2, GLI3, PAX1 and EDAR in human facial variation" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC4874031). Nature Communications. 7: 11616.
+Bibcode:2016NatCo...711616A (https://ui.adsabs.harvard.edu/abs/2016NatCo...711616A).
+doi:10.1038/ncomms11616 (https://doi.org/10.1038%2Fncomms11616). PMC 4874031 (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874031). PMID 27193062 (https://pubmed.ncbi.
+nlm.nih.gov/27193062).
+ent/9 (http://www.emedicine.com/ent/topic9.htm#) at eMedicine - "Facial Bone Anatomy"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Facial_skeleton&oldid=1174980608"
+References
+External links
