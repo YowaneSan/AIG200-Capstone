@@ -1,0 +1,632 @@
+Sweat gland
+A cross-section of the human skin, with
+the sweat gland labeled at the bottom
+Details
+Precursor Ectoderm[3]
+System
+Integumentary[3]
+Nerve
+Eccrine: cholinergic
+sympathetic nerves[4]
+Apocrine: adrenergic
+nerves[5]
+Identifiers
+Latin
+glandula sudorifera[1][2]
+MeSH
+D013545 (https://meshb.nl
+m.nih.gov/record/ui?ui=D01
+3545)
+TA98
+A16.0.00.029 (https://ifaa.u
+nifr.ch/Public/EntryPage/TA
+98%20Tree/Entity%20TA9
+8%20EN/16.0.00.029%20E
+ntity%20TA98%20EN.htm)
+TA2
+7079 (https://ta2viewer.ope
+nanatomy.org/?id=7079)
+FMA
+59152 (https://bioportal.bio
+ontology.org/ontologies/FM
+A/?p=classes&conceptid=ht
+tp%3A%2F%2Fpurl.org%2
+Fsig%2Font%2Ffma%2Ffm
+a59152)
+Anatomical terminology
+Sweat gland
+Sweat glands, also known as sudoriferous or sudoriparous
+glands, from Latin sudor  'sweat',[6][7] are small tubular
+structures of the skin that produce sweat. Sweat glands are a
+type of exocrine gland, which are glands that produce and
+secrete substances onto an epithelial surface by way of a duct.
+There are two main types of sweat glands that differ in their
+structure, function, secretory product, mechanism of excretion,
+anatomic distribution, and distribution across species:
+Eccrine sweat glands are distributed almost all over
+the human body, in varying densities, with the highest
+density in palms and soles, then on the head, but
+much less on the trunk and the extremities. Their
+water-based secretion represents a primary form of
+cooling in humans.[8]
+Apocrine sweat glands are mostly limited to the
+axillae (armpits) and perineal area in humans.[8]
+They are not significant for cooling in humans, but
+are the sole effective sweat glands in hoofed
+animals, such as the camels, donkeys, horses, and
+cattle.[9][10][11]
+Ceruminous glands (which produce ear wax), mammary glands
+(which produce milk), and ciliary glands in the eyelids are
+modified apocrine sweat glands.[2][12]
+Generally, sweat glands consist of a secretory unit that produces
+sweat, and a duct that carries the sweat away. The secretory coil
+or base, is set deep in the lower dermis and hypodermis, and the
+entire gland is surrounded by adipose tissue.[2][13][8] In both
+sweat gland types, the secretory coils are surrounded by
+contractile myoepithelial cells that function to facilitate
+excretion of secretory product.[14][15] The secretory activities of
+the gland cells and the contractions of myoepithelial cells are
+controlled by both the autonomic nervous system and by the
+circulating hormones. The distal or apical part of the duct that
+opens to the skin's surface is known as the acrosyringium.[16]
+Each sweat gland receives several nerve fibers that branch out
+into bands of one or more axons and encircle the individual
+tubules of the secretory coil. Capillaries are also interwoven
+among sweat tubules.[17]
+Structure
+Body of a sweat gland cut in various
+directions
+Human sweat gland pores on the
+ridges of a finger pad
+Differences Between Eccrine & Apocrine Sweat Glands
+ 
+Eccrine Glands
+Apocrine Glands
+Overall diameter of
+secretory coil
+500-700 μm
+800 μm
+Diameter of individual
+secretory tubule
+30-40 μm
+80-100 μm[18]
+Composition of
+secretory epithelium
+single layer, mixed
+clear cells & dark
+cells
+single layer columnar
+cells[16]
+Composition of ductal
+epithelium
+two or more layers
+of cuboidal cells
+double layer of
+cuboidal cells [19]
+Duct opens to
+skin surface
+hair follicle,
+sometimes nearby
+skin surface
+The number of active sweat glands varies greatly among different
+people, though comparisons between different areas (ex. axillae vs.
+groin) show the same directional changes (certain areas always
+have more active sweat glands while others always have fewer).[20]
+According to Henry Gray's estimates, the palm has around 370
+sweat glands per cm2; the back of the hand has 200 per cm2; the
+forehead has 175 per cm2; the breast, abdomen, and forearm have
+155 per cm2; and the back and legs have 60–80 per cm2.[2]
+In the finger pads, sweat glands pores are somewhat irregularly
+spaced on the epidermal ridges. There are no pores between the
+ridges, though sweat tends to spill into them.[20] The thick
+epidermis of the palms and soles causes the sweat glands to become
+spirally coiled.[2]
+Non-primate mammals have eccrine sweat glands only on the palms and soles. Apocrine glands cover the
+rest of the body, though they are not as effective as humans' in temperature regulation (with the exception of
+horses').[8] Prosimians have a 1:20 ratio of follicles with apocrine glands versus follicles without.[21] They
+have eccrine glands between hairs over most of their body (while humans have them between the hairs on
+their scalp).[9]
+The overall distribution of sweat glands varies among primates: the rhesus and patas monkeys have them on
+the chest; the squirrel monkey has them only on the palms and soles; and the stump-tailed macaque,
+Japanese monkey, and baboon have them over the entire body.[22]
+Domestic animals have apocrine glands at the base of each hair follicle, but eccrine glands only in foot pads
+and snout. Their apocrine glands, like those in humans, produce an odorless oily milky secretion evolved
+not to evaporate and cool but rather coat and stick to hair so odor-causing bacteria can grow on it.[23]
+Distribution
+Other animals
+Eccrine glands on their foot pads, like those on palms and soles of humans, did not evolve to cool either but
+rather increase friction and enhance grip.
+Dogs and cats have apocrine glands that are specialized in both structure and function located at the eyelids
+(Moll's glands), ears (ceruminous glands), anal sac, clitoral hood, and circumanal area.[24]
+The pores of eccrine sweat pores were first identified by the Italian physiologist Marcello Malpighi. Sweat
+glands themselves were first discovered by the Czech physiologist, Johannes Purkinjé in 1833. The
+differing densities of sweat glands in different body regions was first investigation in 1844 by the German
+anatomist Karl Krause. Sweat glands were first separated into kinds by the French histologist Louis-
+Antoine Ranvier, who separated them in 1887 regarding their type of secretion into holocrine glands
+(sebaceous glands) and the merocrine glands (sweat glands), the latter were then in 1917 divided into
+apocrine and eccrine sweat glands. In 1987, apoeccrine glands were identified.[25]
+Eccrine sweat glands are everywhere except the lips, ear canal, prepuce, glans penis, labia minora, and
+clitoris. They are ten times smaller than apocrine sweat glands, do not extend as deeply into the dermis, and
+excrete directly onto the surface of the skin.[8][5][26][4] The proportion of eccrine glands decreases with
+age.[27]
+The clear secretion produced by eccrine sweat glands is termed sweat or sensible perspiration. Sweat is
+mostly water, but it does contain some electrolytes, since it is derived from blood plasma. The presence of
+sodium chloride gives sweat a salty taste.
+The total volume of sweat produced depends on the number of functional glands and the size of the surface
+opening. The degree of secretory activity is regulated by neural and hormonal mechanisms (men sweat
+more than women). When all of the eccrine sweat glands are working at maximum capacity, the rate of
+perspiration for a human being may exceed three liters per hour,[28] and dangerous losses of fluids and
+electrolytes can occur.
+Eccrine glands have three primary functions:
+Thermoregulation: sweat (through evaporation and evaporative heat loss) can lead to
+cooling of the surface of the skin and a reduction of body temperature.[29]
+Excretion: eccrine sweat gland secretion can also provide a significant excretory route for
+water and electrolytes.[30]
+Protection: eccrine sweat gland secretion aids in preserving the skin's acid mantle, which
+helps protect the skin from colonization from bacteria and other pathogenic organisms.[31]
+History
+Types
+Eccrine
+Apocrine
+Apocrine sweat glands are found in the armpit, areola (around the nipples), perineum (between the anus and
+genitals), in the ear, and the eyelids. The secretory portion is larger than that of eccrine glands (making them
+larger overall). Rather than opening directly onto the surface of the skin, apocrine glands secrete sweat into
+the pilary canal of the hair follicle. [8]
+Before puberty, the apocrine sweat glands are inactive;[32] hormonal changes in puberty cause the glands to
+increase in size and begin functioning.[33] The substance secreted is thicker than eccrine sweat and provides
+nutrients for bacteria on the skin: the bacteria's decomposition of sweat is what creates the acrid odor.[34]
+Apocrine sweat glands are most active in times of stress and sexual excitement.[35]
+In mammals (including humans), apocrine sweat contains pheromone-like compounds to attract other
+organisms within their species. Study of human sweat has revealed differences between men and women in
+apocrine secretions and bacteria.[36]
+Some human sweat glands cannot be classified as either apocrine or eccrine, having characteristics of both;
+such glands are termed apoeccrine.[37] They are larger than eccrine glands, but smaller than apocrine
+glands.[38] Their secretory portion has a narrow portion similar to secretory coils in eccrine glands as well
+as a wide section reminiscent of apocrine glands.[39]
+Apocrine, found in the armpits and perianal region, have ducts opening onto the skin surface.[40] They are
+presumed to have developed in puberty from the eccrine glands,[41] and can comprise up to 50% of all
+axillary glands. Apoeccrine glands secrete more sweat than both eccrine and apocrine glands, thus playing a
+large role in axillary sweating.[42] Apoeccrine glands are sensitive to cholinergic activity, though they can
+also be activated via adrenergic stimulation.[37] Like eccrine glands, they continuously secrete a thin,
+watery sweat.[42]
+Specialized sweat glands, including the ceruminous glands, mammary glands, ciliary glands of the eyelids,
+and sweat glands of the nasal vestibulum, are modified apocrine glands.[43][5] Ceruminous glands are near
+the ear canals, and produce cerumen (earwax) that mixes with the oil secreted from sebaceous
+glands.[44][43] Mammary glands use apocrine secretion to produce milk.[45]
+Sweat glands are used to regulate temperature and remove waste by secreting water, sodium salts, and
+nitrogenous waste (such as urea) onto the skin surface.[30][46] The main electrolytes of sweat are sodium
+and chloride,[47] though the amount is small enough to make sweat hypotonic at the skin surface.[48]
+Eccrine sweat is clear, odorless, and is composed of 98–99% water; it also contains NaCl, fatty acids, lactic
+acid, citric acid, ascorbic acid, urea, and uric acid. Its pH ranges from 4 to 6.8.[49] On the other hand, the
+apocrine sweat has a pH of 6 to 7.5; it contains water, proteins, carbohydrate waste material, lipids, and
+Apoeccrine
+Others
+Sweat
+In apocrine secretion (pictured),
+portions of the cell are pinched off
+and later disintegrate.
+steroids. The sweat is oily, cloudy, viscous, and originally odorless;[49] it gains odor upon decomposition by
+bacteria. Because both apocrine glands and sebaceous glands open into the hair follicle, apocrine sweat is
+mixed with sebum.[41]
+Both apocrine and eccrine sweat glands use merocrine secretion,
+where vesicles in the gland released sweat via exocytosis, leaving
+the entire cell intact.[37][7] It was originally thought that apocrine
+sweat glands use apocrine secretion due to histological artifacts
+resembling "blebs" on the cell surface, however, recent electron
+micrographs indicate that the cells use merocrine secretion.[50] In
+both apocrine and eccrine sweat glands, the sweat is originally
+produced in the gland's coil, where it is isotonic with the blood
+plasma there.[51] When the rate of sweating is low, salt is conserved
+and reabsorbed by the gland's duct; high sweat rates, on the other
+hand, lead to less salt reabsorption and allow more water to
+evaporate on the skin (via osmosis) to increase evaporative
+cooling.[52]
+Secretion of sweat occurs when the myoepithelial cell cells surrounding the secretory glands contract.[19]
+Eccrine sweat increases the rate of bacterial growth and volatilizes the odor compounds of apocrine sweat,
+strengthening the latter's acrid smell.[53]
+Normally, only a certain number of sweat glands are actively producing sweat. When stimuli call for more
+sweating, more sweat glands are activated, with each then producing more sweat.[54][55]
+Both eccrine and apocrine sweat glands participate in thermoregulatory sweating,[56] which is directly
+controlled by the hypothalamus. Thermal sweating is stimulated by a combination of internal body
+temperature and mean skin temperature.[29] In eccrine sweat glands, stimulation occurs via activation by
+acetylcholine, which binds to the gland's muscarinic receptors.[57]
+Emotional sweating is stimulated by stress, anxiety, fear, and pain; it is independent of ambient temperature.
+Acetylcholine acts on the eccrine glands and adrenaline acts on both eccrine and apocrine glands to produce
+sweat.[37] Emotional sweating can occur anywhere, though it is most evident on the palms, soles of the feet,
+and axillary regions.[29] Sweating on the palms and soles is thought to have evolved as a fleeing reaction in
+mammals: it increases friction and prevents slipping when running or climbing in stressful situations.[56]
+Mechanism
+Stimuli
+Thermal
+Emotional
+Gustatory
+Gustatory sweating refers to thermal sweating induced by the ingestion of food. The increase in metabolism
+caused by ingestion raises body temperature, leading to thermal sweating. Hot and spicy foods also lead to
+mild gustatory sweating in the face, scalp and neck: capsaicin (the compound that makes spicy food taste
+"hot"), binds to receptors in the mouth that detect warmth. The increased stimulation of such receptors
+induces a thermoregulatory response.[37]
+Unlike deodorant, which simply reduces axillary odor without affecting body functions, antiperspirant
+reduces both eccrine and apocrine sweating.[58][49] Antiperspirants, which are classified as drugs, cause
+proteins to precipitate and mechanically block eccrine (and sometimes apocrine) sweat ducts.[59] The metal
+salts found in antiperspirants alters the keratin fibrils in the ducts; the ducts then close and form a "horny
+plug". The main active ingredients in modern antiperspirants are aluminum chloride, aluminum
+chlorohydrate, aluminum zirconium chlorohydrate, and buffered aluminum sulfate.[49]
+On apocrine glands, antiperspirants also contain antibacterial agents such as trichlorocarbanilide,
+hexamethylene tetramine, and zinc ricinoleate.[60][61] The salts are dissolved in ethanol and mixed with
+essential oils high in eugenol and thymol (such as thyme and clove oils). Antiperspirants may also contain
+levomethamphetamine.[61]
+Some diseases of the sweat glands include:
+Fox-Fordyce disease
+The apocrine sweat glands become inflamed, causing a persistent, itchy rash, usually in
+the axillae and pubic areas.[62]
+Frey's Syndrome
+If the auriculotemporal nerve is damaged (most often as a result of a Parotidectomy),
+excess sweat can be produced in the rear of the cheek area (just below the ear) in
+response to stimuli that cause salivation.[63]
+Heatstroke
+When the eccrine glands become exhausted and unable to secrete sweat. Heatstroke can
+lead to fatal hyperpyrexia (extreme rise in body temperature).[60]
+Hidradenitis suppurativa
+Occurs when the skin and sweat glands become inflamed with swollen lumps. These are
+typically painful and break open, releasing fluid or pus. The most commonly affected areas
+are the underarms, under the breasts, and the groin.
+Hyperhidrosis
+(also known as polyhidrosis or sudorrhea) is a pathological, excessive sweating that can
+be either generalized or localized (focal hyperhidrosis); focal hyperhidrosis occurs most
+often on the palms, soles, face, scalp and axillae. Hyperhidrosis is usually brought on by
+emotional or thermal stress,[64] but it can also occur or with little to no stimulus.[60] Local
+(or asymmetrical) hyperhidrosis is said to be caused by problems in the sympathetic
+nervous system: either lesions[64] or nerve inflammation.[65] Hyperhidrosis can also be
+caused by trench foot or encephalitis.[65]
+Milaria rubra
+Also called prickly heat. Milaria rubra is the rupture of sweat glands and migration of
+sweat to other tissues. In hot environments, the skin's horny layer can expand due to sweat
+retention, blocking the ducts of eccrine sweat glands. The glands, still stimulated by high
+temperatures, continues to secrete. Sweat builds up in the duct, causing enough pressure
+Antiperspirant
+Pathology
+to rupture the duct where it meets the epidermis. Sweat also escapes the duct to adjacent
+tissues (a process called milaria).[60][66] Hypohydrosis then follows milaria (postmiliarial
+hypohydrosis).[67]
+Osmidrosis
+Often called bromhidrosis, especially in combination with hyperhidrosis. Osmohidrosis is
+excessive odor from apocrine sweat glands (which are overactive in the axillae).[64]
+Osmidrosis is thought to be caused by changes in the apocrine gland structure rather than
+changes in the bacteria that acts on sweat.[53]
+Sweat gland tumors include:[68][69]
+Acrospiroma
+Aggressive digital papillary adenocarcinoma
+Apocrine gland carcinoma
+Ceruminoma
+Cutaneous myoepithelioma
+Cylindroma
+Eccrine carcinoma
+Hidradenoma papilliferum
+Hidrocystoma
+Microcystic adnexal carcinoma
+Mucinous carcinoma
+Papillary eccrine adenoma
+Poroma
+Porocarcinoma
+Syringadenoma papilliferum
+Syringofibroadenoma
+Syringoma
+Adenolipomas are lipomas associated with eccrine sweat glands.[70]
+Many diseases cause sweat gland dysfunction:
+Acromegaly, a result of excess growth hormone, causes the size of sweat glands increase,
+which leads to thicker skin.[71]
+Aquagenic wrinkling of the palms, in which white papules develop on the palms after
+exposure to water, can sometimes come with abnormal aquaporin 5 in the sweat glands.[72]
+Cystic fibrosis can be diagnosed by a sweat test, as the disease causes the sweat glands
+ducts to reabsorb less chloride, leading to higher concentrations of chloride in the secreted
+sweat.[73]
+Ectodermal dysplasia can present a lack of sweat glands.[74]
+Fabry disease, characterized by excess globotriaosylceramide (GL3), causes a decrease in
+sweat gland function due to GL3 deposits in the eccrine glands.[75]
+Tumors
+As signs in other illnesses
+Transverse view of the skin
+with sweat glands
+highlighted
+GM1 gangliosidoses, characterized by abnormal lipid storage, leads to vacuolization in
+eccrine sweat gland cells.[76]
+Hunter syndrome can include metachromin granules and mucin in the cytoplasm of the
+eccrine sweat gland cells.[77]
+Hypothyroidism's low levels of thyroid hormone lead to decreased secretions from sweat
+glands; the result is dry, coarse skin.[78]
+Kearns–Sayre syndrome, a disease of the mitochondria, involves abnormal mitochondria in
+eccrine sweat glands.[79]
+Lafora disease is a rare genetic disorder marked by the presence of abnormal polyglucosan
+deposits. These "Lafora bodies" appear in the ducts of sweat glands, as well as the
+myoepithelial cells of apocrine glands.[80]
+Lichen striatus, a self-limited eruption of small, slightly scaly papules, includes a lymphoid
+infiltrate around eccrine sweat glands.[81]
+Metachromatic leukodystrophy, a lysosomal storage disease, leads to the accumulation of
+lipopigments and lysosomal residual bodies in the epithelial cells of sweat glands.[82]
+Neuronal ceroid lipofuscinosis causes abnormal deposits of lipopigment in sweat gland
+epithelial cells (among other places).[83]
+Neutral lipid storage disease includes abnormal lipid deposits in cells, including those of the
+sweat gland.[84]
+Niemann-Pick disease type C, another lipid storage disease, includes abnormal lipid
+storage in sweat glands.[85]
+Schindler disease causes cytoplasmic vacuoles that appear to be empty or contain
+filamentous material to manifest in eccrine sweat gland cells.[86]
+Small fiber peripheral neuropathy can damage the nerves that control the sweat glands. The
+sweat gland nerve fiber density test can diagnose this condition.[87]
+Sudomotor
+See also
+Gallery
+Transverse view
+of the eyelid with
+sweat glands
+highlighted
+1. TA A16.0.00.029 (https://ifaa.unifr.ch/Public/EntryPage/TA98%20Tree/Entity%20TA98%20E
+N/16.0.00.029%20Entity%20TA98%20EN.htm)
+2. Gray, Henry (1918). "The Organs of the Senses and the Common Integument" (http://www.ba
+rtleby.com/107/234.html). Anatomy of the Human Body (20th ed.). Philadelphia: Lea &
+Febiger.
+3. Neas, John F. "Development of the Integumentary System" (https://web.archive.org/web/201
+20808215604/http://cwx.prenhall.com/bookbind/pubbooks/martini10/chapter4/custom3/delux
+e-content.html). In Martini, Frederic H.; Timmons, Michael J.; Tallitsch, Bob (eds.).
+Embryology Atlas (4th ed.). Benjamin Cumings. Archived from the original (http://cwx.prenhal
+l.com/bookbind/pubbooks/martini10/chapter4/custom3/deluxe-content.html) on 2012-08-08.
+4. Krstic 2004, p. 464.
+5. Krstic 2004, p. 466.
+6. "sudoriferous". The New Oxford American Dictionary (2nd ed.).
+7. "sweat gland" (http://medical-dictionary.thefreedictionary.com/sweat+gland). Miller-Keane
+Encyclopedia & Dictionary of Medicine, Nursing, and Allied Health (7th ed.). Saunders.
+2003. Retrieved 18 December 2012.
+8. Kurosumi, Shibasaki & Ito 1984, p. 255.
+9. Folk & Semken 1991, p. 181.
+10. Bullard, R. W.; Dill, D. B.; Yousef, M. K. (1970). "Responses of the burro to desert heat
+stress". Journal of Applied Physiology. 29 (2): 159–67. doi:10.1152/jappl.1970.29.2.159 (http
+s://doi.org/10.1152%2Fjappl.1970.29.2.159). PMID 5428889 (https://pubmed.ncbi.nlm.nih.go
+v/5428889).
+11. Sørensen & Prasad 1973, p. 173.
+12. Ackerman, A. Bernard; Böer, Almut; Bennin, Bruce; Gottlieb, Geoffrey J. (2005).
+"Embryologic, Histologic, and Anatomic Aspects" (https://web.archive.org/web/20110421033
+058/http://www.derm101.com/content/13501). Histologic Diagnosis of Inflammatory Skin
+Diseases An Algorithmic Method Based on Pattern Analysis. Ardor Scribendi.
+ISBN 9781893357259. Archived from the original (http://www.derm101.com/content/13501)
+on 2011-04-21.
+Notes
+13. Caceci, Thomas. "Integument I: Skin" (https://archive.today/20130106124235/http://www.vet
+med.vt.edu/education/curriculum/vm8054/labs/lab14/lab14.htm). VM8054 Veterinary
+Histology Laboratory Exercises. Virginia–Maryland Regional College of Veterinary
+Medicine. Archived from the original (http://www.vetmed.vt.edu/education/curriculum/vm805
+4/labs/lab14/lab14.htm) on 6 January 2013. Retrieved 19 December 2012.
+14. Kurosumi, Shibasaki & Ito 1984, p. 256.
+15. Eroschenko 2008, pp. 222, 226, 228.
+16. Bolognia, Jorizzo, Schaffer (2012). Dermatology. Structure and Function of Eccrine, Apocrine
+and Sebaceous Glands (3rd ed.). pp. 539–544. ISBN 978-0723435716.
+17. Kennedy, W. R.; Wendelschafer-Crabb, G.; Brelje, T. C. (November 1994). "Innervation and
+vasculature of human sweat glands: an immunohistochemistry-laser scanning confocal
+fluorescence microscopy study" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6577260).
+The Journal of Neuroscience. 14 (11 pt. 2): 6825–33. doi:10.1523/JNEUROSCI.14-11-
+06825.1994 (https://doi.org/10.1523%2FJNEUROSCI.14-11-06825.1994). ISSN 0270-6474
+(https://www.worldcat.org/issn/0270-6474). PMC 6577260 (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC6577260). PMID 7525893 (https://pubmed.ncbi.nlm.nih.gov/7525893).
+18. Wilke et al. 2007, pp. 173, 175.
+19. Eroschenko 2008, p. 228.
+20. Randall 2012.
+21. Folk & Semken 1991, p. 182.
+22. Folk & Semken 1991, p. 183.
+23. Merck Sharp; Dohme Corp. "Cutaneous Apocrine Gland Tumors" (http://www.merckvetmanu
+al.com/mvm/index.jsp?cfile=htm/bc/72208.htm). The Merck Veterinary Manual.
+24. Slatter, Douglas H., ed. (2003). Textbook of Small Animal Surgery. Vol. 2. Elsevier Health
+Sciences. p. 253. ISBN 9780721686073.
+25. Taylor, Nigel AS; Machado-Moreira, Christiano A (2013). "Regional variations in
+transepidermal water loss, eccrine sweat gland density, sweat secretion rates and electrolyte
+composition in resting and exercising humans" (https://www.ncbi.nlm.nih.gov/pmc/articles/P
+MC3710196). Extreme Physiology & Medicine. 2 (1): 4. doi:10.1186/2046-7648-2-4 (https://d
+oi.org/10.1186%2F2046-7648-2-4). ISSN 2046-7648 (https://www.worldcat.org/issn/2046-76
+48). PMC 3710196 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3710196).
+PMID 23849497 (https://pubmed.ncbi.nlm.nih.gov/23849497).
+26. Spearman, Richard Ian Campbell (1973). The Integument: A Textbook For Skin Biology (http
+s://archive.org/details/integumenttextbo00spea/page/135). Biological Structure and Function
+Books. Vol. 3. CUP Archive. p. 135 (https://archive.org/details/integumenttextbo00spea/page/
+135). ISBN 9780521200486.
+27. Wilke et al. 2007, pp. 175–176.
+28. Hickman, Cleveland P. Jr.; Roberts, Larry S.; Larson, Allan (April 2003). Integrated principles
+of zoology (https://archive.org/details/isbn_9780072930283/page/634) (12th ed.). Boston:
+McGraw-Hill. p. 634 (https://archive.org/details/isbn_9780072930283/page/634).
+ISBN 9780072439403.
+29. Wilke et al. 2007, p. 170.
+30. Romich 2009, p. 203.
+31. Marples, Mary J. (1965). The ecology of the human skin. Thomas. ISBN 9780398012182.
+OL 5915977M (https://openlibrary.org/books/OL5915977M).
+32. "apocrine sweat gland". Mosby's Medical Dictionary (8th ed.). Elsevier. 2009, cited in
+"apocrine sweat gland" (http://medical-dictionary.thefreedictionary.com/apocrine+sweat+glan
+d). The Free Dictionary. Farlex. Retrieved 6 June 2013.
+33. Braun-Falco, Otto; Plewig, Gerd; Wolff, Helmut H.; Burgdorf, Walter H. C. (1 January 2000).
+"Diseases of the Apocrine Sweat Glands". Dermatology. Springer Berlin Heidelberg.
+pp. 1083–1086. ISBN 978-3-642-97933-0.
+34. Dorland's Medical Dictionary for Health Consumers. Saunders. 2007, {{cite
+encyclopedia}}: Missing or empty |title= (help) cited in "apocrine sweat gland" (htt
+p://medical-dictionary.thefreedictionary.com/apocrine+sweat+gland). The Free Dictionary.
+Farlex. Retrieved 6 June 2013.
+35. The American Heritage Medical Dictionary. Houghton Mifflin Company. 2007, {{cite
+encyclopedia}}: Missing or empty |title= (help) cited in "apocrine sweat gland" (htt
+p://medical-dictionary.thefreedictionary.com/apocrine+sweat+gland). The Free Dictionary.
+Farlex. Retrieved 6 June 2013.
+36. Currie, Ariel; Coshnear, Hank; Quinn, Mila; Sand, Logan. "Human Pheromones" (https://web.
+archive.org/web/20130512060404/http://www.macalester.edu/psychology/whathap/UBNRP/
+pheromone10/human%20pheromones.html). Macalaster College. Archived from the original
+(http://www.macalester.edu/psychology/whathap/UBNRP/pheromone10/human%20pheromo
+nes.html) on 12 May 2013. Retrieved 6 June 2013.
+37. Wilke et al. 2007, p. 171.
+38. Cooper, Grant, ed. (2007). Therapeutic Uses of Botulinum Toxin (https://archive.org/details/th
+erapeuticusesb00coop_467). Totowa, N.J.: Humana Press. p. 155 (https://archive.org/details/
+therapeuticusesb00coop_467/page/n157). ISBN 9781597452472.
+39. Böni, R.; Groscurth, P. (2002). "Anatomy of Sweat Glands" (http://www.karger.com/Article/PD
+F/60678). In Kreyden, O.P.; Burg, G. (eds.). Current Problems in Dermatology. Vol. 30. Basel:
+KARGER. pp. 1–9. ISBN 978-3-8055-7306-1.
+40. Kreyden, Oliver Philip; Böni, Roland Emil; Burg, Günter (2002). Hyperhidrosis and
+Botulinum Toxin in Dermatology: 18 Tables. Karger Publishers. p. 8. ISBN 978-3805573061.
+41. Wilke et al. 2007, p. 175.
+42. Wilke et al. 2007, p. 176.
+43. McMurtrie, Hogin (28 November 2006). McMurtrie's Human Anatomy Coloring Book: A
+Systemic Approach to the Study of the Human Body: Thirteen Systems. Sterling Publishing
+Company, Inc. p. 430. ISBN 9781402737886.
+44. Romich 2009, p. 206.
+45. Van Lommel, Alfons T. L. (2003). From Cells to Organs: A Histology Textbook and Atlas (http
+s://archive.org/details/fromcellstoorgan00phda). Springer. pp. 199 (https://archive.org/details/f
+romcellstoorgan00phda/page/n209), 201. ISBN 9781402072574.
+46. Eroschenko 2008, p. 215.
+47. Frontera, Walter R. (2007). Clinical Sports Medicine: Medical Management and
+Rehabilitation. Elsevier Health Sciences. p. 29. ISBN 978-1416024439.
+48. Slegers 1964, p. 271.
+49. Draelos, Zoe Diana (2010). "Prevention of Cosmetic Problems". In Norman, R. A. (ed.).
+Preventive Dermatology (https://archive.org/details/preventivedermat00norm). Springer.
+p. 182 (https://archive.org/details/preventivedermat00norm/page/n183). doi:10.1007/978-1-
+84996-021-2_16 (https://doi.org/10.1007%2F978-1-84996-021-2_16).
+ISBN 9781849960267.
+50. "Apocrine Sweat Glands" (https://web.archive.org/web/20200807203447/http://medcell.med.
+yale.edu/histology/skin_lab/apocrine_sweat_glands.php). Histology@Yale. Archived from
+the original (http://medcell.med.yale.edu/histology/skin_lab/apocrine_sweat_glands.php) on
+7 August 2020. Retrieved 23 March 2019.
+51. Slegers 1964, p. 265.
+52. Slegers 1964, p. 272.
+53. Tsai 2006, p. 497.
+54. Shibasaki, Wilson & Crandall 2006, p. 1694.
+55. Randall, Walter C. (September 1946). "Quantitation and Regional Distribution of Sweat
+Glands in Man 1" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC435616). Journal of
+Clinical Investigation. 25 (5): 761–767. doi:10.1172/JCI101760 (https://doi.org/10.1172%2FJ
+CI101760). ISSN 0021-9738 (https://www.worldcat.org/issn/0021-9738). PMC 435616 (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC435616). PMID 16695370 (https://pubmed.ncbi.nl
+m.nih.gov/16695370).
+56. Folk & Semken 1991, p. 180.
+57. Shibasaki, Wilson & Crandall 2006, p. 1693.
+58. Kasture et al. 2008, p. 15.15.
+59. Kasture et al. 2008, p. 15.14.
+60. "skin disease" (http://www.britannica.com/EBchecked/topic/1800121/skin-disease/26820/Ha
+ir-and-pilosebaceous-follicles). Britannica Online Encyclopedia. Encyclopædia Britannica,
+Inc. Retrieved 18 December 2012.
+61. Kasture et al. 2008, p. 15.16.
+62. "disease" (http://medical-dictionary.thefreedictionary.com/Sandhoff%27s+disease). Dorland's
+Medical Dictionary for Health Consumers. Saunders. 2007. Retrieved 3 January 2013.
+63. Prattico, Francesco; Perfetti, Paola (2006). "Frey's Syndrome". New England Journal of
+Medicine. 355 (1): 66. doi:10.1056/NEJMicm040462 (https://doi.org/10.1056%2FNEJMicm0
+40462). PMID 16822997 (https://pubmed.ncbi.nlm.nih.gov/16822997).
+64. Tsai 2006, p. 496.
+65. "hyperhidrosis" (http://www.britannica.com/EBchecked/topic/279591/hyperhidrosis).
+Britannica Online Encyclopedia. Encyclopædia Britannica, Inc. Retrieved 18 December
+2012.
+66. James, Berger & Elston 2011, p. 19.
+67. James, Berger & Elston 2011, p. 20.
+68. James, Berger & Elston 2011.
+69. Plotzke JM, Adams DJ, Harms PW (January 2022). "Molecular pathology of skin adnexal
+tumours". Histopathology. 80 (1): 166–183. doi:10.1111/his.14441 (https://doi.org/10.1111%2
+Fhis.14441). hdl:2027.42/171211 (https://hdl.handle.net/2027.42%2F171211).
+PMID 34197659 (https://pubmed.ncbi.nlm.nih.gov/34197659). S2CID 235714739 (https://api.
+semanticscholar.org/CorpusID:235714739).
+70. James, Berger & Elston 2011, p. 612.
+71. Rubin & Strayer 2011, p. 1043.
+72. James, Berger & Elston 2011, p. 210.
+73. Bernstein, Daniel; Shelov, Steven P. (29 July 2011). Pediatrics for Medical Students (https://a
+rchive.org/details/pediatricsformed00dani). Lippincott Williams & Wilkins. p. 504 (https://archi
+ve.org/details/pediatricsformed00dani/page/n523). ISBN 9780781770309.
+74. "Ectodermal dysplasia" (https://www.nlm.nih.gov/medlineplus/ency/article/001469.htm).
+MedlinePlus Medical Encyclopedia. U.S. National Library of Medicine. Retrieved 2 January
+2013.
+75. Elstein, Deborah (1 January 2010). Fabry Disease. Springer. pp. 84, 358.
+ISBN 9789048190331.
+76. Drut, Ricardo (1978). "Eccrine Sweat Gland Involvement in GM1 Gangliosidosis". Journal of
+Cutaneous Pathology. 5 (1): 35–36. doi:10.1111/j.1600-0560.1978.tb00935.x (https://doi.org/
+10.1111%2Fj.1600-0560.1978.tb00935.x). ISSN 1600-0560 (https://www.worldcat.org/issn/1
+600-0560). PMID 418085 (https://pubmed.ncbi.nlm.nih.gov/418085). S2CID 43884684 (http
+s://api.semanticscholar.org/CorpusID:43884684).
+77. James, Berger & Elston 2011, p. 534.
+78. Rubin & Strayer 2011, p. 1048.
+79. Martin, J. J. (31 January 1984). "Neuropathological Diagnostic Methods". In Neetens, A.;
+Lowenthal, A.; Martin, J. J. (eds.). Visual System in Myelin Disorders. The Netherlands:
+Springer. p. 367. ISBN 9789061938071.
+80. Rubio, G.; Garcia Guijo, C.; Mallada, J. J.; Cabello, A.; Garcia Merino, A. (November 1992).
+"Diagnosis by axilla skin biopsy in an early case of Lafora's disease" (https://www.ncbi.nlm.n
+ih.gov/pmc/articles/PMC1015298). Journal of Neurology, Neurosurgery, and Psychiatry. 55
+(11): 1084–1085. doi:10.1136/jnnp.55.11.1084 (https://doi.org/10.1136%2Fjnnp.55.11.1084).
+ISSN 0022-3050 (https://www.worldcat.org/issn/0022-3050). PMC 1015298 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC1015298). PMID 1469407 (https://pubmed.ncbi.nlm.nih.gov/1
+469407).
+81. James, Berger & Elston 2011, p. 223–224.
+82. Goebel, H. H.; Busch, H. (1990). "Abnormal Lipopigments and Lysosomal Residual Bodies
+in Metachromatic Leukodystrophy". Lipofuscin and Ceroid Pigments. Advances in
+Experimental Medicine and Biology. Vol. 266. pp. 299–309. doi:10.1007/978-1-4899-5339-
+1_21 (https://doi.org/10.1007%2F978-1-4899-5339-1_21) (inactive 2024-04-27). ISBN 978-
+1-4899-5341-4. ISSN 0065-2598 (https://www.worldcat.org/issn/0065-2598). PMID 2486156
+(https://pubmed.ncbi.nlm.nih.gov/2486156).
+83. Carlén, B.; Englund, E. (August 2001). "Diagnostic value of electron microscopy in a case of
+juvenile neuronal ceroid lipofuscinosis". Ultrastructural Pathology. 25 (4): 285–288.
+doi:10.1080/019131201753136296 (https://doi.org/10.1080%2F019131201753136296).
+ISSN 0191-3123 (https://www.worldcat.org/issn/0191-3123). PMID 11577772 (https://pubme
+d.ncbi.nlm.nih.gov/11577772). S2CID 22200975 (https://api.semanticscholar.org/CorpusID:2
+2200975).
+84. James, Berger & Elston 2011, p. 555.
+85. Elleder, M.; Jirásek, A.; Smíd, F. (19 December 1975). "Niemann-Pick disease (Crocker's
+type C): A histological study of the distribution and qualitative differences for the storage
+process". Acta Neuropathologica. 33 (3): 191–200. doi:10.1007/bf00688393 (https://doi.org/1
+0.1007%2Fbf00688393). ISSN 0001-6322 (https://www.worldcat.org/issn/0001-6322).
+PMID 1211110 (https://pubmed.ncbi.nlm.nih.gov/1211110). S2CID 28257992 (https://api.se
+manticscholar.org/CorpusID:28257992).
+86. Pavelka, Margit; Roth, Jurgen (1 January 2010). Functional Ultrastructure: Atlas of Tissue
+Biology and Pathology (https://archive.org/details/functionalultras00pave). Springer. p. 332
+(https://archive.org/details/functionalultras00pave/page/n346). ISBN 9783211993903.
+87. "Sweat Gland Nerve Fiber Density" (https://web.archive.org/web/20131208054535/http://ther
+apath.com/Sweat_Gland_Nerve_Fiber_Density.php). Therapath. Archived from the original
+(https://www.therapath.com/Sweat_Gland_Nerve_Fiber_Density.php) on 2013-12-08.
+Retrieved 2013-08-05.
+Eroschenko, Victor P. (2008). "Integumentary System". DiFiore's Atlas of Histology with
+Functional Correlations (https://archive.org/details/difioresatlashis00eros). Lippincott
+References
+Williams & Wilkins. pp. 212 (https://archive.org/details/difioresatlashis00eros/page/n231)–
+234. ISBN 9780781770576.
+Folk, G. Edgar Jr.; Semken, A. Jr. (1 September 1991). "The evolution of sweat glands".
+International Journal of Biometeorology. 35 (3): 180–186. Bibcode:1991IJBm...35..180F (http
+s://ui.adsabs.harvard.edu/abs/1991IJBm...35..180F). doi:10.1007/BF01049065 (https://doi.or
+g/10.1007%2FBF01049065). ISSN 0020-7128 (https://www.worldcat.org/issn/0020-7128).
+PMID 1778649 (https://pubmed.ncbi.nlm.nih.gov/1778649). S2CID 28234765 (https://api.se
+manticscholar.org/CorpusID:28234765).
+Kasture, P. V.; Gokhal, S. B.; Parakh, S. R.; Paradkar, A. R. (7 September 2008).
+Pharmaceutics-II: Second Year Diploma in Pharmacy (10 ed.). Nirali Prakashan. pp. 15.14–
+15.16. ISBN 9788185790220.
+Kurosumi, Kazumasa; Shibasaki, Susumu; Ito, Toshiho (1984). "Cytology of the Secretion in
+Mammalian Sweat Glands". In Bourne, Geoffrey H.; Danielli, James F. (eds.). Protein
+Diffusion in Cell Membranes: Some Biological Implications. Orlando, Florida: Academic
+Press. pp. 253–330. ISBN 9780123644879.
+James, William D.; Berger, Timothy G.; Elston, Dirk M. (2011). Andrews' Diseases of the
+Skin: Clinical Dermatology (11th ed.). London: Elsevier. ISBN 9781437703146.
+Krstic, Radivoj V. (18 March 2004). Human Microscopic Anatomy: An Atlas for Students of
+Medicine and Biology. Springer. pp. 464, 466–469. ISBN 9783540536666.
+Rubin, Raphael; Strayer, David Sheldon (29 March 2011). Rubin's Pathology:
+Clinicopathologic Foundations of Medicine (https://archive.org/details/rubinspathologyc00m
+dra). Lippincott Williams & Wilkins. pp. 1043 (https://archive.org/details/rubinspathologyc00m
+dra/page/n1058), 1048. ISBN 9781605479682.
+Shibasaki, Manabu; Wilson, Thad E.; Crandall, Craig G. (2006). "Neural control and
+mechanisms of eccrine sweating during heat stress and exercise". Journal of Applied
+Physiology. 100 (5): 1692–1701. doi:10.1152/japplphysiol.01124.2005 (https://doi.org/10.11
+52%2Fjapplphysiol.01124.2005). ISSN 8750-7587 (https://www.worldcat.org/issn/8750-758
+7). PMID 16614366 (https://pubmed.ncbi.nlm.nih.gov/16614366).
+Sørensen, Vibeke W.; Prasad, Gaya (1973). "On the fine structure of horse sweat glands".
+Zeitschrift für Anatomie und Entwicklungsgeschichte. 139 (2): 173–183.
+doi:10.1007/BF00523636 (https://doi.org/10.1007%2FBF00523636). PMID 4352229 (https://
+pubmed.ncbi.nlm.nih.gov/4352229). S2CID 9847627 (https://api.semanticscholar.org/Corpus
+ID:9847627).
+Slegers, J. F. G. (1964). "The mechanism of sweat-secretion". Pflügers Archiv für die
+gesamte Physiologie des Menschen und der Tiere. 279 (3): 265–273.
+doi:10.1007/BF00362480 (https://doi.org/10.1007%2FBF00362480). ISSN 1432-2013 (http
+s://www.worldcat.org/issn/1432-2013). PMID 14194022 (https://pubmed.ncbi.nlm.nih.gov/141
+94022). S2CID 9644549 (https://api.semanticscholar.org/CorpusID:9644549).
+Tsai, Ren-Yu (1 January 2006). "Treatment of Excessive Axillary Sweat Syndrome
+(Hyperhidrosis, Osmidrosis, Bromhidrosis) with Liposuction". In Shiffman, Melvin A.; Di
+Giuseppe, Alberto (eds.). Liposuction: Non-Cosmetic Applications. Germany: Springer.
+pp. 496–497. ISBN 9783540280439.
+Wilke, K.; Martin, A.; Terstegen, L.; Biel, S. S. (June 2007). "A short history of sweat gland
+biology" (https://doi.org/10.1111%2Fj.1467-2494.2007.00387.x). International Journal of
+Cosmetic Science. 29 (3): 169–179. doi:10.1111/j.1467-2494.2007.00387.x (https://doi.org/1
+0.1111%2Fj.1467-2494.2007.00387.x). ISSN 1468-2494 (https://www.worldcat.org/issn/146
+8-2494). PMID 18489347 (https://pubmed.ncbi.nlm.nih.gov/18489347).
+Histology of sweat glands (http://www2.victoriacollege.edu/dept/bio/Belltutorials/Histology%
+20Tutorial/Integumentary%20Web%20Page/Integumenary%20Web%20Site.html#Accessor
+External links
+y%20structures%20B)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sweat_gland&oldid=1224588014"

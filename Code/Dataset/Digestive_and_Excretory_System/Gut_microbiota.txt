@@ -1,0 +1,1698 @@
+Escherichia coli, one of the many
+species of bacteria present in the
+human gut
+Composition and distribution of gut microbiota in
+human body
+Gut microbiota
+Gut microbiota, gut microbiome, or gut flora are the
+microorganisms, including bacteria, archaea, fungi, and viruses, that
+live in the digestive tracts of animals.[1][2] The gastrointestinal
+metagenome is the aggregate of all the genomes of the gut
+microbiota.[3][4] The gut is the main location of the human
+microbiome.[5] The gut microbiota has broad impacts, including
+effects on colonization, resistance to pathogens, maintaining the
+intestinal epithelium, metabolizing dietary and pharmaceutical
+compounds, controlling immune function, and even behavior
+through the gut–brain axis.[4]
+The microbial composition of the gut microbiota varies across
+regions of the digestive tract. The colon contains the highest
+microbial density of any human-associated microbial community
+studied so far, representing between 300 and 1000 different species.[6] Bacteria are the largest and to date,
+best studied component and 99% of gut bacteria come from about 30 or 40 species.[7] Up to 60% of the dry
+mass of feces is bacteria.[8] Over 99% of the bacteria in the gut are anaerobes, but in the cecum, aerobic
+bacteria reach high densities.[5] It is estimated that the human gut microbiota have around a hundred times
+as many genes as there are in the human genome.
+In humans, the gut microbiota has the highest numbers
+and species of bacteria compared to other areas of the
+body.[9] 
+The 
+approximate 
+number 
+of 
+bacteria
+composing the gut microbiota is about 1013–1014.[10]
+In humans, the gut flora is established at birth and
+gradually transitions towards a state resembling that of
+adults by the age of two,[11] coinciding with the
+development 
+and 
+maturation 
+of 
+the 
+intestinal
+epithelium and intestinal mucosal barrier. This barrier is
+essential for supporting a symbiotic relationship with
+the gut flora while providing protection against
+pathogenic organisms.[12][13]
+The relationship between some gut microbiota and
+humans is not merely commensal (a non-harmful
+coexistence), 
+but 
+rather 
+a 
+mutualistic
+relationship.[5]: 
+700  Some human gut microorganisms
+benefit the host by fermenting dietary fiber into short-
+chain fatty acids (SCFAs), such as acetic acid and butyric acid, which are then absorbed by the host.[9][14]
+Intestinal bacteria also play a role in synthesizing vitamin B and vitamin K as well as metabolizing bile
+Overview
+Candida albicans, a dimorphic
+fungus that grows as a yeast in the
+gut
+acids, sterols, and xenobiotics.[5][14] The systemic importance of the SCFAs and other compounds they
+produce are like hormones and the gut flora itself appears to function like an endocrine organ.[14]
+Dysregulation of the gut flora has been correlated with a host of inflammatory and autoimmune
+conditions.[9][15]
+The composition of human gut microbiota changes over time, when the diet changes, and as overall health
+changes.[9][15] A systematic review from 2016 examined the preclinical and small human trials that have
+been conducted with certain commercially available strains of probiotic bacteria and identified those that
+had the most potential to be useful for certain central nervous system disorders.[16]
+The microbial composition of the gut microbiota varies across the digestive tract. In the stomach and small
+intestine, relatively few species of bacteria are generally present.[6][17] The colon, in contrast, contains the
+highest microbial density of any human-associated microbial community studied so far[18] with between
+1010 and 1011 cells per gram of intestinal content.[19] These bacteria represent between 300 and 1000
+different species.[6][17] However, 99% of the bacteria come from about 30 or 40 species.[7] As a
+consequence of their abundance in the intestine, bacteria also make up to 60% of the dry mass of feces.[8]
+Fungi, protists, archaea, and viruses are also present in the gut flora, but less is known about their
+activities.[20]
+Over 99% of the bacteria in the gut are anaerobes, but in the cecum, aerobic bacteria reach high densities.[5]
+It is estimated that these gut flora have around a hundred times as many genes in total as there are in the
+human genome.[21]
+Many species in the gut have not been studied outside of their hosts
+because they cannot be cultured.[17][7][22] While there are a small
+number of core microbial species shared by most individuals,
+populations of microbes can vary widely.[23] Within an individual,
+their microbial populations stay fairly constant over time, with some
+alterations occurring due to changes in lifestyle, diet and age.[6][24]
+The Human Microbiome Project has set out to better describe the
+microbiota of the human gut and other body locations.
+The four dominant bacterial phyla in the human gut are Bacillota
+(Firmicutes), 
+Bacteroidota, 
+Actinomycetota, 
+and
+Pseudomonadota.[25] Most bacteria belong to the genera
+Bacteroides, Clostridium, Faecalibacterium,[6][7] Eubacterium,
+Ruminococcus, Peptococcus, Peptostreptococcus, and Bifidobacterium.[6][7] Other genera, such as
+Escherichia and Lactobacillus, are present to a lesser extent.[6] Species from the genus Bacteroides alone
+constitute about 30% of all bacteria in the gut, suggesting that this genus is especially important in the
+functioning of the host.[17]
+Fungal genera that have been detected in the gut include Candida, Saccharomyces, Aspergillus,
+Penicillium, Rhodotorula, Trametes, Pleospora, Sclerotinia, Bullera, and Galactomyces, among
+others.[26][27] Rhodotorula is most frequently found in individuals with inflammatory bowel disease while
+Candida is most frequently found in individuals with hepatitis B cirrhosis and chronic hepatitis B.[26]
+Classifications
+Archaea constitute another large class of gut flora which are important in the metabolism of the bacterial
+products of fermentation.
+Industrialization is associated with changes in the microbiota and the reduction of diversity could drive
+certain species to extinction; in 2018, researchers proposed a biobank repository of human microbiota.[28]
+An enterotype is a classification of living organisms based on its bacteriological ecosystem in the human gut
+microbiome not dictated by age, gender, body weight, or national divisions.[29] There are indications that
+long-term diet influences enterotype.[30] Three human enterotypes have been proposed,[29][31] but their
+value has been questioned.[32]
+Due to the high acidity of the stomach, most microorganisms cannot survive there. The main bacteria of the
+gastric microbiota belong to five major phyla: Firmicutes, Bacteroidetes, Actinobacteria, Fusobacteriota,
+and Proteobacteria. The dominant genera are Prevotella, Streptococcus, Veillonella, Rothia , and
+Haemophilus.[33] The interaction between the pre-existing gastric microbiota with the introduction of
+H.  pylori may influence disease progression.[33] When there is a presence of H.  pylori it becomes the
+dominant of the microbiota.[34]
+The small intestine contains a trace amount of microorganisms due to the proximity and influence of the
+stomach. Gram-positive cocci and rod-shaped bacteria are the predominant microorganisms found in the
+small intestine.[5] However, in the distal portion of the small intestine alkaline conditions support gram-
+negative bacteria of the Enterobacteriaceae.[5] The bacterial flora of the small intestine aid in a wide range
+of intestinal functions. The bacterial flora provide regulatory signals that enable the development and utility
+of the gut. Overgrowth of bacteria in the small intestine can lead to intestinal failure.[36] In addition the large
+intestine contains the largest bacterial ecosystem in the human body.[5] About 99% of the large intestine and
+feces flora are made up of obligate anaerobes such as Bacteroides and Bifidobacterium.[37] Factors that
+disrupt the microorganism population of the large intestine include antibiotics, stress, and parasites.[5]
+Bacteria make up most of the flora in the colon[38] and accounts for 60% of fecal nitrogen.[6] This fact
+makes feces an ideal source of gut flora for any tests and experiments by extracting the nucleic acid from
+fecal specimens, and bacterial 16S rRNA gene sequences are generated with bacterial primers. This form of
+testing is also often preferable to more invasive techniques, such as biopsies.
+Five phyla dominate the intestinal microbiota: Bacteroidota, Bacillota (Firmicutes), Actinomycetota,
+Pseudomonadota, and Verrucomicrobiota  – with Bacteroidota and Bacillota constituting 90% of the
+composition.[39] Somewhere between 300[6] and 1000 different species live in the gut,[17] with most
+Enterotype
+Composition
+Bacteriome
+Stomach
+Intestines
+Bacteria commonly found in the human colon[35]
+Bacterium
+Incidence (%)
+Bacteroides fragilis
+100
+Bacteroides melaninogenicus
+100
+Bacteroides oralis
+100
+Enterococcus faecalis
+100
+Escherichia coli
+100
+Enterobacter sp.
+40–80
+Klebsiella sp.
+40–80
+Bifidobacterium bifidum
+30–70
+Staphylococcus aureus
+30–50
+Lactobacillus
+20–60
+Clostridium perfringens
+25–35
+Proteus mirabilis
+5–55
+Clostridium tetani
+1–35
+Clostridium septicum
+5–25
+Pseudomonas aeruginosa
+3–11
+Salmonella enterica
+3–7
+Faecalibacterium prausnitzii
+?common
+Peptostreptococcus sp.
+?common
+Peptococcus sp.
+?common
+estimates at about 500.[40][41] However, it is probable
+that 99% of the bacteria come from about 30 or 40
+species, with Faecalibacterium prausnitzii (phylum
+firmicutes) being the most common species in healthy
+adults.[7][42]
+Research suggests that the relationship between gut
+flora and humans is not merely commensal (a non-
+harmful coexistence), but rather is a mutualistic,
+symbiotic relationship.[17] Though people can survive
+with no gut flora,[40] the microorganisms perform a
+host of useful functions, such as fermenting unused
+energy substrates, training the immune system via end
+products of metabolism like propionate and acetate,
+preventing growth of harmful species, regulating the
+development of the gut, producing vitamins for the
+host (such as biotin and vitamin K), and producing
+hormones to direct the host to store fats.[5] Extensive
+modification and imbalances of the gut microbiota and
+its microbiome or gene collection are associated with
+obesity.[43] However, in certain conditions, some
+species are thought to be capable of causing disease
+by causing infection or increasing cancer risk for the
+host.[6][38]
+Fungi and protists also make up a part of the gut flora,
+but less is known about their activities.[44]
+The human virome is mostly bacteriophages.[45]
+There are common patterns of microbiome composition evolution during life.[46] In general, the diversity of
+microbiota composition of fecal samples is significantly higher in adults than in children, although
+interpersonal differences are higher in children than in adults.[47] Much of the maturation of microbiota into
+an adult-like configuration happens during the first three years of life.[47]
+Mycobiome
+Virome
+Variation
+Age
+As the microbiome composition changes, so does the composition of bacterial proteins produced in the gut.
+In adult microbiomes, a high prevalence of enzymes involved in fermentation, methanogenesis and the
+metabolism of arginine, glutamate, aspartate and lysine have been found. In contrast, in infant microbiomes
+the dominant enzymes are involved in cysteine metabolism and fermentation pathways.[47]
+Gut microbiome composition depends on the geographic origin of populations. Variations in a trade-off of
+Prevotella, the representation of the urease gene, and the representation of genes encoding glutamate
+synthase/degradation or other enzymes involved in amino acids degradation or vitamin biosynthesis show
+significant differences between populations from the US, Malawi, or Amerindian origin.[47]
+The US population has a high representation of enzymes encoding the degradation of glutamine and
+enzymes involved in vitamin and lipoic acid biosynthesis; whereas Malawi and Amerindian populations
+have a high representation of enzymes encoding glutamate synthase and they also have an
+overrepresentation of α-amylase in their microbiomes. As the US population has a diet richer in fats than
+Amerindian or Malawian populations which have a corn-rich diet, the diet is probably the main determinant
+of the gut bacterial composition.[47]
+Further studies have indicated a large difference in the composition of microbiota between European and
+rural African children. The fecal bacteria of children from Florence were compared to that of children from
+the small rural village of Boulpon in Burkina Faso. The diet of a typical child living in this village is largely
+lacking in fats and animal proteins and rich in polysaccharides and plant proteins. The fecal bacteria of
+European children were dominated by Firmicutes and showed a marked reduction in biodiversity, while the
+fecal bacteria of the Boulpon children was dominated by Bacteroidetes. The increased biodiversity and
+different composition of the gut microbiome in African populations may aid in the digestion of normally
+indigestible plant polysaccharides and also may result in a reduced incidence of non-infectious colonic
+diseases.[48]
+On a smaller scale, it has been shown that sharing numerous common environmental exposures in a family
+is a strong determinant of individual microbiome composition. This effect has no genetic influence and it is
+consistently observed in culturally different populations.[47]
+Malnourished children have less mature and less diverse gut microbiota than healthy children, and changes
+in the microbiome associated with nutrient scarcity can in turn be a pathophysiological cause of
+malnutrition.[49][50] Malnourished children also typically have more potentially pathogenic gut flora, and
+more yeast in their mouths and throats.[51] Altering diet may lead to changes in gut microbiota composition
+and diversity.[52]
+Researchers with the American Gut Project and Human Microbiome Project found that twelve microbe
+families varied in abundance based on the race or ethnicity of the individual. The strength of these
+associations is limited by the small sample size: the American Gut Project collected data from 1,375
+individuals, 90% of whom were white.[53] The Healthy Life in an Urban Setting (HELIUS) study in
+Amsterdam found that those of Dutch ancestry had the highest level of gut microbiota diversity, while those
+Geography
+Malnourishment
+Race and ethnicity
+Illustration showing the developmental colonization of gut microbiota
+of South Asian and Surinamese descent had the lowest diversity. The study results suggested that
+individuals of the same race or ethnicity have more similar microbiomes than individuals of different racial
+backgrounds.[53]
+As of 2020, at least two studies have demonstrated a link between an individual's socioeconomic status
+(SES) and their gut microbiota. A study in Chicago found that individuals in higher SES neighborhoods had
+greater microbiota diversity. People from higher SES neighborhoods also had more abundant Bacteroides
+bacteria. Similarly, a study of twins in the United Kingdom found that higher SES was also linked with a
+greater gut diversity.[53]
+The establishment of a gut flora is crucial to the health of an adult, as well as the functioning of the
+gastrointestinal tract.[54] In humans, a gut flora similar to an adult's is formed within one to two years of
+birth as microbiota are acquired through parent-to-child transmission and transfer from food, water, and
+other environmental sources.[55][12]
+The traditional view of the gastrointestinal tract of a normal fetus is that it is sterile, although this view has
+been challenged in the past few years.[56] Multiple lines of evidence have begun to emerge that suggest
+there may be bacteria in the intrauterine environment. In humans, research has shown that microbial
+colonization may occur in the fetus[57] with one study showing Lactobacillus and Bifidobacterium species
+were present in placental biopsies.[58] Several rodent studies have demonstrated the presence of bacteria in
+the amniotic fluid and placenta, as well as in the meconium of babies born by sterile cesarean
+section.[59][60] In another study, researchers administered a culture of bacteria orally to pregnant mice, and
+detected the bacteria in the offspring, likely resulting from transmission between the digestive tract and
+amniotic fluid via the blood stream.[61] However, researchers caution that the source of these intrauterine
+bacteria, whether they are alive, and their role, is not yet understood.[62][58]
+During birth and rapidly thereafter, bacteria from the mother and the surrounding environment colonize the
+infant's gut.[12] The exact sources of bacteria are not fully understood, but may include the birth canal, other
+people (parents, siblings, hospital workers), breastmilk, food, and the general environment with which the
+infant interacts.[63] Research has shown that the microbiome of babies born vaginally differs significantly
+Socioeconomic status
+Acquisition in human infants
+from that of babies delivered by caesarean section and that vaginally born babies got most of their gut
+bacteria from their mother, while the microbiota of babies born by caesarean section had more bacteria
+associated with hospital environments.[64]
+During the first year of life, the composition of the gut flora is generally simple and changes a great deal
+with time and is not the same across individuals.[12] The initial bacterial population are generally facultative
+anaerobic organisms; investigators believe that these initial colonizers decrease the oxygen concentration in
+the gut, which in turn allows obligately anaerobic bacteria like Bacteroidota, Actinomycetota, and Bacillota
+to become established and thrive.[12] Breast-fed babies become dominated by bifidobacteria, possibly due
+to the contents of bifidobacterial growth factors in breast milk, and by the fact that breast milk carries
+prebiotic components, allowing for healthy bacterial growth.[58][65] Breast milk also contains higher levels
+of Immunoglobulin A (IgA) to help with the tolerance and regulation of the baby's immune system.[66] In
+contrast, the microbiota of formula-fed infants is more diverse, with high numbers of Enterobacteriaceae,
+enterococci, bifidobacteria, Bacteroides, and clostridia.[67]
+Caesarean section, antibiotics, and formula feeding may alter the gut microbiome composition.[58] Children
+treated with antibiotics have less stable, and less diverse floral communities.[68] Caesarean sections have
+been shown to be disruptive to mother-offspring transmission of bacteria, which impacts the overall health
+of the offspring by raising risks of disease such as celiac disease, asthma, and type 1 diabetes.[58] This
+further evidences the importance of a healthy gut microbiome. Various methods of microbiome restoration
+are being explored, typically involving exposing the infant to maternal vaginal contents, and oral
+probiotics.[58]
+When the study of gut flora began in 1995,[69] it was thought to have three key roles: direct defense against
+pathogens, fortification of host defense by its role in developing and maintaining the intestinal epithelium
+and inducing antibody production there, and metabolizing otherwise indigestible compounds in food.
+Subsequent work discovered its role in training the developing immune system, and yet further work
+focused on its role in the gut–brain axis.[70]
+The gut flora community plays a direct role in defending against pathogens by fully colonising the space,
+making use of all available nutrients, and by secreting compounds known as cytokines that kill or inhibit
+unwelcome organisms that would compete for nutrients with it.[71] Different strains of gut bacteria cause
+the production of different cytokines. Cytokines are chemical compounds produced by our immune system
+for initiating the inflammatory response against infections. Disruption of the gut flora allows competing
+organisms like Clostridium difficile to become established that otherwise are kept in abeyance.[71]
+In humans, a gut flora similar to an adult's is formed within one to two years of birth.[12] As the gut flora
+gets established, the lining of the intestines – the intestinal epithelium and the intestinal mucosal barrier that
+it secretes – develop as well, in a way that is tolerant to, and even supportive of, commensalistic
+microorganisms to a certain extent and also provides a barrier to pathogenic ones.[12] Specifically, goblet
+cells that produce the mucosa proliferate, and the mucosa layer thickens, providing an outside mucosal layer
+Functions
+Direct inhibition of pathogens
+Development of enteric protection and immune system
+Microfold cells transfer antigens (Ag)
+from the lumen of the gut to gut-
+associated lymphoid tissue (GALT)
+via transcytosis and present them to
+different innate and adaptive immune
+cells.
+in which "friendly" microorganisms can anchor and feed, and an
+inner layer that even these organisms cannot penetrate.[12][13]
+Additionally, the development of gut-associated lymphoid tissue
+(GALT), which forms part of the intestinal epithelium and which
+detects and reacts to pathogens, appears and develops during the
+time that the gut flora develops and established.[12] The GALT that
+develops is tolerant to gut flora species, but not to other
+microorganisms.[12] GALT also normally becomes tolerant to food
+to which the infant is exposed, as well as digestive products of
+food, and gut flora's metabolites (molecules formed from
+metabolism) produced from food.[12]
+The human immune system creates cytokines that can drive the
+immune system to produce inflammation in order to protect itself,
+and that can tamp down the immune response to maintain
+homeostasis and allow healing after insult or injury.[12] Different
+bacterial species that appear in gut flora have been shown to be able
+to drive the immune system to create cytokines selectively; for
+example Bacteroides fragilis and some Clostridia species appear to drive an anti-inflammatory response,
+while some segmented filamentous bacteria drive the production of inflammatory cytokines.[12][72] Gut
+flora can also regulate the production of antibodies by the immune system.[12][73] One function of this
+regulation is to cause B cells to class switch to IgA. In most cases B cells need activation from T helper
+cells to induce class switching; however, in another pathway, gut flora cause NF-kB signaling by intestinal
+epithelial cells which results in further signaling molecules being secreted.[74] These signaling molecules
+interact with B cells to induce class switching to IgA.[74] IgA is an important type of antibody that is used in
+mucosal environments like the gut. It has been shown that IgA can help diversify the gut community and
+helps in getting rid of bacteria that cause inflammatory responses.[75] Ultimately, IgA maintains a healthy
+environment between the host and gut bacteria.[75] These cytokines and antibodies can have effects outside
+the gut, in the lungs and other tissues.[12]
+The immune system can also be altered due to the gut bacteria's ability to produce metabolites that can
+affect cells in the immune system. For example short-chain fatty acids (SCFA) can be produced by some
+gut bacteria through fermentation.[76] SCFAs stimulate a rapid increase in the production of innate immune
+cells like neutrophils, basophils and eosinophils.[76] These cells are part of the innate immune system that
+try to limit the spread of infection.
+Metabolism
+Tryptophan metabolism by human gastrointestinal microbiota ()
+This diagram shows the biosynthesis of bioactive compounds (indole and certain other
+derivatives) from tryptophan by bacteria in the gut.[77] Indole is produced from tryptophan by
+bacteria that express tryptophanase.[77] Clostridium sporogenes metabolizes tryptophan into indole
+and subsequently 3-indolepropionic acid (IPA),[78] a highly potent neuroprotective antioxidant that
+scavenges hydroxyl radicals.[77][79][80] IPA binds to the pregnane X receptor (PXR) in intestinal
+cells, thereby facilitating mucosal homeostasis and barrier function.[77] Following absorption from
+the intestine and distribution to the brain, IPA confers a neuroprotective effect against cerebral
+ischemia and Alzheimer's disease.[77] Lactobacillaceae (Lactobacillus s.l.) species metabolize
+tryptophan into indole-3-aldehyde (I3A) which acts on the aryl hydrocarbon receptor (AhR) in
+intestinal immune cells, in turn increasing interleukin-22 (IL-22) production.[77] Indole itself triggers
+the secretion of glucagon-like peptide-1 (GLP-1) in intestinal L cells and acts as a ligand for
+AhR.[77] Indole can also be metabolized by the liver into indoxyl sulfate, a compound that is toxic
+in high concentrations and associated with vascular disease and renal dysfunction.[77] AST-120
+(activated charcoal), an intestinal sorbent that is taken by mouth, adsorbs indole, in turn decreasing
+the concentration of indoxyl sulfate in blood plasma.[77]
+Without
+gut flora,
+the human
+body
+would be
+unable to
+utilize
+some 
+of
+the
+undigested carbohydrates it consumes, because some types of gut flora have enzymes that human cells lack
+for breaking down certain polysaccharides.[14] Rodents raised in a sterile environment and lacking in gut
+flora need to eat 30% more calories just to remain the same weight as their normal counterparts.[14]
+Carbohydrates that humans cannot digest without bacterial help include certain starches, fiber,
+oligosaccharides, and sugars that the body failed to digest and absorb like lactose in the case of lactose
+intolerance and sugar alcohols, mucus produced by the gut, and proteins.[9][14]
+Tryptophan
+Clostridium
+sporogenes
+Lacto-
+bacilli
+Tryptophanase-
+expressing
+bacteria
+IPA
+I3A
+Indole
+Liver
+Brain
+IPA
+I3A
+Indole
+Indoxyl
+sulfate
+AST-120
+AhR
+Intestinal
+immune
+cells
+Intestinal
+epithelium
+PXR
+Mucosal homeostasis:
+↓TNF-α
+↑Junction protein-
+coding mRNAs
+L cell
+GLP-1
+T J
+Neuroprotectant:
+↓Activation of glial cells and astrocytes
+↓4-Hydroxy-2-nonenal levels
+↓DNA damage
+–Antioxidant
+–Inhibits β-amyloid fibril formation
+Maintains mucosal reactivity:
+↑IL-22 production
+Associated with vascular
+disease:
+↑Oxidative stress
+↑Smooth muscle cell
+proliferation
+↑Aortic wall thickness and
+calcification
+Associated with chronic
+kidney disease:
+↑Renal dysfunction
+–Uremic toxin
+Kidneys
+Bacteria turn carbohydrates they ferment into short-chain fatty acids by a form of fermentation called
+saccharolytic fermentation.[41] Products include acetic acid, propionic acid and butyric acid.[7][41] These
+materials can be used by host cells, providing a major source of energy and nutrients.[41] Gases (which are
+involved in signaling[81] and may cause flatulence) and organic acids, such as lactic acid, are also produced
+by fermentation.[7] Acetic acid is used by muscle, propionic acid facilitates liver production of ATP, and
+butyric acid provides energy to gut cells.[41]
+Gut flora also synthesize vitamins like biotin and folate, and facilitate absorption of dietary minerals,
+including magnesium, calcium, and iron.[6][24] Methanobrevibacter smithii is unique because it is not a
+species of bacteria, but rather a member of domain Archaea, and is the most abundant methane-producing
+archaeal species in the human gastrointestinal microbiota.[82]
+Gut microbiota also serve as a source of vitamins K and B12, which are not produced by the body or
+produced in little amount.[83][84]
+Bacteria that degrade cellulose (such as Ruminococcus) are prevalent among great apes, ancient human
+societies, hunter-gatherer communities, and even modern rural populations. However, they are rare in
+industrialized societies. Human-associated strains have acquired genes that can degrade specific plant fibers
+such as maize, rice, and wheat. Bacterial strains found in primates can also degrade chitin, a polymer
+abundant in insects, which are part of the diet of many nonhuman primates. The decline of these bacteria in
+the human gut were likely influenced by the shift toward western lifestyles.[85]
+The human metagenome (i.e., the genetic composition of an individual and all microorganisms that reside
+on or within the individual's body) varies considerably between individuals.[86][87] Since the total number
+of microbial cells in the human body (over 100 trillion) greatly outnumbers Homo sapiens cells (tens of
+trillions),[note 1][86][88] there is considerable potential for interactions between drugs and an individual's
+microbiome, including: drugs altering the composition of the human microbiome, drug metabolism by
+microbial enzymes modifying the drug's pharmacokinetic profile, and microbial drug metabolism affecting a
+drug's clinical efficacy and toxicity profile.[86][87][89]
+Apart from carbohydrates, gut microbiota can also metabolize other xenobiotics such as drugs,
+phytochemicals, and food toxicants. More than 30 drugs have been shown to be metabolized by gut
+microbiota.[90] The microbial metabolism of drugs can sometimes inactivate the drug.[91]
+The gut microbiota is an enriched community that contains diverse genes with huge biochemical capabilities
+to modify drugs, especially those taken by mouth.[92] Gut microbiota can affect drug metabolism via direct
+and indirect mechanisms.[93] The direct mechanism is mediated by the microbial enzymes that can modify
+the chemical structure of the administered drugs.[94] Conversely, the indirect pathway is mediated by the
+microbial metabolites which affect the expression of host metabolizing enzymes such as cytochrome
+P450.[95][93] The effects of the gut microbiota on the pharmacokinetics and bioavailability of the drug have
+been investigated a few decades ago.[96][97][98] These effects can be varied; it could activate the inactive
+Cellulose degradation
+Pharmacomicrobiomics
+Contribution to drug metabolism
+drugs such as lovastatin,[99] inactivate the active drug such as digoxin[100] or induce drug toxicity as in
+irinotecan.[101] Since then, the impacts of the gut microbiota on the pharmacokinetics of many drugs were
+heavily studied.[102][92]
+The human gut microbiota plays a crucial role in modulating the effect of the administered drugs on the
+human. Directly, gut microbiota can synthesize and release a series of enzymes with the capability to
+metabolize drugs such as microbial biotransformation of L-dopa by decarboxylase and dehydroxylase
+enzymes.[94] On the contrary, gut microbiota may also alter the metabolism of the drugs by modulating the
+host drug metabolism. This mechanism can be mediated by microbial metabolites or by modifying host
+metabolites which in turn change the expression of host metabolizing enzymes.[95]
+A large number of studies have demonstrated the metabolism of over 50 drugs by the gut
+microbiota.[102][93] For example, lovastatin (a cholesterol-lowering agent) which is a lactone prodrug is
+partially activated by the human gut microbiota forming active acid hydroxylated metabolites.[99]
+Conversely, digoxin (a drug used to treat Congestive Heart Failure) is inactivated by a member of the gut
+microbiota (i.e. Eggerthella lanta).[103] Eggerthella lanta has a cytochrome-encoding operon up-regulated
+by digoxin and associated with digoxin-inactivation.[103] Gut microbiota can also modulate the efficacy and
+toxicity of chemotherapeutic agents such as irinotecan.[104] This effect is derived from the microbiome-
+encoded β-glucuronidase enzymes which recover the active form of the irinotecan causing gastrointestinal
+toxicity.[105]
+This microbial community in the gut has a huge biochemical capability to produce distinct secondary
+metabolites that are sometimes produced from the metabolic conversion of dietary foods such as fibers,
+endogenous biological compounds such as indole or bile acids.[106][107][108] Microbial metabolites
+especially short chain fatty acids (SCFAs) and secondary bile acids (BAs) play important roles for the
+human in health and disease states.[109][110][111]
+One of the most important bacterial metabolites produced by the gut microbiota is secondary bile acids
+(BAs).[108] These metabolites are produced by the bacterial biotransformation of the primary bile acids such
+as cholic acid (CA) and chenodeoxycholic acid (CDCA) into secondary bile acids (BAs) lithocholic acid
+(LCA) and deoxy cholic acid (DCA) respectively.[112] Primary bile acids which are synthesized by
+hepatocytes and stored in the gall bladder possess hydrophobic characters. These metabolites are
+subsequently metabolized by the gut microbiota into secondary metabolites with increased
+hydrophobicity.[112] Bile salt hydrolases (BSH) which are conserved across gut microbiota phyla such as
+Bacteroides, Firmicutes, and Actinobacteria responsible for the first step of secondary bile acids
+metabolism.[112] Secondary bile acids (BAs) such as DCA and LCA have been demonstrated to inhibit
+both Clostridium difficile germination and outgrowth.[111]
+The gut microbiota is important for maintaining homeostasis in the intestine. Development of intestinal
+cancer is associated with an imbalance in the natural microflora (dysbiosis).[113] The secondary bile acid
+deoxycholic acid is associated with alterations of the microbial community that lead to increased intestinal
+carcinogenesis.[113] Increased exposure of the colon to secondary bile acids resulting from dysbiosis can
+cause DNA damage, and such damage can produce carcinogenic mutations in cells of the colon.[114] The
+Secondary metabolites
+Dysbiosis
+high density of bacteria in the colon (about 1012 per ml.) that are subject to dysbiosis compared to the
+relatively low density in the small intestine (about 102 per ml.) may account for the greater than 10-fold
+higher incidence of cancer in the colon compared to the small intestine.[114]
+The gut–brain axis is the biochemical signaling that takes place between the gastrointestinal tract and the
+central nervous system.[70] That term has been expanded to include the role of the gut flora in the interplay;
+the term "microbiome––brain axis" is sometimes used to describe paradigms explicitly including the gut
+flora.[70][115][116] Broadly defined, the gut–brain axis includes the central nervous system, neuroendocrine
+and neuroimmune systems including the hypothalamic–pituitary–adrenal axis (HPA axis), sympathetic and
+parasympathetic arms of the autonomic nervous system including the enteric nervous system, the vagus
+nerve, and the gut microbiota.[70][116]
+A systematic review from 2016 examined the preclinical and small human trials that have been conducted
+with certain commercially available strains of probiotic bacteria and found that among those tested,
+Bifidobacterium and Lactobacillus genera (B. longum, B. breve, B. infantis, L. helveticus, L. rhamnosus, L.
+plantarum, and L. casei), had the most potential to be useful for certain central nervous system
+disorders.[16]
+Altering the numbers of gut bacteria, for example by taking broad-spectrum antibiotics, may affect the host's
+health and ability to digest food.[117] Antibiotics can cause antibiotic-associated diarrhea by irritating the
+bowel directly, changing the levels of microbiota, or allowing pathogenic bacteria to grow.[7] Another
+harmful effect of antibiotics is the increase in numbers of antibiotic-resistant bacteria found after their use,
+which, when they invade the host, cause illnesses that are difficult to treat with antibiotics.[117]
+Changing the numbers and species of gut microbiota can reduce the body's ability to ferment carbohydrates
+and metabolize bile acids and may cause diarrhea. Carbohydrates that are not broken down may absorb too
+much water and cause runny stools, or lack of SCFAs produced by gut microbiota could cause diarrhea.[7]
+A reduction in levels of native bacterial species also disrupts their ability to inhibit the growth of harmful
+species such as C. difficile and Salmonella kedougou, and these species can get out of hand, though their
+overgrowth may be incidental and not be the true cause of diarrhea.[6][7][117] Emerging treatment protocols
+for C. difficile infections involve fecal microbiota transplantation of donor feces (see Fecal transplant).[118]
+Initial reports of treatment describe success rates of 90%, with few side effects. Efficacy is speculated to
+result from restoring bacterial balances of bacteroides and firmicutes classes of bacteria.[119]
+The composition of the gut microbiome also changes in severe illnesses, due not only to antibiotic use but
+also to such factors as ischemia of the gut, failure to eat, and immune compromise. Negative effects from
+this have led to interest in selective digestive tract decontamination, a treatment to kill only pathogenic
+bacteria and allow the re-establishment of healthy ones.[120]
+Gut–brain axis
+Alterations in microbiota balance
+Effects of antibiotic use
+Antibiotics alter the population of the microbiota in the gastrointestinal tract, and this may change the intra-
+community metabolic interactions, modify caloric intake by using carbohydrates, and globally affects host
+metabolic, hormonal and immune homeostasis.[121]
+There is reasonable evidence that taking probiotics containing Lactobacillus species may help prevent
+antibiotic-associated diarrhea and that taking probiotics with Saccharomyces (e.g., Saccharomyces boulardii
+) may help to prevent Clostridium difficile infection following systemic antibiotic treatment.[122]
+The gut microbiota of a woman changes as pregnancy advances, with the changes similar to those seen in
+metabolic syndromes such as diabetes. The change in gut microbiota causes no ill effects. The newborn's
+gut microbiota resemble the mother's first-trimester samples. The diversity of the microbiome decreases
+from the first to third trimester, as the numbers of certain species go up.[58][123]
+Probiotics are microorganisms that are believed to provide health benefits when consumed.[124][125] With
+regard to gut microbiota, prebiotics are typically non-digestible, fiber compounds that pass undigested
+through the upper part of the gastrointestinal tract and stimulate the growth or activity of advantageous gut
+flora by acting as substrate for them.[41][126]
+Synbiotics refers to food ingredients or dietary supplements combining probiotics and prebiotics in a form
+of synergism.[127]
+The term "pharmabiotics" is used in various ways, to mean: pharmaceutical formulations (standardized
+manufacturing that can obtain regulatory approval as a drug) of probiotics, prebiotics, or synbiotics;[128]
+probiotics that have been genetically engineered or otherwise optimized for best performance (shelf life,
+survival in the digestive tract, etc.);[129] and the natural products of gut flora metabolism (vitamins,
+etc.).[130]
+There is some evidence that treatment with some probiotic strains of bacteria may be effective in irritable
+bowel syndrome[131] [132] and chronic idiopathic constipation. Those organisms most likely to result in a
+decrease of symptoms have included:
+Bifidobacterium breve
+Bifidobacterium infantis
+Enterococcus faecium
+Lactobacillus plantarum
+Lactobacillus reuteri
+Lactobacillus rhamnosus
+Lactobacillus salivarius
+Propionibacterium freudenreichii
+Saccharomyces boulardii
+Escherichia coli Nissle 1917
+Pregnancy
+Probiotics, prebiotics, synbiotics, and pharmabiotics
+Streptococcus thermophilus[133][134][135]
+Feces of about 10–15% of people consistently floats in toilet water ('floaters'), while the rest produce feces
+that sinks ('sinkers') and production of gas causes feces to float.[136] While conventional mice often produce
+'floaters', gnotobiotic germfree mice no gut microbiota (bred in germfree isolator) produce 'sinkers', and gut
+microbiota colonization in germfree mice leads to food transformation to microbial biomass and enrichment
+of multiple gasogenic bacterial species that turns the 'sinkers' into 'floaters'.[137]
+Tests for whether non-antibiotic drugs may impact human gut-associated bacteria were performed by in
+vitro analysis on more than 1000 marketed drugs against 40 gut bacterial strains, demonstrating that 24% of
+the drugs inhibited the growth of at least one of the bacterial strains.[138]
+Gut microbiota and exercise have recently been shown to be interconnected. Both moderate and intense
+exercise are typically part of the training regimen of endurance athletes, but they exert different effects on
+health. The interconnection between gut microbiota and endurance sports depends upon exercise intensity
+and training status.[139]
+Bacteria in the digestive tract can contribute to and be affected by disease in various ways. The presence or
+overabundance of some kinds of bacteria may contribute to inflammatory disorders such as inflammatory
+bowel disease.[6] Additionally, metabolites from certain members of the gut flora may influence host
+signalling pathways, contributing to disorders such as obesity and colon cancer.[6] Some gut bacteria may
+also cause infections and sepsis, for example when they are allowed to pass from the gut into the rest of the
+body.[6]
+Helicobacter pylori infection can initiate formation of stomach ulcers when the bacteria penetrate the
+stomach epithelial lining, then causing an inflammatory phagocytotic response.[140] In turn, the
+inflammation damages parietal cells which release excessive hydrochloric acid into the stomach and
+produce less of the protective mucus.[141] Injury to the stomach lining, leading to ulcers, develops when
+gastric acid overwhelms the defensive properties of cells and inhibits endogenous prostaglandin synthesis,
+reduces mucus and bicarbonate secretion, reduces mucosal blood flow, and lowers resistance to injury.[141]
+Reduced protective properties of the stomach lining increase vulnerability to further injury and ulcer
+formation by stomach acid, pepsin, and bile salts.[140][141]
+Fecal floatation
+Research
+Effects of exercise
+Role in disease
+Ulcers
+Bowel perforation
+Normally-commensal bacteria can harm the host if they extrude from the intestinal tract.[12][13]
+Translocation, which occurs when bacteria leave the gut through its mucosal lining, can occur in a number
+of different diseases.[13] If the gut is perforated, bacteria invade the interstitium, causing a potentially fatal
+infection.[5]: 
+715 
+The two main types of inflammatory bowel diseases, Crohn's disease and ulcerative colitis, are chronic
+inflammatory disorders of the gut; the causes of these diseases are unknown and issues with the gut flora
+and its relationship with the host have been implicated in these conditions.[15][142][143][144] Additionally, it
+appears that interactions of gut flora with the gut–brain axis have a role in IBD, with physiological stress
+mediated through the hypothalamic–pituitary–adrenal axis driving changes to intestinal epithelium and the
+gut flora in turn releasing factors and metabolites that trigger signaling in the enteric nervous system and the
+vagus nerve.[4]
+The diversity of gut flora appears to be significantly diminished in people with inflammatory bowel diseases
+compared to healthy people; additionally, in people with ulcerative colitis, Proteobacteria and Actinobacteria
+appear to dominate; in people with Crohn's, Enterococcus faecium and several Proteobacteria appear to be
+over-represented.[4]
+There is reasonable evidence that correcting gut flora imbalances by taking probiotics with Lactobacilli and
+Bifidobacteria can reduce visceral pain and gut inflammation in IBD.[122]
+Irritable bowel syndrome is a result of stress and chronic activation of the HPA axis; its symptoms include
+abdominal pain, changes in bowel movements, and an increase in proinflammatory cytokines. Overall,
+studies have found that the luminal and mucosal microbiota are changed in irritable bowel syndrome
+individuals, and these changes can relate to the type of irritation such as diarrhea or constipation. Also, there
+is a decrease in the diversity of the microbiome with low levels of fecal Lactobacilli and Bifidobacteria,
+high levels of facultative anaerobic bacteria such as Escherichia coli, and increased ratios of Firmicutes:
+Bacteroidetes.[116]
+With asthma, two hypotheses have been posed to explain its rising prevalence in the developed world. The
+hygiene hypothesis posits that children in the developed world are not exposed to enough microbes and
+thus may contain lower prevalence of specific bacterial taxa that play protective roles.[145] The second
+hypothesis focuses on the Western pattern diet, which lacks whole grains and fiber and has an
+overabundance of simple sugars.[15] Both hypotheses converge on the role of short-chain fatty acids
+(SCFAs) in immunomodulation. These bacterial fermentation metabolites are involved in immune signalling
+that prevents the triggering of asthma and lower SCFA levels are associated with the disease.[145][146]
+Lacking protective genera such as Lachnospira, Veillonella, Rothia and Faecalibacterium has been linked
+to reduced SCFA levels.[145] Further, SCFAs are the product of bacterial fermentation of fiber, which is low
+Inflammatory bowel diseases
+Irritable bowel syndrome
+Asthma
+in the Western pattern diet.[15][146] SCFAs offer a link between gut flora and immune disorders, and as of
+2016, this was an active area of research.[15] Similar hypotheses have also been posited for the rise of food
+and other allergies.[147]
+The connection between the gut microbiota and diabetes mellitus type 1 has also been linked to SCFAs,
+such as butyrate and acetate. Diets yielding butyrate and acetate from bacterial fermentation show increased
+Treg expression.[148] Treg cells downregulate effector T cells, which in turn reduces the inflammatory
+response in the gut.[149] Butyrate is an energy source for colon cells. butyrate-yielding diets thus decrease
+gut permeability by providing sufficient energy for the formation of tight junctions.[150] Additionally,
+butyrate has also been shown to decrease insulin resistance, suggesting gut communities low in butyrate-
+producing microbes may increase chances of acquiring diabetes mellitus type 2.[151] Butyrate-yielding diets
+may also have potential colorectal cancer suppression effects.[150]
+The gut flora have been implicated in obesity and metabolic syndrome due to a key role in the digestive
+process; the Western pattern diet appears to drive and maintain changes in the gut flora that in turn change
+how much energy is derived from food and how that energy is used.[144][152] One aspect of a healthy diet
+that is often lacking in the Western-pattern diet is fiber and other complex carbohydrates that a healthy gut
+flora require flourishing; changes to gut flora in response to a Western-pattern diet appear to increase the
+amount of energy generated by the gut flora which may contribute to obesity and metabolic syndrome.[122]
+There is also evidence that microbiota influence eating behaviours based on the preferences of the
+microbiota, which can lead to the host consuming more food eventually resulting in obesity. It has generally
+been observed that with higher gut microbiome diversity, the microbiota will spend energy and resources on
+competing with other microbiota and less on manipulating the host. The opposite is seen with lower gut
+microbiome diversity, and these microbiotas may work together to create host food cravings.[52]
+Additionally, the liver plays a dominant role in blood glucose homeostasis by maintaining a balance
+between the uptake and storage of glucose through the metabolic pathways of glycogenesis and
+gluconeogenesis. Intestinal lipids regulate glucose homeostasis involving a gut–brain–liver axis. The direct
+administration of lipids into the upper intestine increases the long chain fatty acyl-coenzyme A (LCFA-
+CoA) levels in the upper intestines and suppresses glucose production even under subdiaphragmatic
+vagotomy or gut vagal deafferentation. This interrupts the neural connection between the brain and the gut
+and blocks the upper intestinal lipids' ability to inhibit glucose production. The gut–brain–liver axis and gut
+microbiota composition can regulate the glucose homeostasis in the liver and provide potential therapeutic
+methods to treat obesity and diabetes.[153]
+Just as gut flora can function in a feedback loop that can drive the development of obesity, there is evidence
+that restricting intake of calories (i.e., dieting) can drive changes to the composition of the gut flora.[144]
+The composition of the human gut microbiome is similar to that of the other great apes. However, humans'
+gut biota has decreased in diversity and changed in composition since our evolutionary split from Pan.[154]
+Humans display increases in Bacteroidetes, a bacterial phylum associated with diets high in animal protein
+Diabetes mellitus type 1
+Obesity and metabolic syndrome
+Other animals
+and fat, and decreases in Methanobrevibacter and Fibrobacter, groups that ferment complex plant
+polysaccharides.[154] These changes are the result of the combined dietary, genetic, and cultural changes
+humans have undergone since evolutionary divergence from Pan.
+In addition to humans and vertebrates, some insects also have complex and diverse gut microbiota that play
+key nutritional roles.[2] Microbial communities associated with termites can constitute a majority of the
+weight of the individuals and perform important roles in the digestion of lignocellulose and nitrogen
+fixation.[155] These communities are host-specific, and closely related insect species share comparable
+similarities in gut microbiota composition.[156][157] In cockroaches, gut microbiota have been shown to
+assemble in a deterministic fashion, irrespective of the inoculum;[158] the reason for this host-specific
+assembly remains unclear. Bacterial communities associated with insects like termites and cockroaches are
+determined by a combination of forces, primarily diet, but there is some indication that host phylogeny may
+also be playing a role in the selection of lineages.[156][157]
+For more than 51 years it has been known that the administration of low doses of antibacterial agents
+promotes the growth of farm animals to increase weight gain.[121]
+In a study carried out on mice the ratio of Firmicutes and Lachnospiraceae was significantly elevated in
+animals treated with subtherapeutic doses of different antibiotics. By analyzing the caloric content of faeces
+and the concentration of small chain fatty acids (SCFAs) in the GI tract, it was concluded that the changes
+in the composition of microbiota lead to an increased capacity to extract calories from otherwise indigestible
+constituents, and to an increased production of SCFAs. These findings provide evidence that antibiotics
+perturb not only the composition of the GI microbiome but also its metabolic capabilities, specifically with
+respect to SCFAs.[121]
+Biology portal
+Medicine portal
+Colonisation resistance
+List of human flora
+List of microbiota species of the lower reproductive tract of women
+Skin flora
+Verotoxin-producing Escherichia coli
+1. There is substantial variation in microbiome composition and microbial concentrations by
+anatomical site.[86][87] Fluid from the human colon – which contains the highest
+concentration of microbes of any anatomical site – contains approximately one trillion
+(10^12) bacterial cells/ml.[86]
+1. Moszak, M; Szulińska, M; Bogdański, P (15 April 2020). "You Are What You Eat – The
+Relationship between Diet, Microbiota, and Metabolic Disorders-A Review" (https://www.ncb
+See also
+Notes
+References
+i.nlm.nih.gov/pmc/articles/PMC7230850). Nutrients. 12 (4): 1096. doi:10.3390/nu12041096
+(https://doi.org/10.3390%2Fnu12041096). PMC 7230850 (https://www.ncbi.nlm.nih.gov/pmc/
+articles/PMC7230850). PMID 32326604 (https://pubmed.ncbi.nlm.nih.gov/32326604).
+S2CID 216108564 (https://api.semanticscholar.org/CorpusID:216108564).
+2. Engel, P.; Moran, N. (2013). "The gut microbiota of insects–diversity in structure and
+function" (https://doi.org/10.1111%2F1574-6976.12025). FEMS Microbiology Reviews. 37
+(5): 699–735. doi:10.1111/1574-6976.12025 (https://doi.org/10.1111%2F1574-6976.12025).
+PMID 23692388 (https://pubmed.ncbi.nlm.nih.gov/23692388).
+3. Segata, N; Boernigen, D; Tickle, TL; Morgan, XC; Garrett, WS; Huttenhower, C (14 May
+2013). "Computational meta'omics for microbial community studies" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC4039370). Molecular Systems Biology. 9: 666.
+doi:10.1038/msb.2013.22 (https://doi.org/10.1038%2Fmsb.2013.22). PMC 4039370 (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4039370). PMID 23670539 (https://pubmed.ncbi.nl
+m.nih.gov/23670539).
+4. Saxena, R.; Sharma, V.K (2016). "A Metagenomic Insight Into the Human Microbiome: Its
+Implications in Health and Disease" (https://books.google.com/books?id=3ylOBQAAQBAJ&
+pg=PA117). In Kumar, D.; S. Antonarakis (eds.). Medical and Health Genomics. Elsevier
+Science. p. 117. doi:10.1016/B978-0-12-420196-5.00009-5 (https://doi.org/10.1016%2FB97
+8-0-12-420196-5.00009-5). ISBN 978-0-12-799922-7.
+5. Sherwood, Linda; Willey, Joanne; Woolverton, Christopher (2013). Prescott's Microbiology (h
+ttps://books.google.com/books?id=sBCSRAAACAAJ) (9th ed.). New York: McGraw Hill.
+pp. 713–721. ISBN 9780073402406. OCLC 886600661 (https://www.worldcat.org/oclc/8866
+00661).
+6. Guarner, F; Malagelada, J (2003). "Gut flora in health and disease". The Lancet. 361 (9356):
+512–519. doi:10.1016/S0140-6736(03)12489-0 (https://doi.org/10.1016%2FS0140-6736%28
+03%2912489-0). PMID 12583961 (https://pubmed.ncbi.nlm.nih.gov/12583961).
+S2CID 38767655 (https://api.semanticscholar.org/CorpusID:38767655).
+7. Beaugerie, Laurent; Petit, Jean-Claude (2004). "Antibiotic-associated diarrhoea". Best
+Practice & Research Clinical Gastroenterology. 18 (2): 337–352.
+doi:10.1016/j.bpg.2003.10.002 (https://doi.org/10.1016%2Fj.bpg.2003.10.002).
+PMID 15123074 (https://pubmed.ncbi.nlm.nih.gov/15123074).
+8. Stephen, A. M.; Cummings, J. H. (1980). "The Microbial Contribution to Human Faecal
+Mass" (https://doi.org/10.1099%2F00222615-13-1-45). Journal of Medical Microbiology. 13
+(1): 45–56. doi:10.1099/00222615-13-1-45 (https://doi.org/10.1099%2F00222615-13-1-45).
+PMID 7359576 (https://pubmed.ncbi.nlm.nih.gov/7359576).
+9. Quigley, E. M (2013). "Gut bacteria in health and disease" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC3983973). Gastroenterology & Hepatology. 9 (9): 560–569. PMC 3983973 (htt
+ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3983973). PMID 24729765 (https://pubmed.ncb
+i.nlm.nih.gov/24729765).
+10. Turnbaugh, Peter J.; Ley, Ruth E.; Hamady, Micah; Fraser-Liggett, Claire M.; Knight, Rob;
+Gordon, Jeffrey I. (October 2007). "The Human Microbiome Project" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC3709439). Nature. 449 (7164): 804–810.
+Bibcode:2007Natur.449..804T (https://ui.adsabs.harvard.edu/abs/2007Natur.449..804T).
+doi:10.1038/nature06244 (https://doi.org/10.1038%2Fnature06244). ISSN 0028-0836 (http
+s://www.worldcat.org/issn/0028-0836). PMC 3709439 (https://www.ncbi.nlm.nih.gov/pmc/arti
+cles/PMC3709439). PMID 17943116 (https://pubmed.ncbi.nlm.nih.gov/17943116).
+11. Ma, Guangyu; Shi, Yuguo; Meng, Lulu; Fan, Haolong; Tang, Xiaomei; Luo, Huijuan; Wang,
+Dongju; Zhou, Juan; Xiao, Xiaomin (2023). "Factors affecting the early establishment of
+neonatal intestinal flora and its intervention measures" (https://www.ncbi.nlm.nih.gov/pmc/arti
+cles/PMC10722192). Frontiers in Cellular and Infection Microbiology. 13.
+doi:10.3389/fcimb.2023.1295111 (https://doi.org/10.3389%2Ffcimb.2023.1295111).
+ISSN 2235-2988 (https://www.worldcat.org/issn/2235-2988). PMC 10722192 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC10722192). PMID 38106467 (https://pubmed.ncbi.nlm.nih.g
+ov/38106467).
+12. Sommer, Felix; Bäckhed, Fredrik (2013). "The gut microbiota – masters of host development
+and physiology". Nature Reviews Microbiology. 11 (4): 227–238. doi:10.1038/nrmicro2974
+(https://doi.org/10.1038%2Fnrmicro2974). PMID 23435359 (https://pubmed.ncbi.nlm.nih.gov/
+23435359). S2CID 22798964 (https://api.semanticscholar.org/CorpusID:22798964).
+13. Faderl, Martin; Noti, Mario; Corazza, Nadia; Mueller, Christoph (2015). "Keeping bugs in
+check: The mucus layer as a critical component in maintaining intestinal homeostasis" (http
+s://doi.org/10.1002%2Fiub.1374). IUBMB Life. 67 (4): 275–285. doi:10.1002/iub.1374 (https://
+doi.org/10.1002%2Fiub.1374). PMID 25914114 (https://pubmed.ncbi.nlm.nih.gov/25914114).
+S2CID 25878594 (https://api.semanticscholar.org/CorpusID:25878594).
+14. Clarke, Gerard; Stilling, Roman M; Kennedy, Paul J; Stanton, Catherine; Cryan, John F;
+Dinan, Timothy G (2014). "Minireview: Gut Microbiota: The Neglected Endocrine Organ" (htt
+ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5414803). Molecular Endocrinology. 28 (8):
+1221–1238. doi:10.1210/me.2014-1108 (https://doi.org/10.1210%2Fme.2014-1108).
+PMC 5414803 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5414803). PMID 24892638 (h
+ttps://pubmed.ncbi.nlm.nih.gov/24892638).
+15. Shen, Sj; Wong, Connie HY (2016). "Bugging inflammation: Role of the gut microbiota" (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855262). Clinical & Translational Immunology. 5
+(4): e72. doi:10.1038/cti.2016.12 (https://doi.org/10.1038%2Fcti.2016.12). PMC 4855262 (htt
+ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC4855262). PMID 27195115 (https://pubmed.ncb
+i.nlm.nih.gov/27195115).
+16. Wang, Huiying; Lee, In-Seon; Braun, Christoph; Enck, Paul (2016). "Effect of Probiotics on
+Central Nervous System Functions in Animals and Humans: A Systematic Review" (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC5056568). Journal of Neurogastroenterology and
+Motility. 22 (4): 589–605. doi:10.5056/jnm16018 (https://doi.org/10.5056%2Fjnm16018).
+PMC 5056568 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5056568). PMID 27413138 (h
+ttps://pubmed.ncbi.nlm.nih.gov/27413138).
+17. Sears, Cynthia L. (2005). "A dynamic partnership: Celebrating our gut flora". Anaerobe. 11
+(5): 247–251. doi:10.1016/j.anaerobe.2005.05.001 (https://doi.org/10.1016%2Fj.anaerobe.20
+05.05.001). PMID 16701579 (https://pubmed.ncbi.nlm.nih.gov/16701579).
+18. Shapira, Michael (2016-07-01). "Gut Microbiotas and Host Evolution: Scaling Up Symbiosis"
+(https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(16)00085-9). Trends in
+Ecology & Evolution. 31 (7): 539–549. doi:10.1016/j.tree.2016.03.006 (https://doi.org/10.101
+6%2Fj.tree.2016.03.006). ISSN 0169-5347 (https://www.worldcat.org/issn/0169-5347).
+PMID 27039196 (https://pubmed.ncbi.nlm.nih.gov/27039196).
+19. Walker, Alan W.; Hoyles, Lesley (August 2023). "Human microbiome myths and
+misconceptions" (https://doi.org/10.1038%2Fs41564-023-01426-7). Nature Microbiology. 8
+(8): 1392–1396. doi:10.1038/s41564-023-01426-7 (https://doi.org/10.1038%2Fs41564-023-0
+1426-7). ISSN 2058-5276 (https://www.worldcat.org/issn/2058-5276). PMID 37524974 (http
+s://pubmed.ncbi.nlm.nih.gov/37524974).
+20. Lozupone, Catherine A.; Stombaugh, Jesse I.; Gordon, Jeffrey I.; Jansson, Janet K.; Knight,
+Rob (2012). "Diversity, stability and resilience of the human gut microbiota" (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC3577372). Nature. 489 (7415): 220–230.
+Bibcode:2012Natur.489..220L (https://ui.adsabs.harvard.edu/abs/2012Natur.489..220L).
+doi:10.1038/nature11550 (https://doi.org/10.1038%2Fnature11550). PMC 3577372 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3577372). PMID 22972295 (https://pubmed.ncbi.nlm.
+nih.gov/22972295).
+21. Qin, Junjie; Li, Ruiqiang; Raes, Jeroen; Arumugam, Manimozhiyan; Burgdorf, Kristoffer
+Solvsten; Manichanh, Chaysavanh; Nielsen, Trine; Pons, Nicolas; Levenez, Florence;
+Yamada, Takuji; Mende, Daniel R.; Li, Junhua; Xu, Junming; Li, Shaochuan; Li, Dongfang;
+Cao, Jianjun; Wang, Bo; Liang, Huiqing; Zheng, Huisong; Xie, Yinlong; Tap, Julien; Lepage,
+Patricia; Bertalan, Marcelo; Batto, Jean-Michel; Hansen, Torben; Le Paslier, Denis;
+Linneberg, Allan; Nielsen, H. Bjørn; Pelletier, Eric; Renault, Pierre (2010). "A human gut
+microbial gene catalogue established by metagenomic sequencing" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC3779803). Nature. 464 (7285): 59–65. Bibcode:2010Natur.464...59.
+(https://ui.adsabs.harvard.edu/abs/2010Natur.464...59.). doi:10.1038/nature08821 (https://do
+i.org/10.1038%2Fnature08821). PMC 3779803 (https://www.ncbi.nlm.nih.gov/pmc/articles/P
+MC3779803). PMID 20203603 (https://pubmed.ncbi.nlm.nih.gov/20203603).
+22. Shanahan, Fergus (2002). "The host–microbe interface within the gut". Best Practice &
+Research Clinical Gastroenterology. 16 (6): 915–931. doi:10.1053/bega.2002.0342 (https://d
+oi.org/10.1053%2Fbega.2002.0342). PMID 12473298 (https://pubmed.ncbi.nlm.nih.gov/1247
+3298).
+23. Tap, Julien; Mondot, Stanislas; Levenez, Florence; Pelletier, Eric; Caron, Christophe; Furet,
+Jean-Pierre; Ugarte, Edgardo; Muñoz-Tamayo, Rafael; Paslier, Denis L. E.; Nalin, Renaud;
+Dore, Joel; Leclerc, Marion (2009). "Towards the human intestinal microbiota phylogenetic
+core" (https://doi.org/10.1111%2Fj.1462-2920.2009.01982.x). Environmental Microbiology.
+11 (10): 2574–2584. Bibcode:2009EnvMi..11.2574T (https://ui.adsabs.harvard.edu/abs/2009
+EnvMi..11.2574T). doi:10.1111/j.1462-2920.2009.01982.x (https://doi.org/10.1111%2Fj.1462
+-2920.2009.01982.x). PMID 19601958 (https://pubmed.ncbi.nlm.nih.gov/19601958).
+24. O'Hara, Ann M; Shanahan, Fergus (2006). "The gut flora as a forgotten organ" (https://www.n
+cbi.nlm.nih.gov/pmc/articles/PMC1500832). EMBO Reports. 7 (7): 688–693.
+doi:10.1038/sj.embor.7400731 (https://doi.org/10.1038%2Fsj.embor.7400731).
+PMC 1500832 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1500832). PMID 16819463 (h
+ttps://pubmed.ncbi.nlm.nih.gov/16819463).
+25. Khanna, Sahil; Tosh, Pritish K (2014). "A Clinician's Primer on the Role of the Microbiome in
+Human Health and Disease". Mayo Clinic Proceedings. 89 (1): 107–114.
+doi:10.1016/j.mayocp.2013.10.011 (https://doi.org/10.1016%2Fj.mayocp.2013.10.011).
+PMID 24388028 (https://pubmed.ncbi.nlm.nih.gov/24388028).
+26. Cui, Lijia; Morris, Alison; Ghedin, Elodie (2013). "The human mycobiome in health and
+disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3978422). Genome Medicine. 5 (7):
+63. doi:10.1186/gm467 (https://doi.org/10.1186%2Fgm467). PMC 3978422 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC3978422). PMID 23899327 (https://pubmed.ncbi.nlm.nih.gov/
+23899327).
+27. Erdogan, Askin; Rao, Satish S. C (2015). "Small Intestinal Fungal Overgrowth". Current
+Gastroenterology Reports. 17 (4): 16. doi:10.1007/s11894-015-0436-2 (https://doi.org/10.100
+7%2Fs11894-015-0436-2). PMID 25786900 (https://pubmed.ncbi.nlm.nih.gov/25786900).
+S2CID 3098136 (https://api.semanticscholar.org/CorpusID:3098136).
+28. Bello, Maria G. Dominguez; Knight, Rob; Gilbert, Jack A.; Blaser, Martin J. (4 October 2018).
+"Preserving microbial diversity". Science. 362 (6410): 33–34. Bibcode:2018Sci...362...33B (h
+ttps://ui.adsabs.harvard.edu/abs/2018Sci...362...33B). doi:10.1126/science.aau8816 (https://
+doi.org/10.1126%2Fscience.aau8816). PMID 30287652 (https://pubmed.ncbi.nlm.nih.gov/30
+287652). S2CID 52919917 (https://api.semanticscholar.org/CorpusID:52919917).
+29. Arumugam, Manimozhiyan; Raes, Jeroen; Pelletier, Eric; Le Paslier, Denis; Yamada, Takuji;
+Mende, Daniel R.; Fernandes, Gabriel R.; Tap, Julien; Bruls, Thomas; Batto, Jean-Michel;
+Bertalan, Marcelo; Borruel, Natalia; Casellas, Francesc; Fernandez, Leyden; Gautier,
+Laurent; Hansen, Torben; Hattori, Masahira; Hayashi, Tetsuya; Kleerebezem, Michiel;
+Kurokawa, Ken; Leclerc, Marion; Levenez, Florence; Manichanh, Chaysavanh; Nielsen, H.
+Bjørn; Nielsen, Trine; Pons, Nicolas; Poulain, Julie; Qin, Junjie; Sicheritz-Ponten, Thomas;
+Tims, Sebastian (2011). "Enterotypes of the human gut microbiome" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC3728647). Nature. 473 (7346): 174–180.
+Bibcode:2011Natur.473..174. (https://ui.adsabs.harvard.edu/abs/2011Natur.473..174.).
+doi:10.1038/nature09944 (https://doi.org/10.1038%2Fnature09944). PMC 3728647 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3728647). PMID 21508958 (https://pubmed.ncbi.nlm.
+nih.gov/21508958).
+30. Wu, G. D.; Chen, J.; Hoffmann, C.; Bittinger, K.; Chen, Y.-Y.; Keilbaugh, S. A.; Bewtra, M.;
+Knights, D.; Walters, W. A.; Knight, R.; Sinha, R.; Gilroy, E.; Gupta, K.; Baldassano, R.;
+Nessel, L.; Li, H.; Bushman, F. D.; Lewis, J. D. (2011). "Linking Long-Term Dietary Patterns
+with Gut Microbial Enterotypes" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3368382).
+Science. 334 (6052): 105–108. Bibcode:2011Sci...334..105W (https://ui.adsabs.harvard.edu/
+abs/2011Sci...334..105W). doi:10.1126/science.1208344 (https://doi.org/10.1126%2Fscienc
+e.1208344). PMC 3368382 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3368382).
+PMID 21885731 (https://pubmed.ncbi.nlm.nih.gov/21885731).
+31. Zimmer, Carl (April 20, 2011). "Bacteria Divide People Into 3 Types, Scientists Say" (https://
+www.nytimes.com/2011/04/21/science/21gut.html). The New York Times. Retrieved April 21,
+2011. "a group of scientists now report just three distinct ecosystems in the guts of people
+they have studied."
+32. Knights, Dan; Ward, Tonya; McKinlay, Christopher; Miller, Hannah; Gonzalez, Antonio;
+McDonald, Daniel; Knight, Rob (8 October 2014). "Rethinking "Enterotypes" " (https://www.n
+cbi.nlm.nih.gov/pmc/articles/PMC5558460). Cell Host & Microbe. 16 (4): 433–437.
+doi:10.1016/j.chom.2014.09.013 (https://doi.org/10.1016%2Fj.chom.2014.09.013).
+PMC 5558460 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5558460). PMID 25299329 (h
+ttps://pubmed.ncbi.nlm.nih.gov/25299329).
+33. Nardone, G; Compare, D (June 2015). "The human gastric microbiota: Is it time to rethink the
+pathogenesis of stomach diseases?" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC448053
+5). United European Gastroenterology Journal. 3 (3): 255–60.
+doi:10.1177/2050640614566846 (https://doi.org/10.1177%2F2050640614566846).
+PMC 4480535 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4480535). PMID 26137299 (h
+ttps://pubmed.ncbi.nlm.nih.gov/26137299).
+34. Yao, X; Smolka, AJ (June 2019). "Gastric Parietal Cell Physiology and Helicobacter pylori-
+Induced Disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6715393).
+Gastroenterology. 156 (8): 2158–2173. doi:10.1053/j.gastro.2019.02.036 (https://doi.org/10.1
+053%2Fj.gastro.2019.02.036). PMC 6715393 (https://www.ncbi.nlm.nih.gov/pmc/articles/PM
+C6715393). PMID 30831083 (https://pubmed.ncbi.nlm.nih.gov/30831083).
+35. Todar, Kenneth (2012). "The Normal Bacterial Flora of Humans" (http://www.textbookofbacter
+iology.net/normalflora_3.html). Todar's Online Textbook of Bacteriology. Retrieved June 25,
+2016.
+36. Quigley, Eamonn M.M; Quera, Rodrigo (2006). "Small Intestinal Bacterial Overgrowth: Roles
+of Antibiotics, Prebiotics, and Probiotics" (https://doi.org/10.1053%2Fj.gastro.2005.11.046).
+Gastroenterology. 130 (2): S78–90. doi:10.1053/j.gastro.2005.11.046 (https://doi.org/10.105
+3%2Fj.gastro.2005.11.046). PMID 16473077 (https://pubmed.ncbi.nlm.nih.gov/16473077).
+S2CID 16904501 (https://api.semanticscholar.org/CorpusID:16904501).
+37. Adams, M. R.; Moss, M. O. (2007). Food Microbiology. doi:10.1039/9781847557940 (https://d
+oi.org/10.1039%2F9781847557940). ISBN 978-0-85404-284-5. S2CID 241261974 (https://a
+pi.semanticscholar.org/CorpusID:241261974).
+38. "The normal gut flora" (https://web.archive.org/web/20040526195616/http://www.gla.ac.uk/de
+partments/humannutrition/students/resources/meden/Infection.pdf) (PDF) (slideshow). 2004.
+Archived from the original (http://www.gla.ac.uk/departments/humannutrition/students/resour
+ces/meden/Infection.pdf) (PDF) on 2004-05-26. Retrieved 2023-01-02 – via University of
+Glasgow.
+39. Braune A, Blaut M (2016). "Bacterial species involved in the conversion of dietary flavonoids
+in the human gut" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4939924). Gut Microbes. 7
+(3): 216–234. doi:10.1080/19490976.2016.1158395 (https://doi.org/10.1080%2F19490976.2
+016.1158395). PMC 4939924 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4939924).
+PMID 26963713 (https://pubmed.ncbi.nlm.nih.gov/26963713).
+40. Steinhoff, U (2005). "Who controls the crowd? New findings and old questions about the
+intestinal microflora". Immunology Letters. 99 (1): 12–16. doi:10.1016/j.imlet.2004.12.013 (htt
+ps://doi.org/10.1016%2Fj.imlet.2004.12.013). PMID 15894105 (https://pubmed.ncbi.nlm.nih.g
+ov/15894105).
+41. Gibson, Glenn R (2004). "Fibre and effects on probiotics (the prebiotic concept)". Clinical
+Nutrition Supplements. 1 (2): 25–31. doi:10.1016/j.clnu.2004.09.005 (https://doi.org/10.101
+6%2Fj.clnu.2004.09.005).
+42. Miquel, S; Martín, R; Rossi, O; Bermúdez-Humarán, LG; Chatel, JM; Sokol, H; Thomas, M;
+Wells, JM; Langella, P (2013). "Faecalibacterium prausnitzii and human intestinal health".
+Current Opinion in Microbiology. 16 (3): 255–261. doi:10.1016/j.mib.2013.06.003 (https://doi.
+org/10.1016%2Fj.mib.2013.06.003). PMID 23831042 (https://pubmed.ncbi.nlm.nih.gov/2383
+1042).
+43. Ley, Ruth E (2010). "Obesity and the human microbiome". Current Opinion in
+Gastroenterology. 26 (1): 5–11. doi:10.1097/MOG.0b013e328333d751 (https://doi.org/10.109
+7%2FMOG.0b013e328333d751). PMID 19901833 (https://pubmed.ncbi.nlm.nih.gov/199018
+33). S2CID 23329156 (https://api.semanticscholar.org/CorpusID:23329156).
+44. Nash, Andrea K; Auchtung, Thomas A; Wong, Matthew C; Smith, Daniel P; Gesell, Jonathan
+R; Ross, Matthew C; Stewart, Christopher J; Metcalf, Ginger A; Muzny, Donna M; Gibbs,
+Richard A; Ajami, Nadim J; Petrosino, Joseph F (2017). "The gut mycobiome of the Human
+Microbiome Project healthy cohort" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC570218
+6). Microbiome. 5 (1): 153. doi:10.1186/s40168-017-0373-4 (https://doi.org/10.1186%2Fs401
+68-017-0373-4). PMC 5702186 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5702186).
+PMID 29178920 (https://pubmed.ncbi.nlm.nih.gov/29178920).
+45. Scarpellini, Emidio; Ianiro, Gianluca; Attili, Fabia; Bassanelli, Chiara; De Santis, Adriano;
+Gasbarrini, Antonio (2015). "The human gut microbiota and virome: Potential therapeutic
+implications" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185617). Digestive and Liver
+Disease. 47 (12): 1007–1012. doi:10.1016/j.dld.2015.07.008 (https://doi.org/10.1016%2Fj.dl
+d.2015.07.008). PMC 7185617 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185617).
+PMID 26257129 (https://pubmed.ncbi.nlm.nih.gov/26257129).
+46. Gerritsen, Jacoline; Smidt, Hauke; Rijkers, Ger; de Vos, Willem (27 May 2011). "Intestinal
+microbiota in human health and disease: the impact of probiotics" (https://www.ncbi.nlm.nih.g
+ov/pmc/articles/PMC3145058). Genes & Nutrition. 6 (3): 209–240. doi:10.1007/s12263-011-
+0229-7 (https://doi.org/10.1007%2Fs12263-011-0229-7). PMC 3145058 (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC3145058). PMID 21617937 (https://pubmed.ncbi.nlm.nih.gov/21
+617937).
+47. Yatsunenko, T.; Rey, F. E.; Manary, M. J.; Trehan, I.; Dominguez-Bello, M. G.; Contreras, M.;
+Magris, M.; Hidalgo, G.; Baldassano, R. N.; Anokhin, A. P.; Heath, A. C.; Warner, B.; Reeder,
+J.; Kuczynski, J.; Caporaso, J. G.; Lozupone, C. A.; Lauber, C.; Clemente, J. C.; Knights, D.;
+Knight, R.; Gordon, J. I. (2012). "Human gut microbiome viewed across age and geography"
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3376388). Nature. 486 (7402): 222–227.
+Bibcode:2012Natur.486..222Y (https://ui.adsabs.harvard.edu/abs/2012Natur.486..222Y).
+doi:10.1038/nature11053 (https://doi.org/10.1038%2Fnature11053). PMC 3376388 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3376388). PMID 22699611 (https://pubmed.ncbi.nlm.
+nih.gov/22699611).
+48. De Filippo, C; Cavalieri, D; Di Paola, M; Ramazzotti, M; Poullet, J. B; Massart, S; Collini, S;
+Pieraccini, G; Lionetti, P (2010). "Impact of diet in shaping gut microbiota revealed by a
+comparative study in children from Europe and rural Africa" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC2930426). Proceedings of the National Academy of Sciences. 107 (33):
+14691–14696. Bibcode:2010PNAS..10714691D (https://ui.adsabs.harvard.edu/abs/2010PN
+AS..10714691D). doi:10.1073/pnas.1005963107 (https://doi.org/10.1073%2Fpnas.1005963
+107). PMC 2930426 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2930426).
+PMID 20679230 (https://pubmed.ncbi.nlm.nih.gov/20679230).
+49. Jonkers, Daisy M.A.E. (2016). "Microbial perturbations and modulation in conditions
+associated with malnutrition and malabsorption". Best Practice & Research Clinical
+Gastroenterology. 30 (2): 161–172. doi:10.1016/j.bpg.2016.02.006 (https://doi.org/10.1016%
+2Fj.bpg.2016.02.006). PMID 27086883 (https://pubmed.ncbi.nlm.nih.gov/27086883).
+50. Million, Matthieu; Diallo, Aldiouma; Raoult, Didier (May 2017). "Gut microbiota and
+malnutrition" (https://hal.archives-ouvertes.fr/hal-01573801/file/Million2017.pdf) (PDF).
+Microbial Pathogenesis. 106: 127–138. doi:10.1016/j.micpath.2016.02.003 (https://doi.org/1
+0.1016%2Fj.micpath.2016.02.003). PMID 26853753 (https://pubmed.ncbi.nlm.nih.gov/26853
+753). S2CID 20381329 (https://api.semanticscholar.org/CorpusID:20381329).
+51. Rytter, Maren Johanne Heilskov; Kolte, Lilian; Briend, André; Friis, Henrik; Christensen,
+Vibeke Brix (2014). "The Immune System in Children with Malnutrition – A Systematic
+Review" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4143239). PLOS ONE. 9 (8):
+e105017. Bibcode:2014PLoSO...9j5017R (https://ui.adsabs.harvard.edu/abs/2014PLoSO...9
+j5017R). doi:10.1371/journal.pone.0105017 (https://doi.org/10.1371%2Fjournal.pone.01050
+17). PMC 4143239 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4143239).
+PMID 25153531 (https://pubmed.ncbi.nlm.nih.gov/25153531).
+52. Alcock, Joe; Maley, Carlo C; Aktipis, C. Athena (2014). "Is eating behavior manipulated by
+the gastrointestinal microbiota? Evolutionary pressures and potential mechanisms" (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC4270213). BioEssays. 36 (10): 940–949.
+doi:10.1002/bies.201400071 (https://doi.org/10.1002%2Fbies.201400071). PMC 4270213 (h
+ttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC4270213). PMID 25103109 (https://pubmed.nc
+bi.nlm.nih.gov/25103109).
+53. Renson, Audrey; Herd, Pamela; Dowd, Jennifer B. (2020). "Sick Individuals and Sick
+(Microbial) Populations: Challenges in Epidemiology and the Microbiome" (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC9713946). Annual Review of Public Health. 41: 63–80.
+doi:10.1146/annurev-publhealth-040119-094423 (https://doi.org/10.1146%2Fannurev-publh
+ealth-040119-094423). PMC 9713946 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC97139
+46). PMID 31635533 (https://pubmed.ncbi.nlm.nih.gov/31635533).
+54. Turroni, Francesca; Peano, Clelia; Pass, Daniel A; Foroni, Elena; Severgnini, Marco;
+Claesson, Marcus J; Kerr, Colm; Hourihane, Jonathan; Murray, Deirdre; Fuligni, Fabio;
+Gueimonde, Miguel; Margolles, Abelardo; De Bellis, Gianluca; o'Toole, Paul W; Van
+Sinderen, Douwe; Marchesi, Julian R; Ventura, Marco (2012). "Diversity of Bifidobacteria
+within the Infant Gut Microbiota" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350489).
+PLOS ONE. 7 (5): e36957. Bibcode:2012PLoSO...736957T (https://ui.adsabs.harvard.edu/a
+bs/2012PLoSO...736957T). doi:10.1371/journal.pone.0036957 (https://doi.org/10.1371%2Fj
+ournal.pone.0036957). PMC 3350489 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33504
+89). PMID 22606315 (https://pubmed.ncbi.nlm.nih.gov/22606315).
+55. Davenport, Emily R.; Sanders, Jon G.; Song, Se Jin; Amato, Katherine R.; Clark, Andrew G.;
+Knight, Rob (2017-12-27). "The human microbiome in evolution" (https://www.ncbi.nlm.nih.g
+ov/pmc/articles/PMC5744394). BMC Biology. 15 (1): 127. doi:10.1186/s12915-017-0454-7
+(https://doi.org/10.1186%2Fs12915-017-0454-7). ISSN 1741-7007 (https://www.worldcat.org/
+issn/1741-7007). PMC 5744394 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5744394).
+PMID 29282061 (https://pubmed.ncbi.nlm.nih.gov/29282061).
+56. Perez-Muñoz, Maria Elisa; Arrieta, Marie-Claire; Ramer-Tait, Amanda E; Walter, Jens (2017).
+"A critical assessment of the 'sterile womb' and 'in utero colonization' hypotheses:
+Implications for research on the pioneer infant microbiome" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC5410102). Microbiome. 5 (1): 48. doi:10.1186/s40168-017-0268-4 (https://doi.
+org/10.1186%2Fs40168-017-0268-4). PMC 5410102 (https://www.ncbi.nlm.nih.gov/pmc/artic
+les/PMC5410102). PMID 28454555 (https://pubmed.ncbi.nlm.nih.gov/28454555).
+57. Matamoros, Sebastien; Gras-Leguen, Christele; Le Vacon, Françoise; Potel, Gilles; de la
+Cochetiere, Marie-France (2013). "Development of intestinal microbiota in infants and its
+impact on health". Trends in Microbiology. 21 (4): 167–173. doi:10.1016/j.tim.2012.12.001 (ht
+tps://doi.org/10.1016%2Fj.tim.2012.12.001). PMID 23332725 (https://pubmed.ncbi.nlm.nih.go
+v/23332725).
+58. Mueller, Noel T.; Bakacs, Elizabeth; Combellick, Joan; Grigoryan, Zoya; Dominguez-Bello,
+Maria G. (2015). "The infant microbiome development: mom matters" (https://www.ncbi.nlm.n
+ih.gov/pmc/articles/PMC4464665). Trends in Molecular Medicine. 21 (2): 109–117.
+doi:10.1016/j.molmed.2014.12.002 (https://doi.org/10.1016%2Fj.molmed.2014.12.002).
+PMC 4464665 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4464665). PMID 25578246 (h
+ttps://pubmed.ncbi.nlm.nih.gov/25578246).
+59. Jiménez, Esther; Fernández, Leonides; Marín, María L; Martín, Rocío; Odriozola, Juan M;
+Nueno-Palop, Carmen; Narbad, Arjan; Olivares, Mónica; Xaus, Jordi; Rodríguez, Juan M
+(2005). "Isolation of Commensal Bacteria from Umbilical Cord Blood of Healthy Neonates
+Born by Cesarean Section". Current Microbiology. 51 (4): 270–274. doi:10.1007/s00284-
+005-0020-3 (https://doi.org/10.1007%2Fs00284-005-0020-3). PMID 16187156 (https://pubm
+ed.ncbi.nlm.nih.gov/16187156). S2CID 43438656 (https://api.semanticscholar.org/CorpusID:
+43438656).
+60. Collado, Maria Carmen; Rautava, Samuli; Aakko, Juhani; Isolauri, Erika; Salminen, Seppo
+(2016). "Human gut colonisation may be initiated in utero by distinct microbial communities
+in the placenta and amniotic fluid" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4802384).
+Scientific Reports. 6: 23129. Bibcode:2016NatSR...623129C (https://ui.adsabs.harvard.edu/
+abs/2016NatSR...623129C). doi:10.1038/srep23129 (https://doi.org/10.1038%2Fsrep23129).
+PMC 4802384 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4802384). PMID 27001291 (h
+ttps://pubmed.ncbi.nlm.nih.gov/27001291).
+61. Jiménez, Esther; Marín, María L.; Martín, Rocío; Odriozola, Juan M.; Olivares, Mónica; Xaus,
+Jordi; Fernández, Leonides; Rodríguez, Juan M. (2008). "Is meconium from healthy
+newborns actually sterile?" (https://doi.org/10.1016%2Fj.resmic.2007.12.007). Research in
+Microbiology. 159 (3): 187–193. doi:10.1016/j.resmic.2007.12.007 (https://doi.org/10.1016%2
+Fj.resmic.2007.12.007). PMID 18281199 (https://pubmed.ncbi.nlm.nih.gov/18281199).
+62. Perez-Muñoz, Maria Elisa; Arrieta, Marie-Claire; Ramer-Tait, Amanda E; Walter, Jens (2017).
+"A critical assessment of the "sterile womb" and "in utero colonization" hypotheses:
+Implications for research on the pioneer infant microbiome" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC5410102). Microbiome. 5 (1): 48. doi:10.1186/s40168-017-0268-4 (https://doi.
+org/10.1186%2Fs40168-017-0268-4). PMC 5410102 (https://www.ncbi.nlm.nih.gov/pmc/artic
+les/PMC5410102). PMID 28454555 (https://pubmed.ncbi.nlm.nih.gov/28454555).
+63. Adlerberth, I; Wold, AE (2009). "Establishment of the gut microbiota in Western infants". Acta
+Paediatrica. 98 (2): 229–238. doi:10.1111/j.1651-2227.2008.01060.x (https://doi.org/10.111
+1%2Fj.1651-2227.2008.01060.x). PMID 19143664 (https://pubmed.ncbi.nlm.nih.gov/191436
+64). S2CID 205859933 (https://api.semanticscholar.org/CorpusID:205859933).
+64. "Babies' gut bacteria affected by delivery method: Vaginal delivery promotes mother's gut
+bacteria in babies' gut" (https://www.sciencedaily.com/releases/2019/09/190918131447.ht
+m). ScienceDaily. 18 September 2019. Archived (https://web.archive.org/web/202111242051
+02/www.sciencedaily.com/releases/2019/09/190918131447.htm) from the original on 24
+November 2021. Retrieved 31 May 2022.
+65. Coppa, G. V.; Zampini, L.; Galeazzi, T.; Gabrielli, O. (2006). "Prebiotics in human milk: A
+review". Digestive and Liver Disease. 38: S291–294. doi:10.1016/S1590-8658(07)60013-9
+(https://doi.org/10.1016%2FS1590-8658%2807%2960013-9). PMID 17259094 (https://pubm
+ed.ncbi.nlm.nih.gov/17259094).
+66. Mady, Eman A.; Doghish, Ahmed S.; El-Dakroury, Walaa A.; Elkhawaga, Samy Y.; Ismail,
+Ahmed; El-Mahdy, Hesham A.; Elsakka, Elsayed G. E.; El-Husseiny, Hussein M. (2023-07-
+01). "Impact of the mother's gut microbiota on infant microbiome and brain development".
+Neuroscience & Biobehavioral Reviews. 150: 105195. doi:10.1016/j.neubiorev.2023.105195
+(https://doi.org/10.1016%2Fj.neubiorev.2023.105195). ISSN 0149-7634 (https://www.worldca
+t.org/issn/0149-7634). PMID 37100161 (https://pubmed.ncbi.nlm.nih.gov/37100161).
+S2CID 258302702 (https://api.semanticscholar.org/CorpusID:258302702).
+67. Fanaro, S; Chierici, R; Guerrini, P; Vigi, V (2007). "Intestinal microflora in early infancy:
+Composition and development". Acta Paediatrica. 92 (441): 48–55. doi:10.1111/j.1651-
+2227.2003.tb00646.x (https://doi.org/10.1111%2Fj.1651-2227.2003.tb00646.x).
+PMID 14599042 (https://pubmed.ncbi.nlm.nih.gov/14599042). S2CID 10316311 (https://api.s
+emanticscholar.org/CorpusID:10316311).
+68. Yassour, Moran; Vatanen, Tommi; Siljander, Heli; Hämäläinen, Anu-Maaria; Härkönen,
+Taina; Ryhänen, Samppa J; Franzosa, Eric A; Vlamakis, Hera; Huttenhower, Curtis; Gevers,
+Dirk; Lander, Eric S; Knip, Mikael; Xavier, Ramnik J (2016). "Natural history of the infant gut
+microbiome and impact of antibiotic treatment on bacterial strain diversity and stability" (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC5032909). Science Translational Medicine. 8
+(343): 343ra81. doi:10.1126/scitranslmed.aad0917 (https://doi.org/10.1126%2Fscitranslmed.
+aad0917). PMC 5032909 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5032909).
+PMID 27306663 (https://pubmed.ncbi.nlm.nih.gov/27306663).
+69. Gibson, G. R.; Roberfroid, M. B. (1995). "Dietary modulation of the human colonic microbiota:
+Introducing the concept of prebiotics" (https://pubmed.ncbi.nlm.nih.gov/7782892/). The
+Journal of Nutrition. 125 (6): 1401–1412. doi:10.1093/jn/125.6.1401 (https://doi.org/10.109
+3%2Fjn%2F125.6.1401). PMID 7782892 (https://pubmed.ncbi.nlm.nih.gov/7782892).
+70. Wang, Yan; Kasper, Lloyd H (2014). "The role of microbiome in central nervous system
+disorders" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4062078). Brain, Behavior, and
+Immunity. 38: 1–12. doi:10.1016/j.bbi.2013.12.015 (https://doi.org/10.1016%2Fj.bbi.2013.12.
+015). PMC 4062078 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4062078).
+PMID 24370461 (https://pubmed.ncbi.nlm.nih.gov/24370461).
+71. Yoon, My Young; Lee, Keehoon; Yoon, Sang Sun (2014). "Protective role of gut commensal
+microbes against intestinal infections". Journal of Microbiology. 52 (12): 983–989.
+doi:10.1007/s12275-014-4655-2 (https://doi.org/10.1007%2Fs12275-014-4655-2).
+PMID 25467115 (https://pubmed.ncbi.nlm.nih.gov/25467115). S2CID 54622675 (https://api.s
+emanticscholar.org/CorpusID:54622675).
+72. Reinoso Webb, Cynthia; Koboziev, Iurii; Furr, Kathryn L; Grisham, Matthew B (2016).
+"Protective and pro-inflammatory roles of intestinal bacteria" (https://www.ncbi.nlm.nih.gov/p
+mc/articles/PMC4867289). Pathophysiology. 23 (2): 67–80.
+doi:10.1016/j.pathophys.2016.02.002 (https://doi.org/10.1016%2Fj.pathophys.2016.02.002).
+PMC 4867289 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4867289). PMID 26947707 (h
+ttps://pubmed.ncbi.nlm.nih.gov/26947707).
+73. Mantis, N J; Rol, N; Corthésy, B (2011). "Secretory IgA's complex roles in immunity and
+mucosal homeostasis in the gut" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3774538).
+Mucosal Immunology. 4 (6): 603–611. doi:10.1038/mi.2011.41 (https://doi.org/10.1038%2Fm
+i.2011.41). PMC 3774538 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3774538).
+PMID 21975936 (https://pubmed.ncbi.nlm.nih.gov/21975936).
+74. Peterson, Lance W; Artis, David (2014). "Intestinal epithelial cells: Regulators of barrier
+function and immune homeostasis". Nature Reviews Immunology. 14 (3): 141–153.
+doi:10.1038/nri3608 (https://doi.org/10.1038%2Fnri3608). PMID 24566914 (https://pubmed.n
+cbi.nlm.nih.gov/24566914). S2CID 3351351 (https://api.semanticscholar.org/CorpusID:3351
+351).
+75. Honda, Kenya; Littman, Dan R (2016). "The microbiota in adaptive immune homeostasis
+and disease". Nature. 535 (7610): 75–84. Bibcode:2016Natur.535...75H (https://ui.adsabs.ha
+rvard.edu/abs/2016Natur.535...75H). doi:10.1038/nature18848 (https://doi.org/10.1038%2Fn
+ature18848). PMID 27383982 (https://pubmed.ncbi.nlm.nih.gov/27383982). S2CID 4461492
+(https://api.semanticscholar.org/CorpusID:4461492).
+76. Levy, M.; Thaiss, C.A.; Elinav, E. (2016). "Metabolites: messengers between the microbiota
+and the immune system" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4973288). Genes &
+Development. 30 (14): 1589–1597. doi:10.1101/gad.284091.116 (https://doi.org/10.1101%2F
+gad.284091.116). PMC 4973288 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4973288).
+PMID 27474437 (https://pubmed.ncbi.nlm.nih.gov/27474437).
+77. Zhang LS, Davies SS (April 2016). "Microbial metabolism of dietary components to bioactive
+metabolites: opportunities for new therapeutic interventions" (https://www.ncbi.nlm.nih.gov/p
+mc/articles/PMC4840492). Genome Med. 8 (1): 46. doi:10.1186/s13073-016-0296-x (https://d
+oi.org/10.1186%2Fs13073-016-0296-x). PMC 4840492 (https://www.ncbi.nlm.nih.gov/pmc/ar
+ticles/PMC4840492). PMID 27102537 (https://pubmed.ncbi.nlm.nih.gov/27102537).
+"Lactobacillus spp. convert tryptophan to indole-3-aldehyde (I3A) through unidentified
+enzymes [125]. Clostridium sporogenes convert tryptophan to IPA [6], likely via a tryptophan
+deaminase. ... IPA also potently scavenges hydroxyl radicals"
+Table 2: Microbial metabolites: their synthesis, mechanisms of action, and effects on health
+and disease (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4840492/table/Tab2/)
+Figure 1: Molecular mechanisms of action of indole and its metabolites on host physiology
+and disease (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4840492/figure/Fig1/)
+78. Wikoff WR, Anfora AT, Liu J, Schultz PG, Lesley SA, Peters EC, Siuzdak G (March 2009).
+"Metabolomics analysis reveals large effects of gut microflora on mammalian blood
+metabolites" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656143). Proc. Natl. Acad. Sci.
+U.S.A. 106 (10): 3698–3703. Bibcode:2009PNAS..106.3698W (https://ui.adsabs.harvard.ed
+u/abs/2009PNAS..106.3698W). doi:10.1073/pnas.0812874106 (https://doi.org/10.1073%2Fp
+nas.0812874106). PMC 2656143 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656143).
+PMID 19234110 (https://pubmed.ncbi.nlm.nih.gov/19234110). "Production of IPA was shown
+to be completely dependent on the presence of gut microflora and could be established by
+colonization with the bacterium Clostridium sporogenes."
+IPA metabolism diagram (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656143/figure/F2/)
+79. "3-Indolepropionic acid" (http://www.hmdb.ca/metabolites/HMDB02302). Human
+Metabolome Database. University of Alberta. Retrieved 12 June 2018.
+80. Chyan YJ, Poeggeler B, Omar RA, Chain DG, Frangione B, Ghiso J, Pappolla MA (July
+1999). "Potent neuroprotective properties against the Alzheimer beta-amyloid by an
+endogenous melatonin-related indole structure, indole-3-propionic acid" (https://doi.org/10.1
+074%2Fjbc.274.31.21937). J. Biol. Chem. 274 (31): 21937–21942.
+doi:10.1074/jbc.274.31.21937 (https://doi.org/10.1074%2Fjbc.274.31.21937).
+PMID 10419516 (https://pubmed.ncbi.nlm.nih.gov/10419516). S2CID 6630247 (https://api.se
+manticscholar.org/CorpusID:6630247). "[Indole-3-propionic acid (IPA)] has previously been
+identified in the plasma and cerebrospinal fluid of humans, but its functions are not known. ...
+In kinetic competition experiments using free radical-trapping agents, the capacity of IPA to
+scavenge hydroxyl radicals exceeded that of melatonin, an indoleamine considered to be
+the most potent naturally occurring scavenger of free radicals. In contrast with other
+antioxidants, IPA was not converted to reactive intermediates with pro-oxidant activity."
+81. Hopper, Christopher P.; De La Cruz, Ladie Kimberly; Lyles, Kristin V.; Wareham, Lauren K.;
+Gilbert, Jack A.; Eichenbaum, Zehava; Magierowski, Marcin; Poole, Robert K.; Wollborn,
+Jakob; Wang, Binghe (2020-12-23). "Role of Carbon Monoxide in Host–Gut Microbiome
+Communication". Chemical Reviews. 120 (24): 13273–13311.
+doi:10.1021/acs.chemrev.0c00586 (https://doi.org/10.1021%2Facs.chemrev.0c00586).
+ISSN 0009-2665 (https://www.worldcat.org/issn/0009-2665). PMID 33089988 (https://pubme
+d.ncbi.nlm.nih.gov/33089988). S2CID 224824871 (https://api.semanticscholar.org/CorpusID:
+224824871).
+82. Rajilić-Stojanović, Mirjana; De Vos, Willem M (2014). "The first 1000 cultured species of the
+human gastrointestinal microbiota" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC426207
+2). FEMS Microbiology Reviews. 38 (5): 996–1047. doi:10.1111/1574-6976.12075 (https://do
+i.org/10.1111%2F1574-6976.12075). PMC 4262072 (https://www.ncbi.nlm.nih.gov/pmc/articl
+es/PMC4262072). PMID 24861948 (https://pubmed.ncbi.nlm.nih.gov/24861948).
+83. Hill, M. J. (March 1997). "Intestinal flora and endogenous vitamin synthesis" (https://pubmed.
+ncbi.nlm.nih.gov/9167138/). European Journal of Cancer Prevention. 6 (Suppl 1): S43–45.
+doi:10.1097/00008469-199703001-00009 (https://doi.org/10.1097%2F00008469-199703001
+-00009). ISSN 0959-8278 (https://www.worldcat.org/issn/0959-8278). PMID 9167138 (https://
+pubmed.ncbi.nlm.nih.gov/9167138). S2CID 8740364 (https://api.semanticscholar.org/Corpus
+ID:8740364).
+84. "The Microbiome" (https://now.tufts.edu/articles/microbiome). Tufts Now. 2013-09-17.
+Retrieved 2020-12-09.
+85. Moraïs, Sarah; Winkler, Sarah; Zorea, Alvah; Levin, Liron; Nagies, Falk S. P.; Kapust, Nils;
+Lamed, Eva; Artan-Furman, Avital; Bolam, David N.; Yadav, Madhav P.; Bayer, Edward A.;
+Martin, William F.; Mizrahi, Itzhak (2024-03-15). "Cryptic diversity of cellulose-degrading gut
+bacteria in industrialized humans" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7615765).
+Science. 383 (6688): eadj9223. doi:10.1126/science.adj9223 (https://doi.org/10.1126%2Fsci
+ence.adj9223). ISSN 0036-8075 (https://www.worldcat.org/issn/0036-8075). PMC 7615765
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7615765). PMID 38484069 (https://pubmed.n
+cbi.nlm.nih.gov/38484069).
+86. ElRakaiby M, Dutilh BE, Rizkallah MR, Boleij A, Cole JN, Aziz RK (July 2014).
+"Pharmacomicrobiomics: the impact of human microbiome variations on systems
+pharmacology and personalized therapeutics" (https://www.ncbi.nlm.nih.gov/pmc/articles/PM
+C4086029). Omics. 18 (7): 402–414. doi:10.1089/omi.2014.0018 (https://doi.org/10.1089%2
+Fomi.2014.0018). PMC 4086029 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4086029).
+PMID 24785449 (https://pubmed.ncbi.nlm.nih.gov/24785449).
+87. Cho I, Blaser MJ (March 2012). "The human microbiome: at the interface of health and
+disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3418802). Nature Reviews.
+Genetics. 13 (4): 260–270. doi:10.1038/nrg3182 (https://doi.org/10.1038%2Fnrg3182).
+PMC 3418802 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3418802). PMID 22411464 (h
+ttps://pubmed.ncbi.nlm.nih.gov/22411464). "The composition of the microbiome varies by
+anatomical site (Figure 1). The primary determinant of community composition is anatomical
+location: interpersonal variation is substantial23,24 and is higher than the temporal
+variability seen at most sites in a single individual25."
+88. Hutter T, Gimbert C, Bouchard F, Lapointe FJ (2015). "Being human is a gut feeling" (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4359430). Microbiome. 3: 9. doi:10.1186/s40168-
+015-0076-7 (https://doi.org/10.1186%2Fs40168-015-0076-7). PMC 4359430 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC4359430). PMID 25774294 (https://pubmed.ncbi.nlm.nih.go
+v/25774294).
+89. Kumar K, Dhoke GV, Sharma AK, Jaiswal SK, Sharma VK (January 2019). "Mechanistic
+elucidation of amphetamine metabolism by tyramine oxidase from human gut microbiota
+using molecular dynamics simulations". Journal of Cellular Biochemistry. 120 (7): 11206–
+11215. doi:10.1002/jcb.28396 (https://doi.org/10.1002%2Fjcb.28396). PMID 30701587 (http
+s://pubmed.ncbi.nlm.nih.gov/30701587). S2CID 73413138 (https://api.semanticscholar.org/C
+orpusID:73413138).
+90. Sousa, Tiago; Paterson, Ronnie; Moore, Vanessa; Carlsson, Anders; Abrahamsson, Bertil;
+Basit, Abdul W (2008). "The gastrointestinal microbiota as a site for the biotransformation of
+drugs". International Journal of Pharmaceutics. 363 (1–2): 1–25.
+doi:10.1016/j.ijpharm.2008.07.009 (https://doi.org/10.1016%2Fj.ijpharm.2008.07.009).
+PMID 18682282 (https://pubmed.ncbi.nlm.nih.gov/18682282).
+91. Haiser, H. J; Gootenberg, D. B; Chatman, K; Sirasani, G; Balskus, E. P; Turnbaugh, P. J
+(2013). "Predicting and Manipulating Cardiac Drug Inactivation by the Human Gut Bacterium
+Eggerthella lenta" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736355). Science. 341
+(6143): 295–298. Bibcode:2013Sci...341..295H (https://ui.adsabs.harvard.edu/abs/2013Sci...
+341..295H). doi:10.1126/science.1235872 (https://doi.org/10.1126%2Fscience.1235872).
+PMC 3736355 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736355). PMID 23869020 (h
+ttps://pubmed.ncbi.nlm.nih.gov/23869020).
+92. Koppel, Nitzan; Maini Rekdal, Vayu; Balskus, Emily P. (2017-06-23). "Chemical
+transformation of xenobiotics by the human gut microbiota" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC5534341). Science. 356 (6344). doi:10.1126/science.aag2770 (https://doi.org/
+10.1126%2Fscience.aag2770). ISSN 0036-8075 (https://www.worldcat.org/issn/0036-8075).
+PMC 5534341 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5534341). PMID 28642381 (h
+ttps://pubmed.ncbi.nlm.nih.gov/28642381).
+93. Spanogiannopoulos, Peter; Bess, Elizabeth N.; Carmody, Rachel N.; Turnbaugh, Peter J.
+(2016-03-14). "The microbial pharmacists within us: a metagenomic view of xenobiotic
+metabolism" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5243131). Nature Reviews
+Microbiology. 14 (5): 273–287. doi:10.1038/nrmicro.2016.17 (https://doi.org/10.1038%2Fnrmi
+cro.2016.17). ISSN 1740-1526 (https://www.worldcat.org/issn/1740-1526). PMC 5243131 (htt
+ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5243131). PMID 26972811 (https://pubmed.ncb
+i.nlm.nih.gov/26972811).
+94. Maini Rekdal, Vayu; Bess, Elizabeth N.; Bisanz, Jordan E.; Turnbaugh, Peter J.; Balskus,
+Emily P. (2019-06-14). "Discovery and inhibition of an interspecies gut bacterial pathway for
+Levodopa metabolism" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7745125). Science.
+364 (6445). doi:10.1126/science.aau6323 (https://doi.org/10.1126%2Fscience.aau6323).
+ISSN 0036-8075 (https://www.worldcat.org/issn/0036-8075). PMC 7745125 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC7745125). PMID 31196984 (https://pubmed.ncbi.nlm.nih.gov/
+31196984).
+95. Dempsey, Joseph L.; Cui, Julia Yue (2019-10-19). "Microbiome Is a Functional Modifier of
+P450 Drug Metabolism" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7731899). Current
+Pharmacology Reports. 5 (6): 481–490. doi:10.1007/s40495-019-00200-w (https://doi.org/10.
+1007%2Fs40495-019-00200-w). ISSN 2198-641X (https://www.worldcat.org/issn/2198-641
+X). PMC 7731899 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7731899).
+PMID 33312848 (https://pubmed.ncbi.nlm.nih.gov/33312848).
+96. Boerner, Udo; Abbott, Seth; Roe, Robert L. (January 1975). "The Metabolism of Morphine
+and Heroin in Man". Drug Metabolism Reviews. 4 (1): 39–73.
+doi:10.3109/03602537508993748 (https://doi.org/10.3109%2F03602537508993748).
+ISSN 0360-2532 (https://www.worldcat.org/issn/0360-2532). PMID 1204496 (https://pubmed.
+ncbi.nlm.nih.gov/1204496).
+97. Dobkin, Jay F.; Saha, Jnan R.; Butler, Vincent P.; Neu, Harold C.; Lindenbaum, John (1983-
+04-15). "Digoxin-Inactivating Bacteria: Identification in Human Gut Flora". Science. 220
+(4594): 325–327. doi:10.1126/science.6836275 (https://doi.org/10.1126%2Fscience.683627
+5). ISSN 0036-8075 (https://www.worldcat.org/issn/0036-8075). PMID 6836275 (https://pubm
+ed.ncbi.nlm.nih.gov/6836275).
+98. Sahota, S. S.; Bramley, P. M.; Menzies, I. S. (1982-02-01). "The Fermentation of Lactulose by
+Colonic Bacteria" (https://doi.org/10.1099%2F00221287-128-2-319). Microbiology. 128 (2):
+319–325. doi:10.1099/00221287-128-2-319 (https://doi.org/10.1099%2F00221287-128-2-31
+9). ISSN 1350-0872 (https://www.worldcat.org/issn/1350-0872). PMID 6804597 (https://pubm
+ed.ncbi.nlm.nih.gov/6804597).
+99. Yoo, Dae-Hyoung; Kim, In Sook; Van Le, Thi Kim; Jung, Il-Hoon; Yoo, Hye Hyun; Kim, Dong-
+Hyun (2014-06-19). "Gut Microbiota-Mediated Drug Interactions between Lovastatin and
+Antibiotics". Drug Metabolism and Disposition. 42 (9): 1508–1513.
+doi:10.1124/dmd.114.058354 (https://doi.org/10.1124%2Fdmd.114.058354). ISSN 0090-
+9556 (https://www.worldcat.org/issn/0090-9556). PMID 24947972 (https://pubmed.ncbi.nlm.n
+ih.gov/24947972). S2CID 7524335 (https://api.semanticscholar.org/CorpusID:7524335).
+100. Haiser, Henry J.; Gootenberg, David B.; Chatman, Kelly; Sirasani, Gopal; Balskus, Emily P.;
+Turnbaugh, Peter J. (2013-07-19). "Predicting and Manipulating Cardiac Drug Inactivation by
+the Human Gut Bacterium Eggerthella lenta" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC
+3736355). Science. 341 (6143): 295–298. Bibcode:2013Sci...341..295H (https://ui.adsabs.ha
+rvard.edu/abs/2013Sci...341..295H). doi:10.1126/science.1235872 (https://doi.org/10.1126%
+2Fscience.1235872). ISSN 0036-8075 (https://www.worldcat.org/issn/0036-8075).
+PMC 3736355 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3736355). PMID 23869020 (h
+ttps://pubmed.ncbi.nlm.nih.gov/23869020).
+101. Parvez, Md Masud; Basit, Abdul; Jariwala, Parth B.; Gáborik, Zsuzsanna; Kis, Emese;
+Heyward, Scott; Redinbo, Matthew R.; Prasad, Bhagwat (2021-06-01). "Quantitative
+Investigation of Irinotecan Metabolism, Transport, and Gut Microbiome Activation" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC8407663). Drug Metabolism and Disposition. 49 (8):
+683–693. doi:10.1124/dmd.121.000476 (https://doi.org/10.1124%2Fdmd.121.000476).
+ISSN 0090-9556 (https://www.worldcat.org/issn/0090-9556). PMC 8407663 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC8407663). PMID 34074730 (https://pubmed.ncbi.nlm.nih.gov/
+34074730).
+102. Sousa, Tiago; Paterson, Ronnie; Moore, Vanessa; Carlsson, Anders; Abrahamsson, Bertil;
+Basit, Abdul W. (November 2008). "The gastrointestinal microbiota as a site for the
+biotransformation of drugs". International Journal of Pharmaceutics. 363 (1–2): 1–25.
+doi:10.1016/j.ijpharm.2008.07.009 (https://doi.org/10.1016%2Fj.ijpharm.2008.07.009).
+ISSN 0378-5173 (https://www.worldcat.org/issn/0378-5173). PMID 18682282 (https://pubme
+d.ncbi.nlm.nih.gov/18682282).
+103. Koppel, Nitzan; Bisanz, Jordan E; Pandelia, Maria-Eirini; Turnbaugh, Peter J; Balskus, Emily
+P (2018-05-15). Ley, Ruth Emily (ed.). "Discovery and characterization of a prevalent human
+gut bacterial enzyme sufficient for the inactivation of a family of plant toxins" (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC5953540). eLife. 7: e33953. doi:10.7554/eLife.33953 (https://d
+oi.org/10.7554%2FeLife.33953). ISSN 2050-084X (https://www.worldcat.org/issn/2050-084
+X). PMC 5953540 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5953540).
+PMID 29761785 (https://pubmed.ncbi.nlm.nih.gov/29761785).
+104. Alexander, James L.; Wilson, Ian D.; Teare, Julian; Marchesi, Julian R.; Nicholson, Jeremy
+K.; Kinross, James M. (2017-03-08). "Gut microbiota modulation of chemotherapy efficacy
+and toxicity" (https://orca.cardiff.ac.uk/id/eprint/100186/). Nature Reviews Gastroenterology &
+Hepatology. 14 (6): 356–365. doi:10.1038/nrgastro.2017.20 (https://doi.org/10.1038%2Fnrga
+stro.2017.20). hdl:10044/1/77636 (https://hdl.handle.net/10044%2F1%2F77636).
+ISSN 1759-5045 (https://www.worldcat.org/issn/1759-5045). PMID 28270698 (https://pubme
+d.ncbi.nlm.nih.gov/28270698). S2CID 9654170 (https://api.semanticscholar.org/CorpusID:96
+54170).
+105. Brandi, Giovanni; Dabard, Jean; Raibaud, Pierre; Di Battista, Monica; Bridonneau, Chantal;
+Pisi, Anna Maria; Morselli Labate, Antonio Maria; Pantaleo, Maria Abbondanza; De Vivo,
+Antonello; Biasco, Guido (2006-02-15). "Intestinal microflora and digestive toxicity of
+irinotecan in mice". Clinical Cancer Research. 12 (4): 1299–1307. doi:10.1158/1078-
+0432.ccr-05-0750 (https://doi.org/10.1158%2F1078-0432.ccr-05-0750). ISSN 1078-0432 (htt
+ps://www.worldcat.org/issn/1078-0432). PMID 16489087 (https://pubmed.ncbi.nlm.nih.gov/16
+489087). S2CID 26655779 (https://api.semanticscholar.org/CorpusID:26655779).
+106. Koh, Ara; De Vadder, Filipe; Kovatcheva-Datchary, Petia; Bäckhed, Fredrik (June 2016).
+"From Dietary Fiber to Host Physiology: Short-Chain Fatty Acids as Key Bacterial
+Metabolites" (https://doi.org/10.1016%2Fj.cell.2016.05.041). Cell. 165 (6): 1332–1345.
+doi:10.1016/j.cell.2016.05.041 (https://doi.org/10.1016%2Fj.cell.2016.05.041). ISSN 0092-
+8674 (https://www.worldcat.org/issn/0092-8674). PMID 27259147 (https://pubmed.ncbi.nlm.n
+ih.gov/27259147). S2CID 8562345 (https://api.semanticscholar.org/CorpusID:8562345).
+107. Konopelski, Piotr; Ufnal, Marcin (2018-09-14). "Indoles - Gut Bacteria Metabolites of
+Tryptophan with Pharmacotherapeutic Potential". Current Drug Metabolism. 19 (10): 883–
+890. doi:10.2174/1389200219666180427164731 (https://doi.org/10.2174%2F13892002196
+66180427164731). ISSN 1389-2002 (https://www.worldcat.org/issn/1389-2002).
+PMID 29708069 (https://pubmed.ncbi.nlm.nih.gov/29708069). S2CID 13979774 (https://api.s
+emanticscholar.org/CorpusID:13979774).
+108. Collins, Stephanie L.; Stine, Jonathan G.; Bisanz, Jordan E.; Okafor, C. Denise; Patterson,
+Andrew D. (2022-10-17). "Bile acids and the gut microbiota: metabolic interactions and
+impacts on disease". Nature Reviews Microbiology. 21 (4): 236–247. doi:10.1038/s41579-
+022-00805-x (https://doi.org/10.1038%2Fs41579-022-00805-x). ISSN 1740-1526 (https://ww
+w.worldcat.org/issn/1740-1526). PMID 36253479 (https://pubmed.ncbi.nlm.nih.gov/3625347
+9). S2CID 252970168 (https://api.semanticscholar.org/CorpusID:252970168).
+109. Yang, Wenjing; Yu, Tianming; Huang, Xiangsheng; Bilotta, Anthony J.; Xu, Leiqi; Lu, Yao;
+Sun, Jiaren; Pan, Fan; Zhou, Jia; Zhang, Wenbo; Yao, Suxia; Maynard, Craig L.; Singh,
+Nagendra; Dann, Sara M.; Liu, Zhanju (2020-09-08). "Intestinal microbiota-derived short-
+chain fatty acids regulation of immune cell IL-22 production and gut immunity" (https://www.n
+cbi.nlm.nih.gov/pmc/articles/PMC7478978). Nature Communications. 11 (1): 4457.
+Bibcode:2020NatCo..11.4457Y (https://ui.adsabs.harvard.edu/abs/2020NatCo..11.4457Y).
+doi:10.1038/s41467-020-18262-6 (https://doi.org/10.1038%2Fs41467-020-18262-6).
+ISSN 2041-1723 (https://www.worldcat.org/issn/2041-1723). PMC 7478978 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC7478978). PMID 32901017 (https://pubmed.ncbi.nlm.nih.gov/
+32901017).
+110. Murugesan, Selvasankar; Nirmalkar, Khemlal; Hoyo-Vadillo, Carlos; García-Espitia, Matilde;
+Ramírez-Sánchez, Daniela; García-Mena, Jaime (2017-12-02). "Gut microbiome production
+of short-chain fatty acids and obesity in children". European Journal of Clinical Microbiology
+& Infectious Diseases. 37 (4): 621–625. doi:10.1007/s10096-017-3143-0 (https://doi.org/10.1
+007%2Fs10096-017-3143-0). ISSN 0934-9723 (https://www.worldcat.org/issn/0934-9723).
+PMID 29196878 (https://pubmed.ncbi.nlm.nih.gov/29196878). S2CID 254132108 (https://api.
+semanticscholar.org/CorpusID:254132108).
+111. Thanissery, Rajani; Winston, Jenessa A.; Theriot, Casey M. (June 2017). "Inhibition of spore
+germination, growth, and toxin activity of clinically relevant C. difficile strains by gut
+microbiota derived secondary bile acids" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC546
+6893). Anaerobe. 45: 86–100. doi:10.1016/j.anaerobe.2017.03.004 (https://doi.org/10.1016%
+2Fj.anaerobe.2017.03.004). ISSN 1075-9964 (https://www.worldcat.org/issn/1075-9964).
+PMC 5466893 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5466893). PMID 28279860 (h
+ttps://pubmed.ncbi.nlm.nih.gov/28279860).
+112. Jones, Brian V.; Begley, Máire; Hill, Colin; Gahan, Cormac G. M.; Marchesi, Julian R. (2008-
+09-09). "Functional and comparative metagenomic analysis of bile salt hydrolase activity in
+the human gut microbiome" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2533232).
+Proceedings of the National Academy of Sciences. 105 (36): 13580–13585.
+Bibcode:2008PNAS..10513580J (https://ui.adsabs.harvard.edu/abs/2008PNAS..10513580
+J). doi:10.1073/pnas.0804437105 (https://doi.org/10.1073%2Fpnas.0804437105).
+ISSN 0027-8424 (https://www.worldcat.org/issn/0027-8424). PMC 2533232 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC2533232). PMID 18757757 (https://pubmed.ncbi.nlm.nih.gov/
+18757757).
+113. Cao H, Xu M, Dong W, Deng B, Wang S, Zhang Y, Wang S, Luo S, Wang W, Qi Y, Gao J,
+Cao X, Yan F, Wang B (June 2017). "Secondary bile acid-induced dysbiosis promotes
+intestinal carcinogenesis" (https://doi.org/10.1002%2Fijc.30643). International Journal of
+Cancer. 140 (11): 2545–2556. doi:10.1002/ijc.30643 (https://doi.org/10.1002%2Fijc.30643).
+PMID 28187526 (https://pubmed.ncbi.nlm.nih.gov/28187526).
+114. Bernstein H, Bernstein C (January 2023). "Bile acids as carcinogens in the colon and at
+other sites in the gastrointestinal system" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC99
+89147). Experimental Biology and Medicine. 248 (1): 79–89.
+doi:10.1177/15353702221131858 (https://doi.org/10.1177%2F15353702221131858).
+PMC 9989147 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9989147). PMID 36408538 (h
+ttps://pubmed.ncbi.nlm.nih.gov/36408538).
+115. Mayer, E. A; Knight, R; Mazmanian, S. K; Cryan, J. F; Tillisch, K (2014). "Gut Microbes and
+the Brain: Paradigm Shift in Neuroscience" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4
+228144). Journal of Neuroscience. 34 (46): 15490–15496. doi:10.1523/JNEUROSCI.3299-
+14.2014 (https://doi.org/10.1523%2FJNEUROSCI.3299-14.2014). PMC 4228144 (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC4228144). PMID 25392516 (https://pubmed.ncbi.nlm.ni
+h.gov/25392516).
+116. Dinan, Timothy G; Cryan, John F (2015). "The impact of gut microbiota on brain and
+behaviour". Current Opinion in Clinical Nutrition and Metabolic Care. 18 (6): 552–558.
+doi:10.1097/MCO.0000000000000221 (https://doi.org/10.1097%2FMCO.000000000000022
+1). PMID 26372511 (https://pubmed.ncbi.nlm.nih.gov/26372511). S2CID 21424690 (https://a
+pi.semanticscholar.org/CorpusID:21424690).
+117. Carman, Robert J.; Simon, Mary Alice; Fernández, Haydée; Miller, Margaret A.;
+Bartholomew, Mary J. (2004). "Ciprofloxacin at low levels disrupts colonization resistance of
+human fecal microflora growing in chemostats". Regulatory Toxicology and Pharmacology.
+40 (3): 319–326. doi:10.1016/j.yrtph.2004.08.005 (https://doi.org/10.1016%2Fj.yrtph.2004.08.
+005). PMID 15546686 (https://pubmed.ncbi.nlm.nih.gov/15546686).
+118. Hvas, Christian Lodberg; Baunwall, Simon Mark Dahl; Erikstrup, Christian (2020-07-01).
+"Faecal microbiota transplantation: A life-saving therapy challenged by commercial claims
+for exclusivity" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334803). eClinicalMedicine.
+24: 100436. doi:10.1016/j.eclinm.2020.100436 (https://doi.org/10.1016%2Fj.eclinm.2020.10
+0436). ISSN 2589-5370 (https://www.worldcat.org/issn/2589-5370). PMC 7334803 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC7334803). PMID 32642633 (https://pubmed.ncbi.nlm.
+nih.gov/32642633).
+119. Brandt, Lawrence J.; Borody, Thomas Julius; Campbell, Jordana (2011). "Endoscopic Fecal
+Microbiota Transplantation" (https://doi.org/10.1097%2FMCG.0b013e3182257d4f). Journal
+of Clinical Gastroenterology. 45 (8): 655–657. doi:10.1097/MCG.0b013e3182257d4f (https://
+doi.org/10.1097%2FMCG.0b013e3182257d4f). PMID 21716124 (https://pubmed.ncbi.nlm.ni
+h.gov/21716124). S2CID 2508836 (https://api.semanticscholar.org/CorpusID:2508836).
+120. Knight, DJW; Girling, KJ (2003). "Gut flora in health and disease" (https://doi.org/10.1016%2
+FS0140-6736%2803%2913438-1). The Lancet. 361 (9371): 512–519. doi:10.1016/S0140-
+6736(03)13438-1 (https://doi.org/10.1016%2FS0140-6736%2803%2913438-1).
+PMID 12781578 (https://pubmed.ncbi.nlm.nih.gov/12781578). S2CID 40683723 (https://api.s
+emanticscholar.org/CorpusID:40683723).
+121. Cho, I.; Yamanishi, S.; Cox, L.; Methé, B. A.; Zavadil, J.; Li, K.; Gao, Z.; Mahana, D.; Raju, K.;
+Teitler, I.; Li, H.; Alekseyenko, A. V.; Blaser, M. J. (2012). "Antibiotics in early life alter the
+murine colonic microbiome and adiposity" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC35
+53221). Nature. 488 (7413): 621–626. Bibcode:2012Natur.488..621C (https://ui.adsabs.harva
+rd.edu/abs/2012Natur.488..621C). doi:10.1038/nature11400 (https://doi.org/10.1038%2Fnatu
+re11400). PMC 3553221 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3553221).
+PMID 22914093 (https://pubmed.ncbi.nlm.nih.gov/22914093).
+122. Schneiderhan, J; Master-Hunter, T; Locke, A (2016). "Targeting gut flora to treat and prevent
+disease". The Journal of Family Practice. 65 (1): 34–38. PMID 26845162 (https://pubmed.nc
+bi.nlm.nih.gov/26845162).
+123. Baker, Monya (2012). "Pregnancy alters resident gut microbes" (https://doi.org/10.1038%2Fn
+ature.2012.11118). Nature. doi:10.1038/nature.2012.11118 (https://doi.org/10.1038%2Fnatur
+e.2012.11118). S2CID 87078157 (https://api.semanticscholar.org/CorpusID:87078157).
+124. Hill, Colin; Guarner, Francisco; Reid, Gregor; Gibson, Glenn R; Merenstein, Daniel J; Pot,
+Bruno; Morelli, Lorenzo; Canani, Roberto Berni; Flint, Harry J; Salminen, Seppo; Calder,
+Philip C; Sanders, Mary Ellen (2014). "The International Scientific Association for Probiotics
+and Prebiotics consensus statement on the scope and appropriate use of the term probiotic"
+(https://doi.org/10.1038%2Fnrgastro.2014.66). Nature Reviews Gastroenterology &
+Hepatology. 11 (8): 506–514. doi:10.1038/nrgastro.2014.66 (https://doi.org/10.1038%2Fnrga
+stro.2014.66). hdl:2164/4189 (https://hdl.handle.net/2164%2F4189). PMID 24912386 (https://
+pubmed.ncbi.nlm.nih.gov/24912386).
+125. Rijkers, Ger T; De Vos, Willem M; Brummer, Robert-Jan; Morelli, Lorenzo; Corthier, Gerard;
+Marteau, Philippe (2011). "Health benefits and health claims of probiotics: Bridging science
+and marketing" (https://doi.org/10.1017%2FS000711451100287X). British Journal of
+Nutrition. 106 (9): 1291–1296. doi:10.1017/S000711451100287X (https://doi.org/10.1017%2
+FS000711451100287X). PMID 21861940 (https://pubmed.ncbi.nlm.nih.gov/21861940).
+126. Hutkins, Robert W; Krumbeck, Janina A; Bindels, Laure B; Cani, Patrice D; Fahey, George;
+Goh, Yong Jun; Hamaker, Bruce; Martens, Eric C; Mills, David A; Rastal, Robert A; Vaughan,
+Elaine; Sanders, Mary Ellen (2016). "Prebiotics: Why definitions matter" (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC4744122). Current Opinion in Biotechnology. 37: 1–7.
+doi:10.1016/j.copbio.2015.09.001 (https://doi.org/10.1016%2Fj.copbio.2015.09.001).
+PMC 4744122 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4744122). PMID 26431716 (h
+ttps://pubmed.ncbi.nlm.nih.gov/26431716).
+127. Pandey, Kavita. R; Naik, Suresh. R; Vakil, Babu. V (2015). "Probiotics, prebiotics and
+synbiotics- a review" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4648921). Journal of
+Food Science and Technology. 52 (12): 7577–7587. doi:10.1007/s13197-015-1921-1 (http
+s://doi.org/10.1007%2Fs13197-015-1921-1). PMC 4648921 (https://www.ncbi.nlm.nih.gov/p
+mc/articles/PMC4648921). PMID 26604335 (https://pubmed.ncbi.nlm.nih.gov/26604335).
+128. Broeckx, Géraldine; Vandenheuvel, Dieter; Claes, Ingmar J.J; Lebeer, Sarah; Kiekens, Filip
+(2016). "Drying techniques of probiotic bacteria as an important step towards the
+development of novel pharmabiotics" (https://repository.uantwerpen.be/docman/irua/9d9f03/
+132884.pdf) (PDF). International Journal of Pharmaceutics. 505 (1–2): 303–318.
+doi:10.1016/j.ijpharm.2016.04.002 (https://doi.org/10.1016%2Fj.ijpharm.2016.04.002).
+hdl:10067/1328840151162165141 (https://hdl.handle.net/10067%2F132884015116216514
+1). PMID 27050865 (https://pubmed.ncbi.nlm.nih.gov/27050865).
+129. Sleator, Roy D; Hill, Colin (2009). "Rational Design of Improved Pharmabiotics" (https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC2742647). Journal of Biomedicine and Biotechnology.
+2009: 275287. doi:10.1155/2009/275287 (https://doi.org/10.1155%2F2009%2F275287).
+PMC 2742647 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2742647). PMID 19753318 (h
+ttps://pubmed.ncbi.nlm.nih.gov/19753318).
+130. Patterson, Elaine; Cryan, John F; Fitzgerald, Gerald F; Ross, R. Paul; Dinan, Timothy G;
+Stanton, Catherine (2014). "Gut microbiota, the pharmabiotics they produce and host health"
+(https://doi.org/10.1017%2FS0029665114001426). Proceedings of the Nutrition Society. 73
+(4): 477–489. doi:10.1017/S0029665114001426 (https://doi.org/10.1017%2FS00296651140
+01426). PMID 25196939 (https://pubmed.ncbi.nlm.nih.gov/25196939).
+131. "Non-prescription therapeutics for IBS: Where are we?" (https://www.gutmicrobiotaforhealth.c
+om/non-prescription-therapeutics-for-ibs-where-are-we/). 30 January 2024.
+132. Guandalini, Stefano; Magazzù, Giuseppe; Chiaro, Andrea; La Balestra, Valeria; Di Nardo,
+Giovanni; Gopalan, Sarath; Sibal, A.; Romano, Claudio; Canani, Roberto Berni; Lionetti,
+Paolo; Setty, Mala (July 2010). "VSL#3 Improves Symptoms in Children with Irritable Bowel
+Syndrome: A Multicenter, Randomized, Placebo-Controlled, Double-Blind, Crossover Study"
+(https://journals.lww.com/jpgn/Fulltext/2010/07000/VSL_3_Improves_Symptoms_in_Childre
+n_With_Irritable.6.aspx). Journal of Pediatric Gastroenterology and Nutrition. 51 (1): 24–30.
+doi:10.1097/MPG.0b013e3181ca4d95 (https://doi.org/10.1097%2FMPG.0b013e3181ca4d9
+5). PMID 20453678 (https://pubmed.ncbi.nlm.nih.gov/20453678). S2CID 33659736 (https://a
+pi.semanticscholar.org/CorpusID:33659736).
+133. Ford, Alexander C; Quigley, Eamonn M M; Lacy, Brian E; Lembo, Anthony J; Saito, Yuri A;
+Schiller, Lawrence R; Soffer, Edy E; Spiegel, Brennan M R; Moayyedi, Paul (2014). "Efficacy
+of Prebiotics, Probiotics and Synbiotics in Irritable Bowel Syndrome and Chronic Idiopathic
+Constipation: Systematic Review and Meta-analysis". The American Journal of
+Gastroenterology. 109 (10): 1547–1561, quiz 1546, 1562. doi:10.1038/ajg.2014.202 (https://d
+oi.org/10.1038%2Fajg.2014.202). PMID 25070051 (https://pubmed.ncbi.nlm.nih.gov/250700
+51). S2CID 205100508 (https://api.semanticscholar.org/CorpusID:205100508).
+134. Dupont, Andrew; Richards; Jelinek, Katherine A; Krill, Joseph; Rahimi, Erik; Ghouri, Yezaz
+(2014). "Systematic review of randomized controlled trials of probiotics, prebiotics, and
+synbiotics in inflammatory bowel disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC42
+66241). Clinical and Experimental Gastroenterology. 7: 473–487. doi:10.2147/CEG.S27530
+(https://doi.org/10.2147%2FCEG.S27530). PMC 4266241 (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC4266241). PMID 25525379 (https://pubmed.ncbi.nlm.nih.gov/25525379).
+135. Yu, Cheng Gong; Huang, Qin (2013). "Recent progress on the role of gut microbiota in the
+pathogenesis of inflammatory bowel disease" (https://doi.org/10.1111%2F1751-2980.1208
+7). Journal of Digestive Diseases. 14 (10): 513–517. doi:10.1111/1751-2980.12087 (https://d
+oi.org/10.1111%2F1751-2980.12087). PMID 23848393 (https://pubmed.ncbi.nlm.nih.gov/23
+848393). S2CID 26982085 (https://api.semanticscholar.org/CorpusID:26982085).
+136. Levitt, Michael D.; Duane, William C. (1972-05-04). "Floating Stools – Flatus versus Fat".
+New England Journal of Medicine. 286 (18): 973–975. doi:10.1056/NEJM197205042861804
+(https://doi.org/10.1056%2FNEJM197205042861804). ISSN 0028-4793 (https://www.worldc
+at.org/issn/0028-4793). PMID 5015442 (https://pubmed.ncbi.nlm.nih.gov/5015442).
+137. Aalam, Syed Mohammed Musheer; Crasta, Daphne Norma; Roy, Pooja; Miller, A. Lee;
+Gamb, Scott I.; Johnson, Stephen; Till, Lisa M.; Chen, Jun; Kashyap, Purna; Kannan,
+Nagarajan (2022-10-27). "Genesis of fecal floatation is causally linked to gut microbial
+colonization in mice" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9613883). Scientific
+Reports. 12 (1): 18109. Bibcode:2022NatSR..1218109A (https://ui.adsabs.harvard.edu/abs/2
+022NatSR..1218109A). doi:10.1038/s41598-022-22626-x (https://doi.org/10.1038%2Fs4159
+8-022-22626-x). ISSN 2045-2322 (https://www.worldcat.org/issn/2045-2322). PMC 9613883
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9613883). PMID 36302811 (https://pubmed.n
+cbi.nlm.nih.gov/36302811).
+138. Maier, Lisa; Pruteanu, Mihaela; Kuhn, Michael; Zeller, Georg; Telzerow, Anja; Anderson,
+Exene Erin; Brochado, Ana Rita; Fernandez, Keith Conrad; Dose, Hitomi; Mori, Hirotada;
+Patil, Kiran Raosaheb; Bork, Peer; Typas, Athanasios (2018). "Extensive impact of non-
+antibiotic drugs on human gut bacteria" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6108
+420). Nature. 555 (7698): 623–628. Bibcode:2018Natur.555..623M (https://ui.adsabs.harvar
+d.edu/abs/2018Natur.555..623M). doi:10.1038/nature25979 (https://doi.org/10.1038%2Fnatur
+e25979). PMC 6108420 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6108420).
+PMID 29555994 (https://pubmed.ncbi.nlm.nih.gov/29555994).
+139. Clauss, Matthieu; Gérard, Philippe; Mosca, Alexis; Leclerc, Marion (2021). "Interplay
+Between Exercise and Gut Microbiome in the Context of Human Health and Performance" (h
+ttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC8222532). Frontiers in Nutrition. 8: 637010.
+doi:10.3389/fnut.2021.637010 (https://doi.org/10.3389%2Ffnut.2021.637010). PMC 8222532
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8222532). PMID 34179053 (https://pubmed.n
+cbi.nlm.nih.gov/34179053).
+140. Kamboj, AK; Cotter, TG; Oxentenko, AS (2017). "Helicobacter pylori: The Past, Present, and
+Future in Management" (https://www.mayoclinicproceedings.org/article/S0025-6196(17)300
+68-X/fulltext). Mayo Clinic Proceedings. 92 (4): 599–604. doi:10.1016/j.mayocp.2016.11.017
+(https://doi.org/10.1016%2Fj.mayocp.2016.11.017). ISSN 0025-6196 (https://www.worldcat.o
+rg/issn/0025-6196). PMID 28209367 (https://pubmed.ncbi.nlm.nih.gov/28209367).
+141. "Peptic ulcer disease" (https://www.hopkinsmedicine.org/gastroenterology_hepatology/_pdf
+s/esophagus_stomach/peptic_ulcer_disease.pdf) (PDF). The Johns Hopkins University
+School of Medicine. 2013. Retrieved 21 October 2020.
+142. Burisch, Johan; Jess, Tine; Martinato, Matteo; Lakatos, Peter L (2013). "The burden of
+inflammatory bowel disease in Europe" (https://doi.org/10.1016%2Fj.crohns.2013.01.010).
+Journal of Crohn's and Colitis. 7 (4): 322–337. doi:10.1016/j.crohns.2013.01.010 (https://doi.
+org/10.1016%2Fj.crohns.2013.01.010). PMID 23395397 (https://pubmed.ncbi.nlm.nih.gov/23
+395397).
+143. Blandino, G; Inturri, R; Lazzara, F; Di Rosa, M; Malaguarnera, L (2016). "Impact of gut
+microbiota on diabetes mellitus". Diabetes & Metabolism. 42 (5): 303–315.
+doi:10.1016/j.diabet.2016.04.004 (https://doi.org/10.1016%2Fj.diabet.2016.04.004).
+PMID 27179626 (https://pubmed.ncbi.nlm.nih.gov/27179626).
+144. Boulangé, Claire L; Neves, Ana Luisa; Chilloux, Julien; Nicholson, Jeremy K; Dumas, Marc-
+Emmanuel (2016). "Impact of the gut microbiota on inflammation, obesity, and metabolic
+disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4839080). Genome Medicine. 8 (1):
+42. doi:10.1186/s13073-016-0303-2 (https://doi.org/10.1186%2Fs13073-016-0303-2).
+PMC 4839080 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4839080). PMID 27098727 (h
+ttps://pubmed.ncbi.nlm.nih.gov/27098727).
+145. Arrieta, Marie-Claire; Stiemsma, Leah T; Dimitriu, Pedro A; Thorson, Lisa; Russell, Shannon;
+Yurist-Doutsch, Sophie; Kuzeljevic, Boris; Gold, Matthew J; Britton, Heidi M; Lefebvre, Diana
+L; Subbarao, Padmaja; Mandhane, Piush; Becker, Allan; McNagny, Kelly M; Sears, Malcolm
+R; Kollmann, Tobias; Mohn, William W; Turvey, Stuart E; Brett Finlay, B (2015). "Early
+infancy microbial and metabolic alterations affect risk of childhood asthma" (https://doi.org/1
+0.1126%2Fscitranslmed.aab2271). Science Translational Medicine. 7 (307): 307ra152.
+doi:10.1126/scitranslmed.aab2271 (https://doi.org/10.1126%2Fscitranslmed.aab2271).
+PMID 26424567 (https://pubmed.ncbi.nlm.nih.gov/26424567). S2CID 206687974 (https://api.
+semanticscholar.org/CorpusID:206687974).
+146. Stiemsma, Leah T; Turvey, Stuart E (2017). "Asthma and the microbiome: Defining the critical
+window in early life" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5217603). Allergy,
+Asthma & Clinical Immunology. 13: 3. doi:10.1186/s13223-016-0173-6 (https://doi.org/10.11
+86%2Fs13223-016-0173-6). PMC 5217603 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC
+5217603). PMID 28077947 (https://pubmed.ncbi.nlm.nih.gov/28077947).
+147. Ipci, Kagan; Altıntoprak, Niyazi; Muluk, Nuray Bayar; Senturk, Mehmet; Cingi, Cemal (2016).
+"The possible mechanisms of the human microbiome in allergic diseases". European
+Archives of Oto-Rhino-Laryngology. 274 (2): 617–626. doi:10.1007/s00405-016-4058-6 (http
+s://doi.org/10.1007%2Fs00405-016-4058-6). PMID 27115907 (https://pubmed.ncbi.nlm.nih.g
+ov/27115907). S2CID 27328940 (https://api.semanticscholar.org/CorpusID:27328940).
+148. Mariño, Eliana; Richards, James L.; McLeod, Keiran H.; et al. (May 2017). "Gut microbial
+metabolites limit the frequency of autoimmune T cells and protect against type 1 diabetes" (h
+ttps://www.nature.com/articles/ni.3713). Nature Immunology. 18 (5): 552–562.
+doi:10.1038/ni.3713 (https://doi.org/10.1038%2Fni.3713). ISSN 1529-2916 (https://www.worl
+dcat.org/issn/1529-2916). PMID 28346408 (https://pubmed.ncbi.nlm.nih.gov/28346408).
+S2CID 30078908 (https://api.semanticscholar.org/CorpusID:30078908).
+149. Bettelli E, Carrier Y, Gao W, Korn T, Strom TB, Oukka M, Weiner HL, Kuchroo VK (May
+2006). "Reciprocal developmental pathways for the generation of pathogenic effector TH17
+and regulatory T cells". Nature. 441 (7090): 235–238. Bibcode:2006Natur.441..235B.
+doi:10.1038/nature04753. PMID 16648838.
+150. Säemann, Marcus D.; Böhmig, Georg A.; Österreicher, Christoph H.; et al. (December 2000).
+"Anti-inflammatory effects of sodium butyrate on human monocytes: potent inhibition of IL-12
+and up-regulation of IL-10 production" (https://doi.org/10.1096%2Ffj.00-0359fje). The FASEB
+Journal. 14 (15): 2380–2382. doi:10.1096/fj.00-0359fje (https://doi.org/10.1096%2Ffj.00-035
+9fje). ISSN 0892-6638 (https://www.worldcat.org/issn/0892-6638). PMID 11024006 (https://p
+ubmed.ncbi.nlm.nih.gov/11024006). S2CID 41553220 (https://api.semanticscholar.org/Corpu
+sID:41553220).
+151. Gao, Z; Yin, J; Zhang, J; Ward, R. E; Martin, R. J; Lefevre, M; Cefalu, W. T; Ye, J (2009).
+"Butyrate Improves Insulin Sensitivity and Increases Energy Expenditure in Mice" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC2699871). Diabetes. 58 (7): 1509–1517.
+doi:10.2337/db08-1637 (https://doi.org/10.2337%2Fdb08-1637). PMC 2699871 (https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC2699871). PMID 19366864 (https://pubmed.ncbi.nlm.nih.g
+ov/19366864).
+152. Mazidi, Mohsen; Rezaie, Peyman; Kengne, Andre Pascal; Mobarhan, Majid Ghayour; Ferns,
+Gordon A (2016). "Gut microbiome and metabolic syndrome". Diabetes & Metabolic
+Syndrome: Clinical Research & Reviews. 10 (2): S150–157. doi:10.1016/j.dsx.2016.01.024
+(https://doi.org/10.1016%2Fj.dsx.2016.01.024). PMID 26916014 (https://pubmed.ncbi.nlm.ni
+h.gov/26916014).
+153. Chen, Xiao; d'Souza, Roshan; Hong, Seong-Tshool (2013). "The role of gut microbiota in the
+gut-brain axis: Current challenges and perspectives" (https://www.ncbi.nlm.nih.gov/pmc/articl
+es/PMC4875553). Protein & Cell. 4 (6): 403–414. doi:10.1007/s13238-013-3017-x (https://do
+i.org/10.1007%2Fs13238-013-3017-x). PMC 4875553 (https://www.ncbi.nlm.nih.gov/pmc/arti
+cles/PMC4875553). PMID 23686721 (https://pubmed.ncbi.nlm.nih.gov/23686721).
+154. Moeller, Andrew H.; Li, Yingying; Ngole, Eitel Mpoudi; Ahuka-Mundeke, Steve; Lonsdorf,
+Elizabeth V.; Pusey, Anne E.; Peeters, Martine; Hahn, Beatrice H.; Ochman, Howard (2014-
+11-18). "Rapid changes in the gut microbiome during human evolution" (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC4246287). Proceedings of the National Academy of Sciences.
+111 (46): 16431–16435. Bibcode:2014PNAS..11116431M (https://ui.adsabs.harvard.edu/ab
+s/2014PNAS..11116431M). doi:10.1073/pnas.1419136111 (https://doi.org/10.1073%2Fpna
+s.1419136111). ISSN 0027-8424 (https://www.worldcat.org/issn/0027-8424). PMC 4246287
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4246287). PMID 25368157 (https://pubmed.n
+cbi.nlm.nih.gov/25368157).
+155. Brune, A. (2014). "Symbiotic digestion of lignocellulose in termite guts". Nature Reviews
+Microbiology. 12 (3): 168–180. doi:10.1038/nrmicro3182 (https://doi.org/10.1038%2Fnrmicro
+3182). PMID 24487819 (https://pubmed.ncbi.nlm.nih.gov/24487819). S2CID 5220210 (http
+s://api.semanticscholar.org/CorpusID:5220210).
+156. Dietrich, C.; Köhler, T.; Brune, A. (2014). "The cockroach origin of the termite gut microbiota:
+patterns in bacterial community structure reflect major evolutionary events" (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC3993134). Applied and Environmental Microbiology. 80 (7):
+2261–2269. Bibcode:2014ApEnM..80.2261D (https://ui.adsabs.harvard.edu/abs/2014ApEn
+M..80.2261D). doi:10.1128/AEM.04206-13 (https://doi.org/10.1128%2FAEM.04206-13).
+PMC 3993134 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3993134). PMID 24487532 (h
+ttps://pubmed.ncbi.nlm.nih.gov/24487532).
+157. Mikaelyan, A.; Dietrich, C.; Köhler, T.; Poulsen, M.; Sillam-Dussès, D.; Brune, A. (2015). "Diet
+is the primary determinant of bacterial community structure in the guts of higher termites".
+Molecular Ecology. 24 (20): 5824–5895. Bibcode:2015MolEc..24.5284M (https://ui.adsabs.h
+arvard.edu/abs/2015MolEc..24.5284M). doi:10.1111/mec.13376 (https://doi.org/10.1111%2F
+mec.13376). PMID 26348261 (https://pubmed.ncbi.nlm.nih.gov/26348261).
+S2CID 206182668 (https://api.semanticscholar.org/CorpusID:206182668).
+158. Mikaelyan, A.; Thompson, C.; Hofer, M.; Brune, A. (2016). "The deterministic assembly of
+complex bacterial communities in germ-free cockroach guts" (https://www.ncbi.nlm.nih.gov/p
+mc/articles/PMC4751828). Applied and Environmental Microbiology. 82 (4): 1256–1263.
+doi:10.1128/AEM.03700-15 (https://doi.org/10.1128%2FAEM.03700-15). PMC 4751828 (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC4751828). PMID 26655763 (https://pubmed.ncbi.
+nlm.nih.gov/26655763).
+Review articles
+De Preter, Vicky; Hamer, Henrike M; Windey, Karen; Verbeke, Kristin (2011). "The impact of
+pre- and/or probiotics on human colonic metabolism: Does it affect human health?".
+Molecular Nutrition & Food Research. 55 (1): 46–57. doi:10.1002/mnfr.201000451 (https://do
+i.org/10.1002%2Fmnfr.201000451). PMID 21207512 (https://pubmed.ncbi.nlm.nih.gov/21207
+512).
+Maranduba, Carlos Magno da Costa; De Castro, Sandra Bertelli Ribeiro; Souza, Gustavo
+Torres de; Rossato, Cristiano; Da Guia, Francisco Carlos; Valente, Maria Anete Santana;
+Rettore, João Vitor Paes; Maranduba, Claudinéia Pereira; Souza, Camila Maurmann de;
+Carmo, Antônio Márcio Resende do; MacEdo, Gilson Costa; Silva, Fernando de Sá (2015).
+"Intestinal Microbiota as Modulators of the Immune System and Neuroimmune System:
+Impact on the Host Health and Homeostasis" (https://www.ncbi.nlm.nih.gov/pmc/articles/PM
+C4352473). Journal of Immunology Research. 2015: 931574. doi:10.1155/2015/931574 (http
+s://doi.org/10.1155%2F2015%2F931574). PMC 4352473 (https://www.ncbi.nlm.nih.gov/pmc/
+articles/PMC4352473). PMID 25759850 (https://pubmed.ncbi.nlm.nih.gov/25759850).
+Prakash, Satya; Rodes, Laetitia; Coussa-Charley, Michael; Tomaro-Duchesneau, Catherine;
+Tomaro-Duchesneau, Catherine; Coussa-Charley; Rodes (2011). "Gut microbiota: Next
+frontier in understanding human health and development of biotherapeutics" (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC3156250). Biologics: Targets and Therapy. 5: 71–86.
+doi:10.2147/BTT.S19099 (https://doi.org/10.2147%2FBTT.S19099). PMC 3156250 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3156250). PMID 21847343 (https://pubmed.ncbi.nlm.
+nih.gov/21847343).
+Wu, G. D.; Chen, J.; Hoffmann, C.; Bittinger, K.; Chen, Y.-Y.; Keilbaugh, S. A.; Bewtra, M.;
+Knights, D.; Walters, W. A.; Knight, R.; Sinha, R.; Gilroy, E.; Gupta, K.; Baldassano, R.;
+Nessel, L.; Li, H.; Bushman, F. D.; Lewis, J.D. (2011). "Linking Long-Term Dietary Patterns
+with Gut Microbial Enterotypes" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3368382).
+Science. 334 (6052): 105–108. Bibcode:2011Sci...334..105W (https://ui.adsabs.harvard.edu/
+abs/2011Sci...334..105W). doi:10.1126/science.1208344 (https://doi.org/10.1126%2Fscienc
+Further reading
+e.1208344). PMC 3368382 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3368382).
+PMID 21885731 (https://pubmed.ncbi.nlm.nih.gov/21885731).
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Gut_microbiota&oldid=1227892472"

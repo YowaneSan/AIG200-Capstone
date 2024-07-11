@@ -1,0 +1,865 @@
+Microscopy of keratin filaments inside cells
+Keratin
+Keratin (/ˈkɛrətɪn/[1][2]) is one of a family of structural
+fibrous proteins also known as scleroproteins. Alpha-
+keratin (α-keratin) is a type of keratin found in
+vertebrates. It is the key structural material making up
+scales, hair, nails, feathers, horns, claws, hooves, and
+the outer layer of skin among vertebrates. Keratin also
+protects epithelial cells from damage or stress. Keratin
+is extremely insoluble in water and organic solvents.
+Keratin monomers assemble into bundles to form
+intermediate filaments, which are tough and form
+strong unmineralized epidermal appendages found in
+reptiles, 
+birds, 
+amphibians, 
+and 
+mammals.[3][4]
+Excessive keratinization participate in fortification of
+certain tissues such as in horns of cattle and rhinos, and
+armadillos' osteoderm.[5] The only other biological
+matter known to approximate the toughness of
+keratinized tissue is chitin.[6][7][8] Keratin comes in
+two types, the primitive, softer forms found in all vertebrates and harder, derived forms found only among
+sauropsids (reptiles and birds).
+Spider silk is classified as keratin,[9] although production of the protein may have evolved independently of
+the process in vertebrates.
+Alpha-keratins (α-keratins) are found in all vertebrates. They form the hair (including wool), the outer layer
+of skin, horns, nails, claws and hooves of mammals, and the slime threads of hagfish.[4] The baleen plates
+of filter-feeding whales are also made of keratin. Keratin filaments are abundant in keratinocytes in the
+hornified layer of the epidermis; these are proteins which have undergone keratinization. They are also
+present in epithelial cells in general. For example, mouse thymic epithelial cells react with antibodies for
+keratin 5, keratin 8, and keratin 14. These antibodies are used as fluorescent markers to distinguish subsets
+of mouse thymic epithelial cells in genetic studies of the thymus.
+The harder beta-keratins (β-keratins) are found only in the sauropsids, that is all living reptiles and birds.
+They are found in the nails, scales, and claws of reptiles, in some reptile shells (testudines, such as tortoise,
+turtle, terrapin), and in the feathers, beaks, and claws of birds.[10] These keratins are formed primarily in
+beta sheets. However, beta sheets are also found in α-keratins.[11] Recent scholarship has shown that
+sauropsid β-keratins are fundamentally different from α-keratins at a genetic and structural level. The new
+term corneous beta protein (CBP) has been proposed to avoid confusion with α-keratins.[12]
+Examples of occurrence
+The horns of the impala are made of
+keratin covering a core of bone.
+The neutral–
+basic keratins
+are encoded
+on
+chromosome
+12 (12q13.13).
+The acidic keratins
+are encoded on
+chromosome 17
+(17q21.2).
+Keratins (also described as cytokeratins) are polymers of type I and
+type II intermediate filaments that have been found only in
+chordates (vertebrates, amphioxus, urochordates). Nematodes and
+many other non-chordate animals seem to have only type VI
+intermediate filaments, fibers that structure the nucleus.
+The human genome encodes 54 functional
+keratin genes, located in two clusters on
+chromosomes 12 and 17. This suggests that they
+originated from a series of gene duplications on
+these chromosomes.[13]
+The keratins include the following proteins of
+which KRT23, KRT24, KRT25, KRT26,
+KRT27, KRT28, KRT31, KRT32, KRT33A,
+KRT33B, KRT34, KRT35, KRT36, KRT37,
+KRT38, KRT39, KRT40, KRT71, KRT72,
+KRT73, KRT74, KRT75, KRT76, KRT77,
+KRT78, KRT79, KRT8, KRT80, KRT81,
+KRT82, KRT83, KRT84, KRT85 and KRT86 have been
+used to describe keratins past 20.[14]
+Genes
+Table of Keratin Genes and Biological Processes (GeneCards)[15]
+Symbol
+Biological Process
+KRT1
+complement activation, lectin pathway
+KRT1
+retina homeostasis
+KRT1
+response to oxidative stress
+KRT1
+peptide cross-linking
+KRT1
+keratinization
+KRT1
+fibrinolysis
+KRT1
+intermediate filament organization
+KRT1
+regulation of angiogenesis
+KRT1
+negative regulation of inflammatory response
+KRT1
+protein heterotetramerization
+KRT1
+establishment of skin barrier
+KRT10
+morphogenesis of an epithelium
+KRT10
+epidermis development
+KRT10
+peptide cross-linking
+KRT10
+keratinocyte differentiation
+KRT10
+epithelial cell differentiation
+KRT10
+positive regulation of epidermis development
+KRT10
+protein heterotetramerization
+KRT12
+morphogenesis of an epithelium
+KRT12
+visual perception
+KRT12
+epidermis development
+KRT12
+epithelial cell differentiation
+KRT12
+cornea development in camera-type eye
+KRT13
+cytoskeleton organization
+KRT13
+epithelial cell differentiation
+KRT13
+regulation of translation in response to stress
+KRT13
+intermediate filament organization
+KRT14
+aging
+KRT14
+epidermis development
+KRT14
+keratinocyte differentiation
+KRT14
+epithelial cell differentiation
+KRT14
+hair cycle
+KRT14
+intermediate filament organization
+KRT14
+intermediate filament bundle assembly
+KRT14
+stem cell differentiation
+KRT15
+epidermis development
+KRT15
+epithelial cell differentiation
+KRT15
+intermediate filament organization
+KRT16
+morphogenesis of an epithelium
+KRT16
+inflammatory response
+KRT16
+cytoskeleton organization
+KRT16
+aging
+KRT16
+keratinocyte differentiation
+KRT16
+negative regulation of cell migration
+KRT16
+epithelial cell differentiation
+KRT16
+keratinization
+KRT16
+hair cycle
+KRT16
+innate immune response
+KRT16
+intermediate filament cytoskeleton organization
+KRT16
+intermediate filament organization
+KRT16
+keratinocyte migration
+KRT16
+establishment of skin barrier
+KRT17
+morphogenesis of an epithelium
+KRT17
+positive regulation of cell growth
+KRT17
+epithelial cell differentiation
+KRT17
+hair follicle morphogenesis
+KRT17
+keratinization
+KRT17
+intermediate filament organization
+KRT17
+positive regulation of translation
+KRT17
+positive regulation of hair follicle development
+KRT18
+cell cycle
+KRT18
+anatomical structure morphogenesis
+KRT18
+tumor necrosis factor-mediated signaling pathway
+KRT18
+obsolete Golgi to plasma membrane CFTR protein transport
+KRT18
+Golgi to plasma membrane protein transport
+KRT18
+negative regulation of apoptotic process
+KRT18
+intermediate filament cytoskeleton organization
+KRT18
+extrinsic apoptotic signaling pathway
+KRT18
+hepatocyte apoptotic process
+KRT18
+cell-cell adhesion
+KRT19
+Notch signaling pathway
+KRT19
+epithelial cell differentiation
+KRT19
+response to estrogen
+KRT19
+intermediate filament organization
+KRT19
+sarcomere organization
+KRT19
+cell differentiation involved in embryonic placenta development
+KRT2
+keratinocyte development
+KRT2
+epidermis development
+KRT2
+peptide cross-linking
+KRT2
+keratinization
+KRT2
+keratinocyte activation
+KRT2
+keratinocyte proliferation
+KRT2
+intermediate filament organization
+KRT2
+positive regulation of epidermis development
+KRT2
+keratinocyte migration
+KRT20
+apoptotic process
+KRT20
+cellular response to starvation
+KRT20
+epithelial cell differentiation
+KRT20
+intermediate filament organization
+KRT20
+regulation of protein secretion
+KRT23
+epithelial cell differentiation
+KRT23
+intermediate filament organization
+KRT24
+biological_process
+KRT25
+cytoskeleton organization
+KRT25
+aging
+KRT25
+hair follicle morphogenesis
+KRT25
+hair cycle
+KRT25
+intermediate filament organization
+KRT26
+KRT27
+biological_process
+KRT27
+hair follicle morphogenesis
+KRT27
+intermediate filament organization
+KRT28
+biological_process
+KRT3
+epithelial cell differentiation
+KRT3
+keratinization
+KRT3
+intermediate filament cytoskeleton organization
+KRT3
+intermediate filament organization
+KRT31
+epidermis development
+KRT31
+epithelial cell differentiation
+KRT31
+intermediate filament organization
+KRT32
+epidermis development
+KRT32
+epithelial cell differentiation
+KRT32
+intermediate filament organization
+KRT33A
+epithelial cell differentiation
+KRT33A
+intermediate filament organization
+KRT33B
+aging
+KRT33B
+epithelial cell differentiation
+KRT33B
+hair cycle
+KRT33B
+intermediate filament organization
+KRT34
+epidermis development
+KRT34
+epithelial cell differentiation
+KRT34
+intermediate filament organization
+KRT35
+anatomical structure morphogenesis
+KRT35
+epithelial cell differentiation
+KRT35
+intermediate filament organization
+KRT36
+biological_process
+KRT36
+epithelial cell differentiation
+KRT36
+intermediate filament organization
+KRT36
+regulation of keratinocyte differentiation
+KRT37
+epithelial cell differentiation
+KRT37
+intermediate filament organization
+KRT38
+epithelial cell differentiation
+KRT38
+intermediate filament organization
+KRT39
+epithelial cell differentiation
+KRT39
+intermediate filament organization
+KRT4
+cytoskeleton organization
+KRT4
+epithelial cell differentiation
+KRT4
+keratinization
+KRT4
+intermediate filament organization
+KRT4
+negative regulation of epithelial cell proliferation
+KRT40
+epithelial cell differentiation
+KRT40
+intermediate filament organization
+KRT5
+epidermis development
+KRT5
+response to mechanical stimulus
+KRT5
+regulation of cell migration
+KRT5
+keratinization
+KRT5
+regulation of protein localization
+KRT5
+intermediate filament polymerization
+KRT5
+intermediate filament organization
+KRT6A
+obsolete negative regulation of cytolysis by symbiont of host cells
+KRT6A
+morphogenesis of an epithelium
+KRT6A
+positive regulation of cell population proliferation
+KRT6A
+cell differentiation
+KRT6A
+keratinization
+KRT6A
+wound healing
+KRT6A
+intermediate filament organization
+KRT6A
+defense response to Gram-positive bacterium
+KRT6A
+cytolysis by host of symbiont cells
+KRT6A
+antimicrobial humoral immune response mediated by antimicrobial peptide
+KRT6A
+negative regulation of entry of bacterium into host cell
+KRT6B
+ectoderm development
+KRT6B
+keratinization
+KRT6B
+intermediate filament organization
+KRT6C
+keratinization
+KRT6C
+intermediate filament cytoskeleton organization
+KRT6C
+intermediate filament organization
+KRT7
+keratinization
+KRT7
+intermediate filament organization
+KRT71
+hair follicle morphogenesis
+KRT71
+keratinization
+KRT71
+intermediate filament organization
+KRT72
+biological_process
+KRT72
+keratinization
+KRT72
+intermediate filament organization
+KRT73
+biological_process
+KRT73
+keratinization
+KRT73
+intermediate filament organization
+KRT74
+keratinization
+KRT74
+intermediate filament cytoskeleton organization
+KRT74
+intermediate filament organization
+KRT75
+hematopoietic progenitor cell differentiation
+KRT75
+keratinization
+KRT75
+intermediate filament organization
+KRT76
+cytoskeleton organization
+KRT76
+epidermis development
+KRT76
+keratinization
+KRT76
+pigmentation
+KRT76
+intermediate filament organization
+KRT76
+sebaceous gland development
+KRT77
+biological_process
+KRT77
+keratinization
+KRT77
+intermediate filament organization
+KRT78
+keratinization
+KRT78
+intermediate filament organization
+KRT79
+keratinization
+KRT79
+intermediate filament organization
+KRT8
+keratinization
+KRT8
+tumor necrosis factor-mediated signaling pathway
+KRT8
+intermediate filament organization
+KRT8
+sarcomere organization
+KRT8
+response to hydrostatic pressure
+KRT8
+response to other organism
+KRT8
+cell differentiation involved in embryonic placenta development
+KRT8
+extrinsic apoptotic signaling pathway
+KRT8
+hepatocyte apoptotic process
+KRT80
+keratinization
+KRT80
+intermediate filament organization
+KRT81
+keratinization
+KRT81
+intermediate filament organization
+KRT82
+biological_process
+KRT82
+keratinization
+KRT82
+intermediate filament organization
+KRT83
+aging
+KRT83
+epidermis development
+KRT83
+keratinization
+KRT83
+hair cycle
+KRT83
+intermediate filament organization
+KRT84
+hair follicle development
+KRT84
+keratinization
+KRT84
+nail development
+KRT84
+intermediate filament organization
+KRT84
+regulation of keratinocyte differentiation
+KRT85
+epidermis development
+KRT85
+keratinization
+KRT85
+intermediate filament organization
+KRT86
+keratinization
+KRT86
+intermediate filament organization
+KRT9
+spermatogenesis
+KRT9
+epidermis development
+KRT9
+epithelial cell differentiation
+KRT9
+skin development
+KRT9
+intermediate filament organization
+Protein sequence alignment of human keratin 1, 2A, 3,4, 5, 6A, 7, and 8 (KRT1 – KRT8). Only the first rod
+domain is shown above. Alignment was created using Clustal Omega (https://www.ebi.ac.uk/Tools/msa/clustal
+o/).
+The first sequences of keratins were determined by Israel Hanukoglu and Elaine Fuchs (1982,
+1983).[16][17] These sequences revealed that there are two distinct but homologous keratin families, which
+were named type I and type II keratins.[17] By analysis of the primary structures of these keratins and other
+intermediate filament proteins, Hanukoglu and Fuchs suggested a model in which keratins and intermediate
+filament proteins contain a central ~310 residue domain with four segments in α-helical conformation that
+are separated by three short linker segments predicted to be in beta-turn conformation.[17] This model has
+been confirmed by the determination of the crystal structure of a helical domain of keratins.[18]
+The human genome has 54 functional annotated Keratin genes, 28 are in the Keratin type 1 family, and 26
+are in the Keratin type 2 family. [19]
+Fibrous keratin molecules supercoil to form a very stable, left-handed superhelical motif to multimerise,
+forming filaments consisting of multiple copies of the keratin monomer.[20]
+Protein structure
+Type 1 and 2 Keratins
+Keratin (high molecular
+weight) in bile duct cell and
+oval cells of horse liver.
+The major force that keeps the coiled-coil structure is hydrophobic
+interactions between apolar residues along the keratins helical
+segments.[21]
+Limited interior space is the reason why the triple helix of the (unrelated)
+structural protein collagen, found in skin, cartilage and bone, likewise has
+a high percentage of glycine. The connective tissue protein elastin also has
+a high percentage of both glycine and alanine. Silk fibroin, considered a
+β-keratin, can have these two as 75–80% of the total, with 10–15% serine,
+with the rest having bulky side groups. The chains are antiparallel, with an
+alternating C → N orientation.[22] A preponderance of amino acids with
+small, nonreactive side groups is characteristic of structural proteins, for
+which H-bonded close packing is more important than chemical
+specificity.
+In addition to intra- and intermolecular hydrogen bonds, the distinguishing feature of keratins is the
+presence of large amounts of the sulfur-containing amino acid cysteine, required for the disulfide bridges
+that confer additional strength and rigidity by permanent, thermally stable crosslinking[23]—in much the
+same way that non-protein sulfur bridges stabilize vulcanized rubber. Human hair is approximately 14%
+cysteine. The pungent smells of burning hair and skin are due to the volatile sulfur compounds formed.
+Extensive disulfide bonding contributes to the insolubility of keratins, except in a small number of solvents
+such as dissociating or reducing agents.
+The more flexible and elastic keratins of hair have fewer interchain disulfide bridges than the keratins in
+mammalian fingernails, hooves and claws (homologous structures), which are harder and more like their
+analogs in other vertebrate classes.[24] Hair and other α-keratins consist of α-helically coiled single protein
+strands (with regular intra-chain H-bonding), which are then further twisted into superhelical ropes that may
+be further coiled. The β-keratins of reptiles and birds have β-pleated sheets twisted together, then stabilized
+and hardened by disulfide bridges.
+Thiolated polymers (=thiomers) can form disulfide bridges with cysteine substructures of keratins getting
+covalently attached to these proteins.[25] Thiomers exhibit therefore high binding properties to keratins
+found in hair,[26] on skin[27][28] and on the surface of many cell types.[29]
+It has been proposed that keratins can be divided into 'hard' and 'soft' forms, or 'cytokeratins' and 'other
+keratins'. That model is now understood to be correct. A new nuclear addition in 2006 to describe keratins
+takes this into account.[14]
+Disulfide bridges
+Filament formation
+Keratin filaments are intermediate filaments. Like all intermediate filaments, keratin proteins form
+filamentous polymers in a series of assembly steps beginning with dimerization; dimers assemble into
+tetramers and octamers and eventually, if the current hypothesis holds, into unit-length-filaments (ULF)
+capable of annealing end-to-end into long filaments.
+A (neutral-basic)
+B (acidic)
+Occurrence
+keratin 1, keratin 2
+keratin 9, keratin 10
+stratum corneum, keratinocytes
+keratin 3
+keratin 12
+cornea
+keratin 4
+keratin 13
+stratified epithelium
+keratin 5
+keratin 14, keratin 15
+stratified epithelium
+keratin 6
+keratin 16, keratin 17
+squamous epithelium
+keratin 7
+keratin 19
+ductal epithelia
+keratin 8
+keratin 18, keratin 20
+simple epithelium
+Cornification is the process of forming an epidermal barrier in stratified squamous epithelial tissue. At the
+cellular level, cornification is characterised by:
+production of keratin
+production of small proline-rich (SPRR) proteins and transglutaminase which eventually
+form a cornified cell envelope beneath the plasma membrane
+terminal differentiation
+loss of nuclei and organelles, in the final stages of cornification
+Metabolism ceases, and the cells are almost completely filled by keratin. During the process of epithelial
+differentiation, cells become cornified as keratin protein is incorporated into longer keratin intermediate
+filaments. Eventually the nucleus and cytoplasmic organelles disappear, metabolism ceases and cells
+undergo a programmed death as they become fully keratinized. In many other cell types, such as cells of the
+dermis, keratin filaments and other intermediate filaments function as part of the cytoskeleton to
+mechanically stabilize the cell against physical stress. It does this through connections to desmosomes, cell–
+cell junctional plaques, and hemidesmosomes, cell-basement membrane adhesive structures.
+Cells in the epidermis contain a structural matrix of keratin, which makes this outermost layer of the skin
+almost waterproof, and along with collagen and elastin gives skin its strength. Rubbing and pressure cause
+thickening of the outer, cornified layer of the epidermis and form protective calluses, which are useful for
+athletes and on the fingertips of musicians who play stringed instruments. Keratinized epidermal cells are
+constantly shed and replaced.
+These hard, integumentary structures are formed by intercellular cementing of fibers formed from the dead,
+cornified cells generated by specialized beds deep within the skin. Hair grows continuously and feathers
+molt and regenerate. The constituent proteins may be phylogenetically homologous but differ somewhat in
+Pairing
+Cornification
+chemical structure and supermolecular organization. The evolutionary relationships are complex and only
+partially known. Multiple genes have been identified for the β-keratins in feathers, and this is probably
+characteristic of all keratins.
+The silk fibroins produced by insects and spiders are often classified as keratins, though it is unclear
+whether they are phylogenetically related to vertebrate keratins.
+Silk found in insect pupae, and in spider webs and egg casings, also has twisted β-pleated sheets
+incorporated into fibers wound into larger supermolecular aggregates. The structure of the spinnerets on
+spiders’ tails, and the contributions of their interior glands, provide remarkable control of fast extrusion.
+Spider silk is typically about 1 to 2 micrometers (μm) thick, compared with about 60 μm for human hair,
+and more for some mammals. The biologically and commercially useful properties of silk fibers depend on
+the organization of multiple adjacent protein chains into hard, crystalline regions of varying size, alternating
+with flexible, amorphous regions where the chains are randomly coiled.[30] A somewhat analogous situation
+occurs with synthetic polymers such as nylon, developed as a silk substitute. Silk from the hornet cocoon
+contains doublets about 10 μm across, with cores and coating, and may be arranged in up to 10 layers, also
+in plaques of variable shape. Adult hornets also use silk as a glue, as do spiders.
+Glues made from partially-hydrolysed keratin include hoof glue and horn glue.
+Abnormal growth of keratin can occur in a variety of conditions including keratosis, hyperkeratosis and
+keratoderma.
+Mutations in keratin gene expression can lead to, among others:
+Alopecia Areata
+Epidermolysis bullosa simplex
+Ichthyosis bullosa of Siemens
+Epidermolytic hyperkeratosis
+Steatocystoma multiplex
+Keratosis pharyngis
+Rhabdoid cell formation in Large cell lung carcinoma with rhabdoid phenotype[31][32]
+Several diseases, such as athlete's foot and ringworm, are caused by infectious fungi that feed on keratin.[33]
+Keratin is highly resistant to digestive acids if ingested. Cats regularly ingest hair as part of their grooming
+behavior, leading to the gradual formation of hairballs that may be expelled orally or excreted. In humans,
+trichophagia may lead to Rapunzel syndrome, an extremely rare but potentially fatal intestinal condition.
+Silk
+Glue
+Clinical significance
+Diagnostic use
+Keratin expression is helpful in determining epithelial origin in anaplastic cancers. Tumors that express
+keratin include carcinomas, thymomas, sarcomas and trophoblastic neoplasms. Furthermore, the precise
+expression-pattern of keratin subtypes allows prediction of the origin of the primary tumor when assessing
+metastases. For example, hepatocellular carcinomas typically express CK8 and CK18, and
+cholangiocarcinomas express CK7, CK8 and CK18, while metastases of colorectal carcinomas express
+CK20, but not CK7.[34]
+Keratin-associated proteins (KRTAPs)
+List of cutaneous conditions caused by mutations in keratins
+List of keratins expressed in the human integumentary system
+List of keratins
+1. OED 2nd edition, 1989 as /ˈkɛrətɪn/
+2. Entry "keratin" (http://www.merriam-webster.com/dictionary/keratin) Archived (https://web.arc
+hive.org/web/20130509074726/http://www.merriam-webster.com/dictionary/keratin) 2013-05-
+09 at the Wayback Machine in Merriam-Webster Online Dictionary (http://www.merriam-webs
+ter.com/) Archived (https://web.archive.org/web/20170922151722/https://www.merriam-webst
+er.com/) 2017-09-22 at the Wayback Machine.
+3. Fraser, R.D.B. (1972). Keratins: Their composition, structure and biosynthesis. Bannerstone
+House: Charles C Thomas. pp. 3–6. ISBN 978-0-398-02283-9.
+4. Wang, Bin (2016). "Keratin: Structure, mechanical properties, occurrence in biological
+organisms, and efforts at bioinspiration" (https://escholarship.org/uc/item/5sb7q6jp).
+Progress in Materials Science. 76: 229–318. doi:10.1016/j.pmatsci.2015.06.001 (https://doi.o
+rg/10.1016%2Fj.pmatsci.2015.06.001). Archived (https://web.archive.org/web/20220919132
+306/https://escholarship.org/uc/item/5sb7q6jp) from the original on 2022-09-19. Retrieved
+2019-07-03.
+5. Nasoori, Alireza (2020). "Formation, structure, and function of extra-skeletal bones in
+mammals" (https://archive.org/details/formation-structure-and-function-of-extra-skeletal-bone
+s-in-mammals). Biological Reviews. 95 (4): 986–1019. doi:10.1111/brv.12597 (https://doi.org/
+10.1111%2Fbrv.12597). PMID 32338826 (https://pubmed.ncbi.nlm.nih.gov/32338826).
+S2CID 216556342 (https://api.semanticscholar.org/CorpusID:216556342).
+6. "Keratin" (https://www.merriam-webster.com/dictionary/keratin). Webster's Online Dictionary.
+22 May 2023. Archived (https://web.archive.org/web/20210501121957/https://www.merriam-
+webster.com/dictionary/keratin) from the original on 1 May 2021. Retrieved 9 August 2018.
+7. Vincent, Julian F.V; Wegst, Ulrike G.K (July 2004). "Design and mechanical properties of
+insect cuticle". Arthropod Structure & Development. 33 (3): 187–199.
+Bibcode:2004ArtSD..33..187V (https://ui.adsabs.harvard.edu/abs/2004ArtSD..33..187V).
+doi:10.1016/j.asd.2004.05.006 (https://doi.org/10.1016%2Fj.asd.2004.05.006).
+PMID 18089034 (https://pubmed.ncbi.nlm.nih.gov/18089034).
+8. Tombolato, Luca; Novitskaya, Ekaterina E.; Chen, Po-Yu; Sheppard, Fred A.; McKittrick,
+Joanna (February 2010). "Microstructure, elastic properties and deformation mechanisms of
+horn keratin". Acta Biomaterialia. 6 (2): 319–330. doi:10.1016/j.actbio.2009.06.033 (https://do
+i.org/10.1016%2Fj.actbio.2009.06.033). PMID 19577667 (https://pubmed.ncbi.nlm.nih.gov/1
+9577667).
+See also
+References
+9. "Keratin" (https://www.vedantu.com/biology/keratin,%20https://www.vedantu.com/biology/ker
+atin,%20https://www.vedantu.com/biology/keratin,%20https://www.vedantu.com/biology/kerat
+in). VEDANTU. Retrieved 2022-01-07.
+10. Hickman, Cleveland Pendleton; Roberts, Larry S.; Larson, Allan L. (2003). Integrated
+principles of zoology (https://archive.org/details/isbn_9780072930283/page/538). Dubuque,
+IA: McGraw-Hill. p. 538 (https://archive.org/details/isbn_9780072930283/page/538).
+ISBN 978-0-07-243940-3.
+11. Kreplak, L.; Doucet, J.; Dumas, P.; Briki, F. (July 2004). "New Aspects of the α-Helix to β-
+Sheet Transition in Stretched Hard α-Keratin Fibers" (https://www.ncbi.nlm.nih.gov/pmc/articl
+es/PMC1304386). Biophysical Journal. 87 (1): 640–647. Bibcode:2004BpJ....87..640K (http
+s://ui.adsabs.harvard.edu/abs/2004BpJ....87..640K). doi:10.1529/biophysj.103.036749 (http
+s://doi.org/10.1529%2Fbiophysj.103.036749). PMC 1304386 (https://www.ncbi.nlm.nih.gov/p
+mc/articles/PMC1304386). PMID 15240497 (https://pubmed.ncbi.nlm.nih.gov/15240497).
+12. Alibardi, Lorenzo (September 2016). "Sauropsids Cornification is Based on Corneous Beta-
+Proteins, a Special Type of Keratin-Associated Corneous Proteins of the Epidermis". Journal
+of Experimental Zoology Part B: Molecular and Developmental Evolution. 326 (6): 338–351.
+doi:10.1002/jez.b.22689 (https://doi.org/10.1002%2Fjez.b.22689). PMID 27506161 (https://p
+ubmed.ncbi.nlm.nih.gov/27506161).
+13. Moll, Roland; Divo, Markus; Langbein, Lutz (June 2008). "The human keratins: biology and
+pathology" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2386534). Histochemistry and
+Cell Biology. 129 (6): 705–733. doi:10.1007/s00418-008-0435-6 (https://doi.org/10.1007%2F
+s00418-008-0435-6). PMC 2386534 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC238653
+4). PMID 18461349 (https://pubmed.ncbi.nlm.nih.gov/18461349).
+14. Schweizer J, Bowden PE, Coulombe PA, et al. (July 2006). "New consensus nomenclature
+for mammalian keratins" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2064177). J. Cell
+Biol. 174 (2): 169–74. doi:10.1083/jcb.200603161 (https://doi.org/10.1083%2Fjcb.20060316
+1). PMC 2064177 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2064177).
+PMID 16831889 (https://pubmed.ncbi.nlm.nih.gov/16831889).
+15. "GeneCards - Human Genes | Gene Database" (https://genecards.org/). Archived (https://we
+b.archive.org/web/20230513220853/https://www.genecards.org/) from the original on 2023-
+05-13. Retrieved 2023-05-08.
+16. Hanukoglu, Israel; Fuchs, Elaine (November 1982). "The cDNA sequence of a human
+epidermal keratin: Divergence of sequence but conservation of structure among intermediate
+filament proteins" (https://zenodo.org/record/890743). Cell. 31 (1): 243–252.
+doi:10.1016/0092-8674(82)90424-x (https://doi.org/10.1016%2F0092-8674%2882%299042
+4-x). PMID 6186381 (https://pubmed.ncbi.nlm.nih.gov/6186381). S2CID 35796315 (https://ap
+i.semanticscholar.org/CorpusID:35796315). Archived (https://web.archive.org/web/20210126
+054954/https://zenodo.org/record/890743) from the original on 2021-01-26. Retrieved
+2019-07-03.
+17. Hanukoglu, Israel; Fuchs, Elaine (July 1983). "The cDNA sequence of a type II cytoskeletal
+keratin reveals constant and variable structural domains among keratins" (https://zenodo.org/
+record/890739). Cell. 33 (3): 915–924. doi:10.1016/0092-8674(83)90034-x (https://doi.org/1
+0.1016%2F0092-8674%2883%2990034-x). PMID 6191871 (https://pubmed.ncbi.nlm.nih.go
+v/6191871). S2CID 21490380 (https://api.semanticscholar.org/CorpusID:21490380).
+Archived (https://web.archive.org/web/20210126060600/https://zenodo.org/record/890739)
+from the original on 2021-01-26. Retrieved 2019-07-03.
+18. Lee, Chang-Hun; Kim, Min-Sung; Chung, Byung Min; Leahy, Daniel J; Coulombe, Pierre A
+(July 2012). "Structural basis for heteromeric assembly and perinuclear organization of
+keratin filaments" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864793). Nature
+Structural & Molecular Biology. 19 (7): 707–715. doi:10.1038/nsmb.2330 (https://doi.org/10.1
+038%2Fnsmb.2330). PMC 3864793 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC386479
+3). PMID 22705788 (https://pubmed.ncbi.nlm.nih.gov/22705788).
+19. "Type II Keratin - an overview | ScienceDirect Topics" (https://www.sciencedirect.com/topics/
+biochemistry-genetics-and-molecular-biology/type-ii-keratin#:~:text=Type%20I%20(acidic)%
+20keratins%20are,types%20I%20and%20II%20keratins.). www.sciencedirect.com. Archived
+(https://web.archive.org/web/20230328193415/https://www.sciencedirect.com/topics/bioche
+mistry-genetics-and-molecular-biology/type-ii-keratin#:~:text=Type%20I%20(acidic)%20kerat
+ins%20are,types%20I%20and%20II%20keratins.) from the original on 2023-03-28. Retrieved
+2023-03-28.
+20. Voet, Donald; Voet, Judith G.; Pratt, Charlotte W. (1998). "Proteins: Three-Dimensional
+Structure" (http://biochem118.stanford.edu/Papers/Protein%20Papers/Voet%26Voet%20cha
+pter6.pdf) (PDF). Fundamentals of Biochemistry. Wiley. p. 158. ISBN 978-0-471-58650-0.
+Archived (https://web.archive.org/web/20060917080333/http://biochem118.stanford.edu/Pap
+ers/Protein%20Papers/Voet%26Voet%20chapter6.pdf) (PDF) from the original on 2006-09-
+17. "Fibrous proteins are characterized by a single type of secondary structure: a keratin is a
+left-handed coil of two a helices"
+21. Hanukoglu, Israel; Ezra, Liora (January 2014). "Proteopedia entry: Coiled-coil structure of
+keratins: Multimedia in Biochemistry and Molecular Biology Education" (https://doi.org/10.10
+02%2Fbmb.20746). Biochemistry and Molecular Biology Education. 42 (1): 93–94.
+doi:10.1002/bmb.20746 (https://doi.org/10.1002%2Fbmb.20746). PMID 24265184 (https://pu
+bmed.ncbi.nlm.nih.gov/24265184). S2CID 30720797 (https://api.semanticscholar.org/Corpus
+ID:30720797).
+22. "Secondary Protein" (https://web.archive.org/web/20100922111144/http://elmhurst.edu/~ch
+m/vchembook/566secprotein.html). Elmhurst.edu. Archived from the original (http://elmhurst.
+edu/~chm/vchembook/566secprotein.html) on 2010-09-22. Retrieved 2010-09-23.
+23. "What is Keratin?" (http://www.wisegeek.org/what-is-keratin.htm). WiseGEEK. Archived (http
+s://web.archive.org/web/20140513010609/http://www.wisegeek.org/what-is-keratin.htm) from
+the original on 13 May 2014. Retrieved 11 May 2014.
+24. H Bragulla, Hermann; G Homberger, Dominique (2009). "Structure and functions of keratin
+proteins in simple, stratified, keratinized and cornified epithelia" (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC2736122). Journal of Anatomy. 214 (4): 516–559. doi:10.1111/j.1469-
+7580.2009.01066.x (https://doi.org/10.1111%2Fj.1469-7580.2009.01066.x). PMC 2736122
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2736122). PMID 19422428 (https://pubmed.n
+cbi.nlm.nih.gov/19422428).
+25. Leichner, C; Jelkmann, M; Bernkop-Schnürch, A (2019). "Thiolated polymers: Bioinspired
+polymers utilizing one of the most important bridging structures in nature". Adv Drug Deliv
+Rev. 151–152: 191–221. doi:10.1016/j.addr.2019.04.007 (https://doi.org/10.1016%2Fj.addr.2
+019.04.007). PMID 31028759 (https://pubmed.ncbi.nlm.nih.gov/31028759).
+S2CID 135464452 (https://api.semanticscholar.org/CorpusID:135464452).
+26. Hawkins, G; Afriat, IR; Xavier, JH; Popescu, LC (2011). "Cosmetic compositions containing
+thiomers for hair color retention". Us20110229430A1.
+27. Grießinger, JA; Bonengel, S; Partenhauser, A; Ijaz, M; Bernkop-Schnürch, A (2017).
+"Thiolated polymers: Evaluation of their potential as dermoadhesive excipients". Drug Dev.
+Ind. Pharm. 43 (2): 204–212. doi:10.1080/03639045.2016.1231809 (https://doi.org/10.1080%
+2F03639045.2016.1231809). PMID 27585266 (https://pubmed.ncbi.nlm.nih.gov/27585266).
+S2CID 19045608 (https://api.semanticscholar.org/CorpusID:19045608).
+28. Partenhauser, A; Zupančič, O; Rohrer, J; Bonengel, S; Bernkop-Schnürch, A (2015).
+"Thiolated silicone oils as adhesive skin protectants for improved barrier function". Int. J.
+Cosm. Sci. 38 (3): 257–265. doi:10.1111/ics.12284 (https://doi.org/10.1111%2Fics.12284).
+PMID 26444859 (https://pubmed.ncbi.nlm.nih.gov/26444859). S2CID 38357104 (https://api.s
+emanticscholar.org/CorpusID:38357104).
+29. Le-Vinh, B; Steinbring, C; Nguyen Le, NM; Matuszczak, B; Bernkop-Schnürch, A (2023). "S-
+Protected thiolated chitosan versus thiolated chitosan as cell adhesive biomaterials for
+tissue engineering" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10472333). ACS Appl
+Mater Interfaces. 15 (34): 40304–40316. doi:10.1021/acsami.3c09337 (https://doi.org/10.102
+1%2Facsami.3c09337). PMC 10472333 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC104
+72333). PMID 37594415 (https://pubmed.ncbi.nlm.nih.gov/37594415).
+30. Australia. "Spiders – Silk structure" (https://web.archive.org/web/20090508161836/http://ww
+w.amonline.net.au/spiders/toolkit/silk/structure.htm). Amonline.net.au. Archived from the
+original (http://www.amonline.net.au/spiders/toolkit/silk/structure.htm) on 2009-05-08.
+Retrieved 2010-09-23.
+31. Shiratsuchi, Hideki; Saito, Tsuyoshi; Sakamoto, Akio; Itakura, Eijun; Tamiya, Sadafumi;
+Oshiro, Yumi; Oda, Yoshinao; Toh, Satoshi; Komiyama, Sohtaro; Tsuneyoshi, Masazumi
+(February 2002). "Mutation Analysis of Human Cytokeratin 8 Gene in Malignant Rhabdoid
+Tumor: A Possible Association with Intracytoplasmic Inclusion Body Formation" (https://doi.or
+g/10.1038%2Fmodpathol.3880506). Modern Pathology. 15 (2): 146–153.
+doi:10.1038/modpathol.3880506 (https://doi.org/10.1038%2Fmodpathol.3880506).
+PMID 11850543 (https://pubmed.ncbi.nlm.nih.gov/11850543).
+32. Itakura, Eijun; Tamiya, Sadafumi; Morita, Keisuke; Shiratsuchi, Hideki; Kinoshita, Yoshiaki;
+Oshiro, Yumi; Oda, Yoshinao; Ohta, Shigeru; Furue, Masutaka; Tsuneyoshi, Masazumi
+(September 2001). "Subcellular Distribution of Cytokeratin and Vimentin in Malignant
+Rhabdoid Tumor: Three-Dimensional Imaging with Confocal Laser Scanning Microscopy
+and Double Immunofluorescence" (https://doi.org/10.1038%2Fmodpathol.3880401). Modern
+Pathology. 14 (9): 854–861. doi:10.1038/modpathol.3880401 (https://doi.org/10.1038%2Fmo
+dpathol.3880401). PMID 11557780 (https://pubmed.ncbi.nlm.nih.gov/11557780).
+33. Mercer, Derry K; Stewart, Colin S (1 January 2019). "Keratin hydrolysis by dermatophytes".
+Medical Mycology. 57 (1): 13–22. doi:10.1093/mmy/myx160 (https://doi.org/10.1093%2Fmm
+y%2Fmyx160). PMID 29361043 (https://pubmed.ncbi.nlm.nih.gov/29361043).
+34. Omary, M. Bishr; Ku, Nam-On; Strnad, Pavel; Hanada, Shinichiro (1 July 2009). "Toward
+unraveling the complexity of simple epithelial keratins in human disease" (https://www.ncbi.n
+lm.nih.gov/pmc/articles/PMC2701867). Journal of Clinical Investigation. 119 (7): 1794–1805.
+doi:10.1172/JCI37762 (https://doi.org/10.1172%2FJCI37762). PMC 2701867 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC2701867). PMID 19587454 (https://pubmed.ncbi.nlm.nih.go
+v/19587454).
+Composition and β-sheet structure of silk (https://web.archive.org/web/20060220123505/htt
+p://www.elmhurst.edu/~chm/vchembook/566secprotein.html)
+Hair-Science.com's entry on the microscopic elements of hair (https://web.archive.org/web/2
+0060113171639/http://www.hair-science.com/_int/_en/topic/topic_sousrub.aspx?tc=ROOT-H
+AIR-SCIENCE%5EPORTRAIT-OF-AN-UNKNOWN-ELEMENT%5ESUPERB-CHEMISTRY
+&cur=SUPERB-CHEMISTRY)
+Proteopedia page on keratins (http://www.proteopedia.org/w/Keratins)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Keratin&oldid=1224915346"
+External links

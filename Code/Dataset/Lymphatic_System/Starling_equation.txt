@@ -1,0 +1,236 @@
+Starling equation
+The Starling principle holds that extracellular fluid movements between blood and tissues are determined
+by differences in hydrostatic pressure and colloid osmotic (oncotic) pressure between plasma inside
+microvessels and interstitial fluid outside them. The Starling Equation, proposed many years after the death
+of Starling, describes that relationship in mathematical form and can be applied to many biological and non-
+biological semipermeable membranes. The classic Starling principle and the equation that describes it have
+in recent years been revised and extended.
+Every day around 8 litres of water (solvent) containing a variety of small molecules (solutes) leaves the
+blood stream of an adult human and perfuses the cells of the various body tissues. Interstitial fluid drains by
+afferent lymph vessels to one of the regional lymph node groups, where around 4 litres per day is
+reabsorbed to the blood stream. The remainder of the lymphatic fluid is rich in proteins and other large
+molecules and rejoins the blood stream via the thoracic duct which empties into the great veins close to the
+heart.[1] Filtration from plasma to interstitial (or tissue) fluid occurs in microvascular capillaries and post-
+capillary venules. In most tissues the micro vessels are invested with a continuous internal surface layer that
+includes a fibre matrix now known as the endothelial glycocalyx whose interpolymer spaces function as a
+system of small pores, radius circa 5 nm. Where the endothelial glycocalyx overlies a gap in the junction
+molecules that bind endothelial cells together (inter endothelial cell cleft), the plasma ultrafiltrate may pass to
+the interstitial space, leaving larger molecules reflected back into the plasma.
+A small number of continuous capillaries are specialised to absorb solvent and solutes from interstitial fluid
+back into the blood stream through fenestrations in endothelial cells, but the volume of solvent absorbed
+every day is small.
+Discontinuous capillaries as found in sinusoidal tissues of bone marrow, liver and spleen have little or no
+filter function.
+The rate at which fluid is filtered across vascular endothelium (transendothelial filtration) is determined by
+the sum of two outward forces, capillary pressure (
+) and interstitial protein osmotic pressure (
+), and
+two absorptive forces, plasma protein osmotic pressure (
+) and interstitial pressure (
+). The Starling
+equation describes these forces in mathematical terms. It is one of the Kedem–Katchalski equations which
+bring nonsteady state thermodynamics to the theory of osmotic pressure across membranes that are at least
+partly permeable to the solute responsible for the osmotic pressure difference.[2][3] The second Kedem–
+Katchalsky equation explains the trans endothelial transport of solutes, 
+.
+The classic Starling equation reads as follows:[4]
+where:
+ is the trans endothelial solvent filtration volume per second (SI units of m3·s−1).
+The equation
+Diagram of the classic Starling model; the arteriole is
+shown in red on the left, and the venule in purple on the
+right. Note that the concentration of interstitial solutes
+(orange) increases proportionally to the distance from the
+arteriole.
+ is the net
+driving force (SI units of Pa =
+kg·m−1·s−2, often expressed as
+mmHg),
+ is the capillary hydrostatic
+pressure
+ is the interstitial hydrostatic
+pressure
+ is the plasma protein oncotic
+pressure
+ is the interstitial oncotic
+pressure
+ is the hydraulic conductivity of
+the membrane (SI units of
+m2·s·kg−1, equivalent to
+m·s−1·mmHg−1)
+ is the surface area for filtration (SI units of m2)
+the product 
+·  is defined as the filtration coefficient (SI units of m4·s·kg−1, or
+equivalently in m3·s−1·mmHg−1)
+ is Staverman's reflection coefficient (adimensional)
+By convention, outward force is defined as positive, and inward force is defined as negative. If Jv is
+positive, solvent is leaving the capillary (filtration). If negative, solvent is entering the capillary (absorption).
+Applying the classic Starling equation, it had long been taught that continuous capillaries filter out fluid in
+their arteriolar section and reabsorb most of it in their venular section, as shown by the diagram.[4]
+However, empirical evidence shows that, in most tissues, the flux of the intraluminal fluid of capillaries is
+continuous and, primarily, effluent. Efflux occurs along the whole length of a capillary. Fluid filtered to the
+space outside a capillary is mostly returned to the circulation via lymph nodes and the thoracic duct.[5]
+A mechanism for this phenomenon is the Michel-Weinbaum model, in honour of two scientists who,
+independently, described the filtration function of the glycocalyx. Briefly, the colloid osmotic pressure πi of
+the interstitial fluid has been found to have no effect on Jv and the colloid osmotic pressure difference that
+opposes filtration is now known to be π'p minus the subglycocalyx π, which is close to zero while there is
+adequate filtration to flush interstitial proteins out of the interendothelial cleft. Consequently, Jv is much less
+than previously calculated, and the unopposed diffusion of interstitial proteins to the subglycocalyx space if
+and when filtration falls wipes out the colloid osmotic pressure difference necessary for reabsorption of fluid
+to the capillary.[4]
+The revised Starling equation is compatible with the steady-state Starling principle:
+where:
+ is the trans endothelial solvent filtration volume per second.
+ is the net driving force,
+ is the capillary hydrostatic pressure
+ is the interstitial hydrostatic pressure
+ is the plasma protein oncotic pressure
+ is the subglycocalyx oncotic pressure
+ is the hydraulic conductivity of the membrane
+ is the surface area for filtration
+ is Staverman's reflection coefficient
+Pressures are often measured in millimetres of mercury (mmHg), and the filtration coefficient in millilitres
+per minute per millimetre of mercury (ml·min−1·mmHg−1).
+In some texts the product of hydraulic conductivity and surface area is called the filtration co-efficient Kfc.
+Staverman's reflection coefficient, σ, is a unitless constant that is specific to the permeability of a membrane
+to a given solute.[6]
+The Starling equation, written without σ, describes the flow of a solvent across a membrane that is
+impermeable to the solutes contained within the solution.[7]
+σn corrects for the partial permeability of a semipermeable membrane to a solute n.[7]
+Where σ is close to 1, the plasma membrane is less permeable to the denotated species (for example, larger
+molecules such as albumin and other plasma proteins), which may flow across the endothelial lining, from
+higher to lower concentrations, more slowly, while allowing water and smaller solutes through the
+glycocalyx filter to the extravascular space.[7]
+Glomerular capillaries have a reflection coefficient close to 1 as normally no protein crosses
+into the glomerular filtrate.
+In contrast, hepatic sinusoids have no reflection coefficient as they are fully permeable to
+protein. Hepatic interstitial fluid within the Space of Diss has the same colloid osmotic
+pressure as plasma and so hepatocyte synthesis of albumin can be regulated. Albumin and
+other proteins in the interstitial spaces return to the circulation via lymph.[8]
+Following are typically quoted values for the variables in the classic Starling equation:
+Location
+Pc (mmHg)[9]
+Pi (mmHg)[9]
+σπc (mmHg)[9]
+σπi (mmHg)[9]
+arteriolar end of capillary
++35
+−2
++28
++0.1
+venular end of capillary
++15
+−2
++28
++3
+It is reasoned that some albumin escapes from the capillaries and enters the interstitial fluid where it would
+produce a flow of water equivalent to that produced by a hydrostatic pressure of +3 mmHg. Thus, the
+difference in protein concentration would produce a flow of fluid into the vessel at the venous end
+Filtration coefficient
+Reflection coefficient
+Approximated values
+equivalent to 28 − 3 = 25 mmHg of hydrostatic pressure. The total oncotic pressure present at the venous
+end could be considered as +25 mmHg.
+In the beginning (arteriolar end) of a capillary, there is a net driving force (
+)
+outwards from the capillary of +9 mmHg. In the end (venular end), on the other hand, there is a net driving
+force of −8 mmHg.
+Assuming that the net driving force declines linearly, then there is a mean net driving force outwards from
+the capillary as a whole, which also results in that more fluid exits a capillary than re-enters it. The
+lymphatic system drains this excess.
+J. Rodney Levick argues in his textbook that the interstitial force is often underestimated, and measurements
+used to populate the revised Starling equation show the absorbing forces to be consistently less than
+capillary or venular pressures.
+Glomerular capillaries have a continuous glycocalyx layer in health and the total transendothelial filtration
+rate of solvent (
+) to the renal tubules is normally around 125 ml/ min (about 180 litres/ day). Glomerular
+capillary 
+ is more familiarly known as the glomerular filtration rate (GFR). In the rest of the body's
+capillaries, 
+ is typically 5 ml/ min (around 8 litres/ day), and the fluid is returned to the circulation via
+afferent and efferent lymphatics.
+The Starling equation can describe the movement of fluid from pulmonary capillaries to the alveolar air
+space.[10][11]
+Woodcock and Woodcock showed in 2012 that the revised Starling equation (steady-state Starling
+principle) provides scientific explanations for clinical observations concerning intravenous fluid therapy.[12]
+Traditional teaching of both filtration and absorption of fluid occurring in a single capillary has been
+superseded by the concept of a vital circulation of extracellular fluid running parallel to the circulation of
+blood. New approaches to the treatment of oedema (tissue swelling) are suggested.
+Specific organs
+Kidneys
+Lungs
+Clinical significance
+History
+The Starling equation is named for the British physiologist Ernest Starling, who is also recognised for the
+Frank–Starling law of the heart.[13] Starling can be credited with identifying that the "absorption of isotonic
+salt solutions (from the extravascular space) by the blood vessels is determined by this osmotic pressure of
+the serum proteins" in 1896.[13]
+Renal function
+1. Herring, Neil (2018). Levick's Introduction to Cardiovascular Physiology. 5th edition (6th ed.).
+London: CRC Press. pp. 149–213. ISBN 978-1498739849.
+2. Staverman, A. J. (1951). "The theory of measurement of osmotic pressure" (https://onlinelibra
+ry.wiley.com/doi/abs/10.1002/recl.19510700409). Recueil des Travaux Chimiques des Pays-
+Bas. 70 (4): 344–352. doi:10.1002/recl.19510700409 (https://doi.org/10.1002%2Frecl.19510
+700409). ISSN 0165-0513 (https://www.worldcat.org/issn/0165-0513).
+3. Kedem, O.; Katchalsky, A. (February 1958). "Thermodynamic analysis of the permeability of
+biological membranes to non-electrolytes" (https://dx.doi.org/10.1016%2F0006-3002%285
+8%2990330-5). Biochimica et Biophysica Acta. 27 (2): 229–246. doi:10.1016/0006-
+3002(58)90330-5 (https://doi.org/10.1016%2F0006-3002%2858%2990330-5). ISSN 0006-
+3002 (https://www.worldcat.org/issn/0006-3002). PMID 13522722 (https://pubmed.ncbi.nlm.n
+ih.gov/13522722).
+4. Levick, J R (2004-06-15). "Revision of the Starling principle: new views of tissue fluid
+balance" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1665155). The Journal of
+Physiology. 557 (Pt 3): 704. doi:10.1113/jphysiol.2004.066118 (https://doi.org/10.1113%2Fjp
+hysiol.2004.066118). ISSN 0022-3751 (https://www.worldcat.org/issn/0022-3751).
+PMC 1665155 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1665155). PMID 15131237 (h
+ttps://pubmed.ncbi.nlm.nih.gov/15131237).
+5. Levick, J.R.; Michel, C.C. (2010). "Microvascular fluid exchange and the revised Starling
+principle". Cardiovasc Res. 87 (2): 198–210. doi:10.1093/cvr/cvq062 (https://doi.org/10.109
+3%2Fcvr%2Fcvq062). PMID 20200043 (https://pubmed.ncbi.nlm.nih.gov/20200043).
+6. Zelman, A. (1972-04-01). "Membrane Permeability: Generalization of the Reflection
+Coefficient Method of Describing Volume and Solute Flows" (https://www.ncbi.nlm.nih.gov/p
+mc/articles/PMC1484119). Biophysical Journal. 12 (4): 414–419.
+Bibcode:1972BpJ....12..414Z (https://ui.adsabs.harvard.edu/abs/1972BpJ....12..414Z).
+doi:10.1016/S0006-3495(72)86093-4 (https://doi.org/10.1016%2FS0006-3495%2872%2986
+093-4). ISSN 0006-3495 (https://www.worldcat.org/issn/0006-3495). PMC 1484119 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC1484119). PMID 5019478 (https://pubmed.ncbi.nlm.ni
+h.gov/5019478).
+7. Michel, C. Charles; Woodcock, Thomas E.; Curry, Fitz-Roy E. (2020). "Understanding and
+extending the Starling principle" (https://doi.org/10.1111%2Faas.13603). Acta
+Anaesthesiologica Scandinavica. 64 (8): 1032–1037. doi:10.1111/aas.13603 (https://doi.org/
+10.1111%2Faas.13603). ISSN 1399-6576 (https://www.worldcat.org/issn/1399-6576).
+PMID 32270491 (https://pubmed.ncbi.nlm.nih.gov/32270491).
+8. Lautt, W. Wayne (April 7, 2009). Fluid Exchange (https://www.ncbi.nlm.nih.gov/books/NBK53
+070/). Morgan & Claypool Life Sciences – via www.ncbi.nlm.nih.gov.
+9. Boron, Walter F. (2005). Medical Physiology: A Cellular And Molecular Approaoch.
+Elsevier/Saunders. ISBN 978-1-4160-2328-9.
+See also
+References
+10. Pal, Pramod K.; Chen, Robert (2014-01-01), Aminoff, Michael J.; Josephson, S. Andrew
+(eds.), "Chapter 1 - Breathing and the Nervous System" (http://www.sciencedirect.com/scien
+ce/article/pii/B9780124077102000011), Aminoff's Neurology and General Medicine (Fifth
+Edition), Boston: Academic Press, pp. 3–23, doi:10.1016/b978-0-12-407710-2.00001-1 (http
+s://doi.org/10.1016%2Fb978-0-12-407710-2.00001-1), ISBN 978-0-12-407710-2,
+S2CID 56748572 (https://api.semanticscholar.org/CorpusID:56748572), retrieved
+2020-11-28
+11. Nadon, A. S.; Schmidt, E. P. (2014-01-01), McManus, Linda M.; Mitchell, Richard N. (eds.),
+"Pathobiology of the Acute Respiratory Distress Syndrome" (http://www.sciencedirect.com/sc
+ience/article/pii/B9780123864567053090), Pathobiology of Human Disease, San Diego:
+Academic Press, pp. 2665–2676, doi:10.1016/b978-0-12-386456-7.05309-0 (https://doi.org/1
+0.1016%2Fb978-0-12-386456-7.05309-0), ISBN 978-0-12-386457-4, retrieved 2020-11-28
+12. Woodcock, T. E.; Woodcock, T. M. (29 January 2012). "Revised Starling equation and the
+glycocalyx model of transvascular fluid exchange: an improved paradigm for prescribing
+intravenous fluid therapy" (https://doi.org/10.1093%2Fbja%2Faer515). British Journal of
+Anaesthesia. 108 (3): 384–394. doi:10.1093/bja/aer515 (https://doi.org/10.1093%2Fbja%2Fa
+er515). PMID 22290457 (https://pubmed.ncbi.nlm.nih.gov/22290457).
+13. Starling, Ernest H. (1896-05-05). "On the Absorption of Fluids from the Connective Tissue
+Spaces" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1512609). The Journal of
+Physiology. 19 (4): 312–326. doi:10.1113/jphysiol.1896.sp000596 (https://doi.org/10.1113%
+2Fjphysiol.1896.sp000596). PMC 1512609 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
+512609). PMID 16992325 (https://pubmed.ncbi.nlm.nih.gov/16992325).
+Derangedphysiology.com: Starling's Principle of Transvascular Fluid Dynamics Starling's
+principle of transvascular fluid dynamics | Deranged Physiology (https://derangedphysiology.
+com/main/cicm-primary-exam/required-reading/cardiovascular-system/Chapter%20471/starli
+ng-forces-and-fluid-exchange-microcirculation)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Starling_equation&oldid=1210437414"
+External links

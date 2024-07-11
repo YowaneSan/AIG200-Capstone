@@ -1,0 +1,100 @@
+Nostril
+Human nostrils
+Details
+Part of
+Nose
+System Olfactory system
+Identifiers
+Latin
+naris
+TA98
+A06.1.02.002 (https://ifaa.unif
+r.ch/Public/EntryPage/TA98%
+20Tree/Entity%20TA98%20E
+N/06.1.02.002%20Entity%20T
+A98%20EN.htm)
+TA2
+3166 (https://ta2viewer.opena
+natomy.org/?id=3166)
+FMA
+72005 (https://bioportal.bioont
+ology.org/ontologies/FMA/?p=
+classes&conceptid=http%3A%
+2F%2Fpurl.org%2Fsig%2Fon
+t%2Ffma%2Ffma72005)
+Anatomical terminology
+Nostril
+A nostril (or naris /ˈnɛərɪs/, pl.: nares /ˈnɛəriːz/) is either of the
+two orifices of the nose. They enable the entry and exit of air
+and other gasses through the nasal cavities. In birds and
+mammals, they contain branched bones or cartilages called
+turbinates, whose function is to warm air on inhalation and
+remove moisture on exhalation. Fish do not breathe through
+noses, but they do have two small holes used for smelling,
+which can also be referred to as nostrils (with the exception of
+Cyclostomi, which have just one nostril).
+In humans, the nasal cycle is the normal ultradian cycle of each
+nostril's blood vessels becoming engorged in swelling, then
+shrinking.
+The nostrils are separated by the septum. The septum can
+sometimes be deviated, causing one nostril to appear larger than
+the other. With extreme damage to the septum and columella,
+the two nostrils are no longer separated and form a single larger
+external opening.
+Like other tetrapods, humans have two external nostrils
+(anterior nares) and two additional nostrils at the back of the
+nasal cavity, inside the head (posterior nares, posterior nasal
+apertures or choanae). They also connect the nose to the throat
+(the nasopharynx), aiding in respiration. Though all four
+nostrils were on the outside of the head of the aquatic ancestors
+of modern tetrapods, the nostrils for outgoing water (excurrent
+nostrils) migrated to the inside of the mouth, as evidenced by
+the discovery of Kenichthys campbelli, a 395-million-year-old
+fossilized fish which shows this migration in progress. It has
+two nostrils between its front teeth, similar to human embryos at
+an early stage. If these fail to join up, the result is a cleft
+palate.[1]
+Each external nostril contains approximately 1,000 strands of
+nasal hair, which function to filter foreign particles such as
+pollen and dust.[2]
+It is possible for humans to smell different olfactory inputs in the two nostrils and experience a perceptual
+rivalry akin to that of binocular rivalry when there are two different inputs to the two eyes.[3] Furthermore,
+scent information from the two nostrils leads to two types of neural activity[4] with the first cycle
+corresponding to the ipsilateral and the second cycle corresponding to the contralateral odor representations.
+The Procellariiformes are distinguished from other birds by having tubular extensions of their nostrils.
+Widely-spaced nostrils, like those of the hammerhead shark, may be useful in determining the direction of
+an odour's source.[5][6]
+Dilator naris muscle
+Nasal cycle
+1. Lloyd, John; Mitchinson, John (2008). The Book of General Ignorance (https://books.google.c
+om/books?id=4AhXPgAACAAJ). London: Faber and Faber. pp. 2, 299. ISBN 978-0-571-
+24139-2. OCLC 191753333 (https://www.worldcat.org/oclc/191753333). Retrieved 16 July
+2011.
+2. Blume-Peytavi, Ulrike; Whiting, David A.; Trüeb, Ralph M. (2008). Hair Growth and
+Disorders. Berlin: Springer. p. 10. ISBN 978-3540469087.
+3. Zhou, Wen; Chen, Denise (29 September 2009). "Binaral rivalry between the nostrils and in
+the cortex" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901510). Current Biology. 19
+(18): 1561–5. doi:10.1016/j.cub.2009.07.052 (https://doi.org/10.1016%2Fj.cub.2009.07.052).
+PMC 2901510 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901510). PMID 19699095 (h
+ttps://pubmed.ncbi.nlm.nih.gov/19699095).
+4. Dikeçligil, Gülce Nazlı; Yang, Andrew I.; Sanghani, Nisha; Lucas, Timothy; Chen, H. Isaac;
+Davis, Kathryn A.; Gottfried, Jay A. (November 2023). "Odor representations from the two
+nostrils are temporally segregated in human piriform cortex" (https://linkinghub.elsevier.com/r
+etrieve/pii/S0960982223013799). Current Biology. doi:10.1016/j.cub.2023.10.021 (https://do
+i.org/10.1016%2Fj.cub.2023.10.021). PMC 9948982 (https://www.ncbi.nlm.nih.gov/pmc/articl
+es/PMC9948982).
+5. Gardiner, Jayne M.; Atema, Jelle (July 2010). "The Function of Bilateral Odor Arrival Time
+Differences in Olfactory Orientation of Sharks" (https://doi.org/10.1016%2Fj.cub.2010.04.05
+3). Current Biology. 20 (13): 1187–1191. doi:10.1016/j.cub.2010.04.053 (https://doi.org/10.10
+16%2Fj.cub.2010.04.053). PMID 20541411 (https://pubmed.ncbi.nlm.nih.gov/20541411).
+S2CID 13530789 (https://api.semanticscholar.org/CorpusID:13530789).
+6. "Cell Culture" (https://doi.org/10.1016%2Fj.cell.2010.08.009). Cell. 142 (4): 501–503. August
+2010. doi:10.1016/j.cell.2010.08.009 (https://doi.org/10.1016%2Fj.cell.2010.08.009).
+S2CID 357010 (https://api.semanticscholar.org/CorpusID:357010).
+"nares" (https://web.archive.org/web/20090628224336/http://www.mercksource.com/pp/us/c
+ns/cns_hl_dorlands_split.jsp?pg=/ppdocs/us/common/dorlands/dorland/six/000070199.htm)
+at Dorland's Medical Dictionary
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nostril&oldid=1223610567"
+See also
+References
+External links

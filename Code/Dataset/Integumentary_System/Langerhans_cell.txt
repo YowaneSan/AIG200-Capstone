@@ -1,0 +1,310 @@
+Langerhans cell
+Section of skin showing large numbers
+of Langerhans cells in the epidermis.
+(M. ulcerans infection, S100
+immunoperoxidase stain.)
+Details
+System
+Immune system
+Location Skin and mucosa
+Function Dendritic cell
+Identifiers
+MeSH
+D007801 (https://meshb.nl
+m.nih.gov/record/ui?ui=D00
+7801)
+FMA
+63072 (https://bioportal.bioo
+ntology.org/ontologies/FM
+A/?p=classes&conceptid=htt
+p%3A%2F%2Fpurl.org%2F
+sig%2Font%2Ffma%2Ffma
+63072)
+Anatomical terms of microanatomy
+Langerhans cell
+A Langerhans cell (LC) is a tissue-resident macrophage of the
+skin[2] once thought to be a resident dendritic cell.[3] These
+cells contain organelles called Birbeck granules. They are
+present in all layers of the epidermis and are most prominent in
+the stratum spinosum.[4] They also occur in the papillary
+dermis, particularly around blood vessels,[4] as well as in the
+mucosa of the mouth, foreskin, and vaginal epithelium.[5] They
+can be found in other tissues, such as lymph nodes, particularly
+in association with the condition Langerhans cell histiocytosis
+(LCH).
+In skin infections, the local Langerhans cells take up and
+process microbial antigens to become fully functional antigen-
+presenting cells.[6]
+Generally, tissue-resident macrophages are involved in immune
+homeostasis and the uptake of apoptotic bodies. However,
+Langerhans cells can also take on a dendritic cell-like
+phenotype and migrate to lymph nodes to interact with naive T-
+cells.
+Langerhans cells derive from primitive erythro-myeloid
+progenitors that arise in the yolk sac outside the embryo in the
+first trimester of pregnancy, and under normal circumstances
+persist throughout life, being replenished by local proliferation
+as necessary. If the skin becomes severely inflamed, perhaps
+because of infection, blood monocytes are recruited to the
+affected region and differentiate into replacement LCs.[7]
+Langerin is a protein found in Langerhans cells,[8] and dendritic
+cells.[9]
+LCs contain a large amount of cannabinoid receptor type 2 (CB2), that by activation by agonists, attenuate
+both the recruitment of eosinophils and ear swelling in chronic contact dermatitis induced by repeated
+challenge.[10]
+Function
+Clinical significance
+Langerhans cell histiocytosis
+The representation of Langerhans cells in the Cell
+Ontology. A portion of the Cell Ontology is shown
+with ovals corresponding to cell types defined in
+the ontology and arrows corresponding to relations
+between those cell types. Langerhans cell is
+represented by a yellow oval; blue arrows
+correspond to is_a relations, and orange arrows
+correspond to develops_from relations. Only a
+subset of Langerhans cell parent types are
+included in the figure.[1]
+In the rare disease Langerhans cell histiocytosis
+(LCH), an excess of cells similar to these cells are
+produced. However LCH cells stain positive to CD14
+which is a monocyte marker and shows a different,
+hematopoietic origin for the disorder.[11] LCH can
+cause damage to skin, bone and other organs.
+Langerhans cells may be initial cellular targets in the
+sexual transmission of HIV,[12] and may be a target,
+reservoir, and vector of dissemination.[13] Langerhans
+cells have been observed in foreskin, vaginal, and oral
+mucosa of humans; the lower concentrations in oral
+mucosa suggest that it is not a likely source of HIV
+infection relative to foreskin and vaginal mucosa.[5]
+High-risk human papillomaviruses (HPV) are sexually
+transmitted viruses causally associated with several
+cancers including cervical, vaginal, anal, and head and
+neck cancers that cause significant morbidity and
+mortality worldwide.[14][15][16][17] Over half of all
+cervical cancer cases are associated with HPV16, the
+most common of the cancer-causing high-risk
+genotypes.[18] During its natural life cycle, HPV16
+infects the basal cells of the epithelium and interacts
+with Langerhans cells within the epithelial layer,[19]
+which are responsible for initiating immune responses
+against epithelial invading pathogens.[20] However,
+HPV does not activate Langerhans cells in vitro, and
+this may represent a key mechanism by which HPV evades immune detection in vivo.[21][22][23][24]
+Specifically, HPV16 entry into Langerhans cells via the annexin A2/S100A10 heterotetramer results in
+suppressive signaling and lack of Langerhans cell-mediated immune responses.[25] This Langerhans cell-
+targeted immune escape mechanism seems to be conserved among different HPV genotypes enabling these
+viruses to remain undetected in the absence of other inflammatory events.[26] T cells exposed to these
+inactivated Langerhans cells are not anergic, and can be activated against HPV upon receiving the
+appropriate stimuli at a later time point.[27]
+HIV
+Human papillomavirus
+It was demonstrated that Langerhans cells in HPV-induced cervical lesions were spherical, lacked dendrites,
+and secreted the suppressive cytokine IL-10 in vivo.[28] The authors further demonstrated that the number
+of IL-10 secreting immunosuppressive Langerhans cells, and the amount of IL-10 produced in lesions,
+corresponded with the severity of histopathology and HPV viral load, providing evidence of an active
+immunosuppressive mechanism employed by HPV that targets Langerhans cells in vivo.
+Langerhans cells are also the initial target of the virus that causes dengue fever during its development.[29]
+During ageing the capacity of Langerhans cells to migrate declines.[30] This compromises immunity and
+exposes the skin to infectious diseases and cancer.
+Langerhans cells are named after Paul Langerhans, a German physician and anatomist, who discovered the
+cells at the age of 21 while he was a medical student.[31] Because of their dendrite-like appearance, he
+mistakenly identified the cells as part of the nervous system.[32]
+Langhans giant cell
+List of distinct cell types in the adult human body
+1. Masci, Anna; Arighi, Cecilia N; Diehl, Alexander D; Lieberman, Anne E; Mungall, Chris;
+Scheuermann, Richard H; Smith, Barry; Cowell, Lindsay G (2009). "An improved ontological
+representation of dendritic cells as a paradigm for all cell types" (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC2662812). BMC Bioinformatics. 10: 70. doi:10.1186/1471-2105-10-70 (htt
+ps://doi.org/10.1186%2F1471-2105-10-70). PMC 2662812 (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC2662812). PMID 19243617 (https://pubmed.ncbi.nlm.nih.gov/19243617).
+2. Doebel, T.; Voisin, B.; Nagao, K. (2017). "Langerhans Cells – The Macrophage in Dendritic
+Cell Clothing" (https://pubmed.ncbi.nlm.nih.gov/28720426/). Trends in Immunology. 38 (11):
+817–828. doi:10.1016/j.it.2017.06.008 (https://doi.org/10.1016%2Fj.it.2017.06.008).
+PMID 28720426 (https://pubmed.ncbi.nlm.nih.gov/28720426).
+3. "MeSH Browser" (https://meshb.nlm.nih.gov/record/ui?ui=D007801).
+4. Young, Barbara; Heath, John W. (2000). Wheater's Functional Histology (4th ed.). Churchill
+Livingstone. p. 162. ISBN 0-443-05612-9.
+5. Hussain, LA; Lehner, T (1995). "Comparative investigation of Langerhans' cells and potential
+receptors for HIV in oral, genitourinary and rectal epithelia" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC1383923). Immunology. 85 (3): 475–84. PMC 1383923 (https://www.ncbi.nlm.
+nih.gov/pmc/articles/PMC1383923). PMID 7558138 (https://pubmed.ncbi.nlm.nih.gov/75581
+38).
+Dengue fever
+Declining function during ageing
+History
+See also
+References
+6. Monnot GC, Wegrecki M, Cheng TY, Chen YL, Sallee BN, Chakravarthy R, Karantza IM, Tin
+SY, Khaleel AE, Monga I, Uwakwe LN, Tillman A, Cheng B, Youssef S, Ng SW, Shahine A,
+Garcia-Vilas JA, Uhlemann AC, Bordone LA, Han A, Rohde CH, Ogg G, Moody DB,
+Rossjohn J, de Jong A (January 2023). "Staphylococcal phosphatidylglycerol antigens
+activate human T cells via CD1a" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1038925
+9). Nature Immunology. 24 (1): 110–122. doi:10.1038/s41590-022-01375-z (https://doi.org/1
+0.1038%2Fs41590-022-01375-z). PMC 10389259 (https://www.ncbi.nlm.nih.gov/pmc/article
+s/PMC10389259). PMID 35265979 (https://pubmed.ncbi.nlm.nih.gov/35265979).
+S2CID 255039948 (https://api.semanticscholar.org/CorpusID:255039948).
+7. Collin, Matthew; Milne, Paul (2016). "Langerhans cell origin and regulation" (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC4685746). Current Opinion in Hematology. 23 (1): 28–35.
+doi:10.1097/MOH.0000000000000202 (https://doi.org/10.1097%2FMOH.000000000000020
+2). PMC 4685746 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4685746).
+PMID 26554892 (https://pubmed.ncbi.nlm.nih.gov/26554892).
+8. Valladeau, Jenny; Dezutter-Dambuyant, Colette; Saeland, Sem (2003). "Langerin/CD207
+Sheds Light on Formation of Birbeck Granules and Their Possible Function in Langerhans
+Cells". Immunologic Research. 28 (2): 93–107. doi:10.1385/IR:28:2:93 (https://doi.org/10.138
+5%2FIR%3A28%3A2%3A93). PMID 14610287 (https://pubmed.ncbi.nlm.nih.gov/14610287).
+S2CID 37296843 (https://api.semanticscholar.org/CorpusID:37296843).
+9. Poulin, Lionel Franz; Henri, Sandrine; de Bovis, Béatrice; Devilard, Elisabeth;
+Kissenpfennig, Adrien; Malissen, Bernard (2007). "The dermis contains langerin+ dendritic
+cells that develop and function independently of epidermal Langerhans cells" (https://web.ar
+chive.org/web/20180719214424/https://pure.qub.ac.uk/portal/files/18113605/JEM1_2008.pd
+f) (PDF). Journal of Experimental Medicine. 204 (13): 3119–31. doi:10.1084/jem.20071724
+(https://doi.org/10.1084%2Fjem.20071724). PMC 2150992 (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC2150992). PMID 18086861 (https://pubmed.ncbi.nlm.nih.gov/18086861).
+Archived from the original (http://pure.qub.ac.uk/portal/files/18113605/JEM1_2008.pdf)
+(PDF) on 2018-07-19. Retrieved 2018-11-04.
+10. Oka, Saori (2006). "Involvement of the Cannabinoid CB2 Receptor and Its Endogenous
+Ligand 2-Arachidonoylglycerol in Oxazolone-Induced Contact Dermatitis in Mice" (https://jou
+rnals.aai.org/jimmunol/article/177/12/8796/74027/Involvement-of-the-Cannabinoid-CB2-Rec
+eptor-and). Journal of Immunology. 177 (12): 8796–9505. doi:10.4049/jimmunol.177.12.8796
+(https://doi.org/10.4049%2Fjimmunol.177.12.8796). PMID 17142782 (https://pubmed.ncbi.nl
+m.nih.gov/17142782). S2CID 11946479 (https://api.semanticscholar.org/CorpusID:1194647
+9). Retrieved 2023-03-26.
+11. "NCI Summary View > Urology - Yale School of Medicine" (https://web.archive.org/web/2019
+0617091828/https://medicine.yale.edu/urology/programs/info.aspx?id=CDR600550).
+medicine.yale.edu. Archived from the original (http://medicine.yale.edu/urology/programs/inf
+o.aspx?id=CDR600550) on 17 June 2019. Retrieved 19 April 2018.
+12. Kawamura, Tatsuyoshi; Kurtz, Stephen E.; Blauvelt, Andrew; Shimada, Shinji (2005). "The
+role of Langerhans cells in the sexual transmission of HIV". Journal of Dermatological
+Science. 40 (3): 147–55. doi:10.1016/j.jdermsci.2005.08.009 (https://doi.org/10.1016%2Fj.jd
+ermsci.2005.08.009). PMID 16226431 (https://pubmed.ncbi.nlm.nih.gov/16226431).
+13. Dezutter-Dambuyant, C; Charbonnier, AS; Schmitt, D (December 1995). "Cellules
+dendritiques épithéliales et infection par HIV-1 in vivo et in vitro" [Epithelial dendritic cells
+and HIV-1 infection in vivo and in vitro]. Pathologie Biologie (in French). 43 (10): 882–8.
+PMID 8786894 (https://pubmed.ncbi.nlm.nih.gov/8786894).
+14. Walboomers, J. M.; Jacobs, M. V.; Manos, M. M.; Bosch, F. X.; Kummer, J. A.; Shah, K. V.;
+Snijders, P. J.; Peto, J.; Meijer, C. J. (1999-09-01). "Human papillomavirus is a necessary
+cause of invasive cervical cancer worldwide". The Journal of Pathology. 189 (1): 12–19.
+doi:10.1002/(SICI)1096-9896(199909)189:1<12::AID-PATH431>3.0.CO;2-F (https://doi.org/1
+0.1002%2F%28SICI%291096-9896%28199909%29189%3A1%3C12%3A%3AAID-PATH4
+31%3E3.0.CO%3B2-F). ISSN 0022-3417 (https://www.worldcat.org/issn/0022-3417).
+PMID 10451482 (https://pubmed.ncbi.nlm.nih.gov/10451482). S2CID 1522249 (https://api.se
+manticscholar.org/CorpusID:1522249).
+15. Arbyn, M.; Castellsagué, X.; de Sanjosé, S.; Bruni, L.; Saraiya, M.; Bray, F.; Ferlay, J. (2011-
+12-01). "Worldwide burden of cervical cancer in 2008" (https://doi.org/10.1093%2Fannonc%
+2Fmdr015). Annals of Oncology. 22 (12): 2675–2686. doi:10.1093/annonc/mdr015 (https://do
+i.org/10.1093%2Fannonc%2Fmdr015). ISSN 1569-8041 (https://www.worldcat.org/issn/1569
+-8041). PMID 21471563 (https://pubmed.ncbi.nlm.nih.gov/21471563).
+16. Haedicke, Juliane; Iftner, Thomas (2013-09-01). "Human papillomaviruses and cancer" (http
+s://doi.org/10.1016%2Fj.radonc.2013.06.004). Radiotherapy and Oncology. 108 (3): 397–
+402. doi:10.1016/j.radonc.2013.06.004 (https://doi.org/10.1016%2Fj.radonc.2013.06.004).
+ISSN 1879-0887 (https://www.worldcat.org/issn/1879-0887). PMID 23830197 (https://pubme
+d.ncbi.nlm.nih.gov/23830197).
+17. HOFFMANN, MARKUS; QUABIUS, ELGAR S.; TRIBIUS, SILKE; HEBEBRAND, LENA;
+GÖRÖGH, TIBOR; HALEC, GORDANA; KAHN, TOMAS; HEDDERICH, JÜRGEN;
+RÖCKEN, CHRISTOPH (2013-05-01). "Human papillomavirus infection in head and neck
+cancer: The role of the secretory leukocyte protease inhibitor" (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC3658815). Oncology Reports. 29 (5): 1962–1968.
+doi:10.3892/or.2013.2327 (https://doi.org/10.3892%2For.2013.2327). ISSN 1021-335X (http
+s://www.worldcat.org/issn/1021-335X). PMC 3658815 (https://www.ncbi.nlm.nih.gov/pmc/arti
+cles/PMC3658815). PMID 23467841 (https://pubmed.ncbi.nlm.nih.gov/23467841).
+18. Bosch, F. X.; Manos, M. M.; Muñoz, N.; Sherman, M.; Jansen, A. M.; Peto, J.; Schiffman, M.
+H.; Moreno, V.; Kurman, R. (1995-06-07). "Prevalence of human papillomavirus in cervical
+cancer: a worldwide perspective. International biological study on cervical cancer (IBSCC)
+Study Group". Journal of the National Cancer Institute. 87 (11): 796–802.
+doi:10.1093/jnci/87.11.796 (https://doi.org/10.1093%2Fjnci%2F87.11.796). ISSN 0027-8874
+(https://www.worldcat.org/issn/0027-8874). PMID 7791229 (https://pubmed.ncbi.nlm.nih.gov/
+7791229).
+19. Stanley, M. A.; Pett, M. R.; Coleman, N. (2007-12-01). "HPV: from infection to cancer".
+Biochemical Society Transactions. 35 (Pt 6): 1456–1460. doi:10.1042/BST0351456 (https://d
+oi.org/10.1042%2FBST0351456). ISSN 0300-5127 (https://www.worldcat.org/issn/0300-512
+7). PMID 18031245 (https://pubmed.ncbi.nlm.nih.gov/18031245).
+20. Merad, Miriam; Ginhoux, Florent; Collin, Matthew (2008-12-01). "Origin, homeostasis and
+function of Langerhans cells and other langerin-expressing dendritic cells". Nature Reviews.
+Immunology. 8 (12): 935–947. doi:10.1038/nri2455 (https://doi.org/10.1038%2Fnri2455).
+ISSN 1474-1741 (https://www.worldcat.org/issn/1474-1741). PMID 19029989 (https://pubme
+d.ncbi.nlm.nih.gov/19029989). S2CID 22286432 (https://api.semanticscholar.org/CorpusID:2
+2286432).
+21. Fausch, Steven C.; Da Silva, Diane M.; Rudolf, Michael P.; Kast, W. Martin (2002-09-15).
+"Human papillomavirus virus-like particles do not activate Langerhans cells: a possible
+immune escape mechanism used by human papillomaviruses" (https://doi.org/10.4049%2Fji
+mmunol.169.6.3242). Journal of Immunology. 169 (6): 3242–3249.
+doi:10.4049/jimmunol.169.6.3242 (https://doi.org/10.4049%2Fjimmunol.169.6.3242).
+ISSN 0022-1767 (https://www.worldcat.org/issn/0022-1767). PMID 12218143 (https://pubme
+d.ncbi.nlm.nih.gov/12218143).
+22. Fausch, Steven C.; Da Silva, Diane M.; Kast, W. Martin (2003-07-01). "Differential uptake
+and cross-presentation of human papillomavirus virus-like particles by dendritic cells and
+Langerhans cells". Cancer Research. 63 (13): 3478–3482. ISSN 0008-5472 (https://www.wo
+rldcat.org/issn/0008-5472). PMID 12839929 (https://pubmed.ncbi.nlm.nih.gov/12839929).
+23. Fausch, Steven C.; Fahey, Laura M.; Da Silva, Diane M.; Kast, W. Martin (2005-06-01).
+"Human papillomavirus can escape immune recognition through Langerhans cell
+phosphoinositide 3-kinase activation" (https://doi.org/10.4049%2Fjimmunol.174.11.7172).
+Journal of Immunology. 174 (11): 7172–7178. doi:10.4049/jimmunol.174.11.7172 (https://doi.
+org/10.4049%2Fjimmunol.174.11.7172). ISSN 0022-1767 (https://www.worldcat.org/issn/002
+2-1767). PMID 15905561 (https://pubmed.ncbi.nlm.nih.gov/15905561).
+24. Fahey, Laura M.; Raff, Adam B.; Da Silva, Diane M.; Kast, W. Martin (2009-11-15). "A major
+role for the minor capsid protein of human papillomavirus type 16 in immune escape" (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC2947488). Journal of Immunology. 183 (10): 6151–
+6156. doi:10.4049/jimmunol.0902145 (https://doi.org/10.4049%2Fjimmunol.0902145).
+ISSN 1550-6606 (https://www.worldcat.org/issn/1550-6606). PMC 2947488 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC2947488). PMID 19864613 (https://pubmed.ncbi.nlm.nih.gov/
+19864613).
+25. Woodham, Andrew W.; Raff, Adam B.; Raff, Laura M.; Da Silva, Diane M.; Yan, Lisa; Skeate,
+Joseph G.; Wong, Michael K.; Lin, Yvonne G.; Kast, W. Martin (2014-05-15). "Inhibition of
+Langerhans cell maturation by human papillomavirus type 16: a novel role for the annexin
+A2 heterotetramer in immune suppression" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4
+019435). Journal of Immunology. 192 (10): 4748–4757. doi:10.4049/jimmunol.1303190 (http
+s://doi.org/10.4049%2Fjimmunol.1303190). ISSN 1550-6606 (https://www.worldcat.org/issn/
+1550-6606). PMC 4019435 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4019435).
+PMID 24719459 (https://pubmed.ncbi.nlm.nih.gov/24719459).
+26. Da Silva, Diane M.; Movius, Carly A.; Raff, Adam B.; Brand, Heike E.; Skeate, Joseph G.;
+Wong, Michael K.; Kast, W. Martin (2014-03-01). "Suppression of Langerhans cell activation
+is conserved amongst human papillomavirus α and β genotypes, but not a μ genotype" (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987942). Virology. 452–453: 279–286.
+doi:10.1016/j.virol.2014.01.031 (https://doi.org/10.1016%2Fj.virol.2014.01.031). ISSN 1096-
+0341 (https://www.worldcat.org/issn/1096-0341). PMC 3987942 (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC3987942). PMID 24606705 (https://pubmed.ncbi.nlm.nih.gov/24606705).
+27. Woodham, Andrew W.; Yan, Lisa; Skeate, Joseph G.; van der Veen, Daniel; Brand, Heike H.;
+Wong, Michael K.; Da Silva, Diane M.; Kast, W. Martin (December 2016). "T cell ignorance is
+bliss: T cells are not tolerized by Langerhans cells presenting human papillomavirus
+antigens in the absence of costimulation" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC48
+62606). Papillomavirus Research (Amsterdam, Netherlands). 2: 21–30.
+doi:10.1016/j.pvr.2016.01.002 (https://doi.org/10.1016%2Fj.pvr.2016.01.002). ISSN 2405-
+8521 (https://www.worldcat.org/issn/2405-8521). PMC 4862606 (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC4862606). PMID 27182559 (https://pubmed.ncbi.nlm.nih.gov/27182559).
+28. Prata, Thiago Theodoro Martins; Bonin, Camila Mareti; Ferreira, Alda Maria Teixeira;
+Padovani, Cacilda Tezelli Junqueira; Fernandes, Carlos Eurico Dos Santos; Machado, Ana
+Paula; Tozetti, Inês Aparecida (2015-09-01). "Local immunosuppression induced by high
+viral load of human papillomavirus: characterization of cellular phenotypes producing
+interleukin-10 in cervical neoplastic lesions" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC
+4552506). Immunology. 146 (1): 113–121. doi:10.1111/imm.12487 (https://doi.org/10.1111%
+2Fimm.12487). ISSN 1365-2567 (https://www.worldcat.org/issn/1365-2567). PMC 4552506
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4552506). PMID 26059395 (https://pubmed.n
+cbi.nlm.nih.gov/26059395).
+29. Martina BE, Koraka P, Osterhaus AD (October 2009). "Dengue virus pathogenesis: an
+integrated view". Clinical Microbiology Reviews. 22 (4): 564–81. doi:10.1128/CMR.00035-
+09. PMC 2772360. PMID 19822889.
+30. Pilkington, S; et al. (2018). "Lower levels of interleukin-1β gene expression are associated
+with impaired Langerhans' cell migration in aged human skin" (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC5721243). Immunology. 153 (1): 60–70. doi:10.1111/imm.12810 (https://do
+i.org/10.1111%2Fimm.12810). PMC 5721243 (https://www.ncbi.nlm.nih.gov/pmc/articles/PM
+C5721243). PMID 28777886 (https://pubmed.ncbi.nlm.nih.gov/28777886).
+31. Langerhans, Paul (1868). "Ueber die Nerven der menschlichen Haut" (https://zenodo.org/rec
+ord/2319860) [On the nerves of the human skin]. Archiv für pathologische Anatomie und
+Physiologie und für klinische Medicin (in German). 44 (2–3): 325–37.
+doi:10.1007/BF01959006 (https://doi.org/10.1007%2FBF01959006). S2CID 6282875 (http
+s://api.semanticscholar.org/CorpusID:6282875).
+32. Online Mendelian Inheritance in Man (OMIM): Langerhans cell histiocytosis - 604856 (https://
+omim.org/entry/604856)
+Langerhans Cell Histiocytosis (http://www.emedicine.com/derm/topic216.htm#) at eMedicine
+Illustration at trinity.edu (https://web.archive.org/web/20040127135809/http://www.trinity.edu/r
+blyston/MicroA/Lectures/L34-html/img018.jpg) at the Wayback Machine (archived January
+27, 2004)
+Brun, Scott C.; Rubin, Peter A. D. (1997). "25 year old kickboxer with progressive proptosis"
+(http://www.djo.harvard.edu/site.php?url=/physicians/gr/356). Digital Journal of
+Ophthalmology. 3 (26).
+Langerhans+Cells (https://meshb.nlm.nih.gov/record/ui?name=Langerhans+Cells) at the
+U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Langerhans_cell&oldid=1214500708"
+External links
